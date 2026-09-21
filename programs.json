@@ -1,5 +1,152 @@
 [
   {
+    "title": "Academy for iOS App Development - UT Austin",
+    "summary": "A 6-day residential academy teaching high school students to build mobile apps using Swift and Xcode, with a focus on user interface design, programming logic, and collaboration. Students must bring their own MacBook Air or Pro (13-inch or larger). Program is set to return for Summer 2027; not currently accepting applications.",
+    "location": "Austin TX",
+    "category": [
+      "Computer Science",
+      "Technology"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Entering grades 10-12 (Fall 2026); intermediate programming level required (prior experience with C++, Java, or Python)",
+    "dueDate": "Not yet announced",
+    "website": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/ios-development",
+    "region": [
+      "TX"
+    ]
+  },
+  {
+    "title": "Berkeley Summer Computer Science Academy",
+    "summary": "A two-week immersive residential program for high school students interested in computer science and AI, based on UC Berkeley's \"Beauty and Joy of Computing\" curriculum, using the visual programming language Snap! to explore core CS concepts and AI topics.",
+    "location": "Berkeley CA",
+    "category": [
+      "Computer Science",
+      "Technology"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Completed 10th or 11th grade by program start; age 16-17 by June 21, 2026; minimum 3.0 GPA; domestic and international students welcome (English proficiency required for international applicants); must live in on-campus housing",
+    "dueDate": "Not yet announced",
+    "website": "https://precollege.berkeley.edu/summer-computer-science-academy",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Academy for Game Development - UT Austin",
+    "summary": "A residential, overnight academy where high school students code their own game while exploring the creative and technical sides of game development (using Godot/GDScript), meeting UT faculty and industry professionals, and learning about career pathways.",
+    "location": "Austin TX",
+    "category": [
+      "Computer Science",
+      "Game Design",
+      "Art/Design"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Entering grades 10-12 (Fall 2026); beginner-level programming or above",
+    "dueDate": "Not yet announced",
+    "website": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/game-development",
+    "region": [
+      "TX"
+    ]
+  },
+  {
+    "title": "AI & Health Summer High School Bootcamp - MIT Jameel Clinic",
+    "summary": "A one-week, in-person bootcamp introducing high school students to artificial intelligence and machine learning methods used in clinical AI and drug discovery, through daily instruction (7+ hours), group projects, and hands-on learning.",
+    "location": "Cambridge MA",
+    "category": [
+      "Health/Medicine",
+      "Technology",
+      "Computer Science"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Incoming sophomores, juniors, and seniors (grades 10-12); international students not eligible for financial aid, no visa sponsorship available",
+    "dueDate": "Priority deadline: Nov 1, Regular deadline: Feb 22",
+    "website": "https://jclinic.mit.edu/events/high-school-summer-bootcamp/",
+    "region": [
+      "MA"
+    ]
+  },
+  {
+    "title": "UC Berkeley M.E.T. Innovation Academy (M.E.T.ia)",
+    "summary": "A residential summer program combining engineering and business education for high school students interested in technology and entrepreneurship, featuring lectures, lab visits, guest speakers, Silicon Valley field visits, a capstone project, and a pitch competition.",
+    "location": "Berkeley CA",
+    "category": [
+      "Business",
+      "Engineering"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Rising junior or senior; strong aptitude for math and science; demonstrated interest in the intersection of technology and business",
+    "dueDate": "Applications Open: Nov 2026; Deadline: TBD",
+    "website": "https://met.berkeley.edu/about-met/met-ia/",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "SHTEM: Summer Internships for High Schoolers - Stanford",
+    "summary": "An unpaid research internship placing high school juniors/seniors and community college students in small mentored groups (2-5 students) on interdisciplinary research spanning information science, engineering, computer science, biology, neuroscience, psychology, linguistics, design, and philosophy. Students work 20-30 hours weekly.",
+    "location": "Stanford CA",
+    "category": [
+      "Engineering",
+      "Computer Science",
+      "Various Subjects"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "High school junior or senior in the 2026-2027 school year; minimum age 14 by June 20, 2027; U.S. citizen or permanent resident only; no prior research experience required",
+    "dueDate": "Applications Open: Dec 2026; Deadline: TBD",
+    "website": "https://compression.stanford.edu/outreach/shtem-summer-internships-high-schoolers",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "DSI Summer Lab - University of Chicago",
+    "summary": "An 8-week paid summer research program pairing Chicago-area high school students and undergraduates with data science mentors on applied, interdisciplinary research spanning social science, climate and energy policy, public policy, materials science, and biomedical research. No prior research experience required.",
+    "location": "Chicago IL",
+    "category": [
+      "Computer Science",
+      "Various Subjects"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Undergraduate students and Chicago-area high school students; high school applicants must reside year-round in the Chicago area",
+    "dueDate": "Not yet announced",
+    "website": "https://datascience.uchicago.edu/education/summerlab/",
+    "region": [
+      "IL"
+    ]
+  },
+  {
+    "title": "ARISE (Applied Research Innovations in Science and Engineering) - NYU",
+    "summary": "A free 10-week program combining 4 weeks of safety training, college writing workshops, and research skills development with placement in one of 80+ NYU research labs assisting faculty on real-world projects. Includes a $2,000 participation stipend.",
+    "location": "Brooklyn NY",
+    "category": [
+      "Science",
+      "Engineering"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Rising junior or senior; must be a full-time NYC resident attending an NYC school",
+    "dueDate": "Not yet announced",
+    "website": "https://k12stem.engineering.nyu.edu/programs/arise",
+    "region": [
+      "NY"
+    ]
+  },
+  {
     "title": "Stanford Tri-Valley Clinical Academy",
     "summary": "A community-based academy giving high school students an active introduction to the practice of medicine, combining clinical skills training (suturing, knot tying) with practical experience (vitals, history and physical exams) alongside Stanford faculty, community physicians, and hospital staff.",
     "location": "Tri-Valley area CA",
@@ -621,8 +768,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "Rising 9th-12th grade students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising 9th-12th grade high school students",
+    "dueDate": "Rolling admissions",
     "website": "https://www.polyphonylit.org/summer-workshops?gad_source=1&gclid=CjwKCAiAxKy5BhBbEiwAYiW--w1gd7tA8l8dSkEdPEqXRCE5h6avgqttmw4oXhuGaI84ZyJbQuLkihoC-owQAvD_BwE",
     "region": [
       "Virtual"
@@ -1227,8 +1374,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "high school students; recommended age 16 plus",
-    "dueDate": "Not yet updated",
+    "eligibility": "Grades 10-12, Southern California residents (public/private/homeschool), min age 16 by June 15, min 3.0 cumulative GPA, college-bound",
+    "dueDate": "Not yet announced",
     "website": "https://education.sdsc.edu/studenttech/rehs/",
     "region": [
       "CA"
@@ -1356,7 +1503,7 @@
       "Program/Camp"
     ],
     "eligibility": "grades 9-12; at least age 15; high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.ucla.edu/program/political-science-summer-institute/",
     "region": [
       "Virtual"
@@ -1393,7 +1540,7 @@
       "Class"
     ],
     "eligibility": "High school students age 13 plus;Must have taken Algebra",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://joyofcoding.eecs.umich.edu/",
     "region": [
       "Virtual"
@@ -1857,8 +2004,8 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 9–11)",
-    "dueDate": "Not yet updated",
-    "website": "https://precollege.wustl.edu/",
+    "dueDate": "Applications Open: Dec 1; Deadline: TBD",
+    "website": "https://precollege.washu.edu/",
     "region": [
       "Midwest"
     ]
@@ -1875,7 +2022,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 9–12)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.georgetown.edu/programs/SHS14/international-relations-academy",
     "region": [
       "East Coast"
@@ -2133,7 +2280,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 14–18",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.georgetown.edu/programs/SHS10/entrepreneurship-academy?utm_source=Google&utm_medium=Search&utm_campaign=FY21_Search_SPHS&gclid=CjwKCAjwgZuDBhBTEiwAXNofRA0kwtuGUucz5ANkmYm_VSA2rkyWzyxwDO7glAxoqaIEUFQFt1zeHxoClTQQAvD_BwE",
     "region": [
       "East Coast"
@@ -2186,7 +2333,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.rhsmith.umd.edu/centers-initiatives/snider-center/programs-curricula/self",
     "region": [
       "Virtual"
@@ -2336,7 +2483,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising 8th–12th graders",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.sharedworldscamp.com/",
     "region": [
       "South"
@@ -2883,7 +3030,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (particularly underrepresented groups) with strong math ability",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "http://mathroots.mit.edu/",
     "region": [
       "East Coast"
@@ -3037,7 +3184,7 @@
   {
     "title": "Engineering Summer Academy at Penn - University of Pennsylvania",
     "summary": "The Engineering Summer Academy at Penn is a three-week residential program offering courses in computer science  robotics  biotechnology and more. Students attend lectures and lab sessions and work on projects led by University of Pennsylvania faculty.",
-    "location": "Philadelphia PA",
+    "location": "Philadelphia, PA",
     "category": [
       "Engineering",
       "Computer Science",
@@ -3047,8 +3194,8 @@
       "Class"
     ],
     "eligibility": "High school students entering grades 10–12 with strong math and science skills",
-    "dueDate": "Not yet updated",
-    "website": "https://esap.seas.upenn.edu/",
+    "dueDate": "Not yet announced",
+    "website": "https://esap.engineering.upenn.edu/",
     "region": [
       "East Coast"
     ]
@@ -3344,7 +3491,7 @@
       "Program/Camp"
     ],
     "eligibility": "Young writers aged 13–19",
-    "dueDate": "3/15/2025",
+    "dueDate": "Not yet announced",
     "website": "https://theadroitjournal.org/about/mentorship/",
     "region": [
       "Virtual"
@@ -3557,8 +3704,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school sophomores and juniors;Minimum GPA 3.5;Female-identifying students;Must be at least 15 years old",
-    "dueDate": "Not yet updated",
+    "eligibility": "Min 3.5 GPA; sophomores/juniors/seniors eligible for virtual sessions, rising juniors/seniors for in-person sessions",
+    "dueDate": "Applications Open: Jan 4; Deadline: Mar 19",
     "website": "https://kelley.iu.edu/programs/undergrad/pre-college/ywi.html",
     "region": [
       "Midwest"
@@ -3818,7 +3965,7 @@
       "Research"
     ],
     "eligibility": "High school juniors and seniors aged 16+ from Monterey Bay or nearby counties",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sip.ucsc.edu/",
     "region": [
       "CA"
@@ -4077,7 +4224,7 @@
       "Research"
     ],
     "eligibility": "High school students aged 16–18",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec 15; Deadline: Mar 8",
     "website": "https://summer.ucsb.edu/programs/research-mentorship-program/overview",
     "region": [
       "CA"
