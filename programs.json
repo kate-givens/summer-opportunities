@@ -422,7 +422,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.anteatermocktrial.com/summer-bootcamp-overview",
     "region": []
   },
@@ -594,8 +594,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "Advanced high school students",
+    "dueDate": "Not yet announced",
     "website": "https://mathematics-democracy-institute.org/high-school-summer-research/",
     "region": []
   },
@@ -917,7 +917,7 @@
       "Class"
     ],
     "eligibility": "Open to all; no prerequisites",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://www.coursera.org/learn/international-criminal-law",
     "region": [
       "Virtual"
@@ -1006,7 +1006,7 @@
       "Research"
     ],
     "eligibility": "High school students; Grades 9‑12",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.ucsd.edu/program-finder/index.html#grade=High%20School&category=Research",
     "region": [
       "CA"
@@ -1264,7 +1264,7 @@
       "Class"
     ],
     "eligibility": "Open to all learners;No prerequisites;Recommended for high school students and adults",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://www.coursera.org/learn/hot-topics-criminal-justice",
     "region": [
       "Virtual"
@@ -1690,7 +1690,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising grades 6-12 (varies by program)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.wpi.edu/academics/pre-collegiate/summer-programs",
     "region": [
       "East Coast"
@@ -2634,24 +2634,6 @@
     ]
   },
   {
-    "title": "Precollege Courses - Columbia University",
-    "summary": "A one-week summer immersion course at Columbia University explores creative journalism. High school students learn narrative techniques  interviewing  and journalistic ethics while crafting articles and short pieces.",
-    "location": "New York NY",
-    "category": [
-      "Creative Writing",
-      "Leadership"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "High school students (grades 9-12)",
-    "dueDate": "Not yet updated",
-    "website": "https://precollege.sps.columbia.edu/highschool/summer-immersion-new-york-city/courses/1-week/creative-journalism",
-    "region": [
-      "East Coast"
-    ]
-  },
-  {
     "title": "Stanford Continuing Studies - Stanford University",
     "summary": "Stanford Continuing Studies offers evening and online courses in liberal arts  creative writing  and professional development for adult learners. The program is designed for adults 18 and older  though some courses may be open to advanced high-school students",
     "location": "Stanford CA / Online",
@@ -2887,7 +2869,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 15–18",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec 15; Deadline: Mar 22",
     "website": "https://summer.ucsb.edu/programs/summer-research-academies/overview",
     "region": [
       "CA"
@@ -3345,9 +3327,9 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (typically rising 10th graders); focuses on underrepresented groups",
-    "dueDate": "Not yet updated",
-    "website": "https://hai.stanford.edu/stanford-ai4all",
+    "eligibility": "Current 9th grade students",
+    "dueDate": "Not yet announced",
+    "website": "https://ai4all.spcs.stanford.edu/",
     "region": [
       "Virtual"
     ]
@@ -3814,8 +3796,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school juniors and seniors aged 16+; underrepresented backgrounds in science; SF high school students only",
-    "dueDate": "Not yet updated",
+    "eligibility": "Current high school junior; must attend SFUSD school, SF charter school, or College Track San Francisco; from backgrounds historically marginalized in the sciences",
+    "dueDate": "Not yet announced",
     "website": "http://sep.ucsf.edu/hs_programs/high-school-intern-program/",
     "region": [
       "CA"
@@ -4037,7 +4019,7 @@
       "Research"
     ],
     "eligibility": "high school juniors or seniors;at least 16;US citizen or permanent resident",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec 18; Deadline: TBD",
     "website": "https://simr.stanford.edu/",
     "region": [
       "CA"
@@ -4113,10 +4095,10 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (no drawing experience required)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://stanfordmedicalhumanities.org/artandanatomy",
     "region": [
-      "Virtual"
+      "CA"
     ]
   },
   {
@@ -4223,8 +4205,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school sophomores and juniors aged 16–18",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school sophomores, juniors, or seniors; age 16+ by June 1; completed at least one year each of math and biology; economically, educationally, or medically disadvantaged background",
+    "dueDate": "Not yet announced",
     "website": "https://summerstudents.ucsf.edu/",
     "region": [
       "West"
@@ -4445,7 +4427,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school seniors; strong math and programming background",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://bwsi.mit.edu/",
     "region": [
       "East Coast"
@@ -4556,7 +4538,7 @@
       "Research"
     ],
     "eligibility": "High school juniors & seniors; age 16+",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.rockefeller.edu/outreach/ssrp/",
     "region": [
       "East Coast"
