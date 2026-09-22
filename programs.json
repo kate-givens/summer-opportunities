@@ -473,7 +473,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.thetech.org/support/volunteer-innovator-program/",
     "region": [
       "CA"
@@ -665,7 +665,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://stanfordmedicalhumanities.org/videogamesforhealth",
     "region": [
       "CA"
@@ -900,7 +900,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (rising juniors and seniors) interested in public health",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.barnard.edu/health-and-society-institute",
     "region": [
       "East Coast"
@@ -969,8 +969,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Grades 9-12 and recent high school graduates",
+    "dueDate": "Not yet announced",
     "website": "https://researchscholars.ucsd.edu/currentprograms/hawaii/index.html",
     "region": [
       "CA"
@@ -986,8 +986,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "California high school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising high school juniors/seniors from structurally marginalized communities, enrolled in an LA County high school; min 2.5 GPA",
+    "dueDate": "Not yet announced",
     "website": "https://childmind.org/youth-mental-health-academy/",
     "region": [
       "Virtual"
@@ -1307,25 +1307,6 @@
     ]
   },
   {
-    "title": "Real Bones: Forensic Anthropology - Coursera",
-    "summary": "This Coursera course from Princeton University explores forensic anthropology using case studies like the 1985 MOVE bombing to teach how decomposed human remains are identified. The online class considers scientific methods and ethical issues surrounding lost personhood",
-    "location": "Virtual",
-    "category": [
-      "Humanities",
-      "Science",
-      "Various Subjects"
-    ],
-    "format": [
-      "Class"
-    ],
-    "eligibility": "Open to all learners;No prerequisites;Suitable for high school students and adults",
-    "dueDate": "Not yet updated",
-    "website": "https://www.coursera.org/learn/real-bones-forensic-anthropology",
-    "region": [
-      "Virtual"
-    ]
-  },
-  {
     "title": "SF YouthWorks - JCYCSF",
     "summary": "SF YouthWorks places high school students in paid internships at San Francisco city departments with job readiness workshops mentorship and leadership activities. Participants gain experience in public service and earn hourly wages while exploring careers",
     "location": "San Francisco California",
@@ -1394,7 +1375,7 @@
       "Internship"
     ],
     "eligibility": "ambitious high school students; selective admission",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.ladderinternships.com/",
     "region": [
       "Virtual"
@@ -1485,7 +1466,7 @@
       "Class"
     ],
     "eligibility": "high school students grades 9-12",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://explore.stanford.edu/",
     "region": [
       "CA"
@@ -1690,8 +1671,8 @@
       "Program/Camp"
     ],
     "eligibility": "High school students with pre-calculus/trig background",
-    "dueDate": "Not yet updated",
-    "website": "https://summerprograms.usc.edu/",
+    "dueDate": "Not yet announced",
+    "website": "https://precollege.usc.edu/summer-programs/",
     "region": [
       "West"
     ]
@@ -1736,7 +1717,7 @@
   {
     "title": "miRcore Research Camps for High School Students - Scripps Research",
     "summary": "miRcore’s research camps teach high-schoolers bioinformatics  computational biology  R programming and biotech sequencing. Camps are offered in-person at the University of Michigan and online with small groups and volunteer opportunities.",
-    "location": "Ann Arbor MI or Virtual",
+    "location": "Ann Arbor MI, Scripps Research (La Jolla CA), or Virtual/Hybrid",
     "category": [
       "Biology",
       "Computer Science",
@@ -1746,7 +1727,7 @@
       "Research"
     ],
     "eligibility": "High school students (including incoming freshmen)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.mircore.org/2024-summer-camp/",
     "region": [
       "CA"
@@ -1818,7 +1799,7 @@
       "Program/Camp"
     ],
     "eligibility": "Students entering grades 9-12 (ages 14-18)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sva.edu/academics/pre-college/grades-9-12",
     "region": [
       "East Coast"
@@ -1834,8 +1815,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students ages 14-18",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students ages 15-18",
+    "dueDate": "Not yet announced",
     "website": "https://www.saic.edu/continuing-studies/high-school",
     "region": [
       "Virtual"
@@ -1907,8 +1888,8 @@
       "Class"
     ],
     "eligibility": "High school students; no prerequisites",
-    "dueDate": "Not yet updated",
-    "website": "https://summerprograms.usc.edu/program-overview/course-options/global-studies-courses/international-relations/",
+    "dueDate": "Not yet announced",
+    "website": "https://precollege.usc.edu/summer-programs/international-relations/",
     "region": [
       "East Coast"
     ]
@@ -1943,7 +1924,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 9–12)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/political-action-public-policy/",
     "region": [
       "East Coast"
@@ -2061,7 +2042,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 9–12)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/international-diplomacy/?gclid=Cj0KCQjw--2aBhD5ARIsALiRlwCZSjxL-79K8JU6oXCuir2zUXhQbxUlZaOuFX7jzDRLx_Au4tR4gTEaAv_XEALw_wcB",
     "region": [
       "Various"
@@ -2134,7 +2115,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (ages 14–18)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.georgetown.edu/programs/SHS22/sports-industry-management-academy/",
     "region": [
       "East Coast"
@@ -2682,7 +2663,7 @@
       "Class"
     ],
     "eligibility": "Adults (18+); some courses may admit advanced high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://spcs.stanford.edu/programs",
     "region": [
       "CA"
@@ -2775,7 +2756,7 @@
       "Program/Camp"
     ],
     "eligibility": "Students entering grades 9–12; ages 14–18",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.sarahlawrence.edu/summer/pre-college/",
     "region": [
       "Virtual"
@@ -2868,8 +2849,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school juniors and seniors",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising high school juniors/seniors; 16+ by program start; must live/attend school in Alameda, Santa Clara, San Francisco, or San Mateo county; full 2-week commitment required",
+    "dueDate": "Not yet announced",
     "website": "https://chemistry.stanford.edu/outreach/community-outreach/shadow-program-high-school-students",
     "region": [
       "CA"
@@ -2878,7 +2859,7 @@
   {
     "title": "LaunchX",
     "summary": "An entrepreneurship program that guides high school students through the process of launching real start-up ventures by providing mentorship  business curriculum and peer collaboration.",
-    "location": "Cambridge MA / Remote",
+    "location": "San Diego CA (in-person) or Online",
     "category": [
       "Business",
       "Leadership"
@@ -2887,7 +2868,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 14–19",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.launchx.com/",
     "region": [
       "Virtual"
@@ -2924,7 +2905,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school sophomores and juniors aged 15–17",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.scu.edu/engineering/beyond-the-classroom/outreach/summer-engineering-seminar-ses/",
     "region": [
       "CA"
@@ -3049,7 +3030,7 @@
       "Research"
     ],
     "eligibility": "High school juniors and seniors with strong physics and math skills",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sites.northwestern.edu/cierahs/",
     "region": [
       "Midwest"
@@ -3102,7 +3083,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students entering grades 11–12 with strong writing interests",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://writing.upenn.edu/wh/summer/parents.php",
     "region": [
       "East Coast"
@@ -3203,7 +3184,7 @@
   {
     "title": "High School Advocacy Institute - New Roots Institute",
     "summary": "The High School Advocacy Institute by the Factory Farming Awareness Coalition is a two-week online program teaching students about the impact of factory farming and empowering them with advocacy skills. Participants hear from experts and develop projects promoting sustainable food systems and animal welfare.",
-    "location": "Virtual",
+    "location": "In-person: Bay Area, Denver Metro, Midwest, NYC, Southern California; Virtual elsewhere",
     "category": [
       "Biology",
       "Science",
@@ -3214,7 +3195,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 14-18 interested in activism and sustainable food systems",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://ffacoalition.org/advocacy-institute/high-school/",
     "region": [
       "Virtual"
@@ -3291,7 +3272,7 @@
       "Research"
     ],
     "eligibility": "high school and undergraduate students;must be at least 15 for computer or remote projects;16 for wet lab internships",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://science.gmu.edu/assip",
     "region": [
       "East Coast"
@@ -3454,8 +3435,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school juniors and seniors (16+) from San Francisco; interest in public service",
-    "dueDate": "Not yet updated",
+    "eligibility": "Entering junior/senior year, or college-bound Fall 2026 freshman; SF resident/high schooler; min 2.75 GPA",
+    "dueDate": "Not yet announced",
     "website": "https://sf.gov/apply-internship-project-pull",
     "region": [
       "CA"
@@ -3741,8 +3722,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students graduating in 2027 or 2028; at least 16 by Jun 21 2026 and under 19 by Jul 31 2026",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students graduating in 2027 or 2028; at least 16 by Jun 20, 2026 and not turning 19 before Jul 31, 2026",
+    "dueDate": "Not yet announced",
     "website": "https://summer.harvard.edu/high-school-programs/pre-college-program",
     "region": [
       "East Coast"
@@ -3778,7 +3759,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising 10th–11th graders; minimum 2.50 GPA; preference to EAOP participants; first-generation or low-income students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://cseo.ucsf.edu/eaop/summer-opportunities",
     "region": [
       "West"
@@ -3887,7 +3868,7 @@
       "Class"
     ],
     "eligibility": "students at least 16;current sophomores or juniors;strong academic record",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.cmu.edu/pre-college/academic-programs/summer-session.html",
     "region": [
       "East Coast"
@@ -4188,7 +4169,7 @@
       "Class"
     ],
     "eligibility": "Rising high school juniors and seniors with strong math aptitude",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sumac.spcs.stanford.edu/",
     "region": [
       "CA"
@@ -4335,7 +4316,7 @@
       "Program/Camp"
     ],
     "eligibility": "high school juniors who are US citizens or permanent residents;preference for underrepresented students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://mites.mit.edu/discover-mites/mites-summer/",
     "region": [
       "East Coast"
@@ -4371,8 +4352,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Rising high school seniors; strong academic achievement and leadership",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising high school seniors (select rising juniors also eligible); requires ACT/SAT or Pre-ACT/Pre-SAT scores, advanced coursework in chemistry/physics/calculus, leadership roles, and letters of recommendation",
+    "dueDate": "Not yet announced",
     "website": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
     "region": [
       "CA"
@@ -4409,7 +4390,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school seniors; top 10% of class; leadership experience; 16+",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Oct 19; Deadline: TBD",
     "website": "https://precollege.nd.edu/leadership-seminars/",
     "region": [
       "Midwest"
@@ -4426,7 +4407,7 @@
       "Program/Camp"
     ],
     "eligibility": "Ages 14-19",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.bu.edu/cfa/tanglewood/program/yavp/",
     "region": [
       "East Coast"
@@ -4592,7 +4573,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising 10th-12th grade students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://college.lclark.edu/programs/fir_acres/",
     "region": [
       "West"
