@@ -1,5 +1,39 @@
 [
   {
+    "title": "Online Summer - Columbia University",
+    "summary": "Columbia University's Online Summer program lets high school students take rigorous, collaborative courses with Columbia instructors through an interactive virtual learning platform, choosing from over 40 courses across a dozen subject areas in 1- or 2-week sessions.",
+    "location": "Online",
+    "category": [
+      "Various Subjects"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Open to students entering grades 9-12",
+    "dueDate": "Priority deadline: Feb 1, Regular deadline: Apr 1",
+    "website": "https://precollege.sps.columbia.edu/programs/summer-programs/online-summer",
+    "region": [
+      "Virtual"
+    ]
+  },
+  {
+    "title": "College Edge Summer - Columbia University",
+    "summary": "Columbia University's College Edge Summer program allows high school students to earn college credit by enrolling in real Columbia undergraduate courses (from a pre-approved list) on the Morningside campus, alongside academic advisement and professional development opportunities.",
+    "location": "New York NY",
+    "category": [
+      "Various Subjects"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Students in grades 11-12",
+    "dueDate": "Apr 1",
+    "website": "https://precollege.sps.columbia.edu/programs/summer-programs/college-edge-summer",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
     "title": "Academy for iOS App Development - UT Austin",
     "summary": "A 6-day residential academy teaching high school students to build mobile apps using Swift and Xcode, with a focus on user interface design, programming logic, and collaboration. Students must bring their own MacBook Air or Pro (13-inch or larger). Program is set to return for Summer 2027; not currently accepting applications.",
     "location": "Austin TX",
@@ -716,7 +750,7 @@
       "Class"
     ],
     "eligibility": "Middle and high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.fusionacademy.com/summer-programs/",
     "region": [
       "Virtual"
@@ -735,7 +769,7 @@
       "Program/Camp"
     ],
     "eligibility": "Incoming 9th-12th grade students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://bluestampengineering.com/",
     "region": [
       "Virtual"
@@ -1170,8 +1204,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Open to all learners;No prerequisites;Participants attend in person or online",
-    "dueDate": "Not yet updated",
+    "eligibility": "Open to the public; no prerequisites",
+    "dueDate": "Rolling admissions",
     "website": "https://ccrma.stanford.edu/workshops",
     "region": [
       "Virtual"
@@ -1282,7 +1316,7 @@
       "Internship"
     ],
     "eligibility": "High school students;Must commit to training week and four volunteer hours per month;Local to Los Altos area",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.losaltoshistory.org/education/teen-docent-program/",
     "region": [
       "CA"
@@ -1409,7 +1443,7 @@
       "Research"
     ],
     "eligibility": "selective program for high achieving high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.horizoninspires.com/",
     "region": [
       "Virtual"
@@ -1426,7 +1460,7 @@
       "Research"
     ],
     "eligibility": "rising high school juniors and seniors; GPA 3.0 plus; US citizens or permanent residents",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.nasa.gov/ames/genelab-for-high-schools/",
     "region": [
       "CA"
@@ -1598,7 +1632,7 @@
       "Program/Camp"
     ],
     "eligibility": "Mathematically talented high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://hcssim.org/",
     "region": [
       "East Coast"
@@ -1615,8 +1649,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students interested in theoretical CS",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school algebra background; strong interest in theoretical CS; willingness to work hard. Offered as virtual, in-person commuter, or in-person residential tracks",
+    "dueDate": "Not yet announced",
     "website": "https://algorithmicthinking.org/",
     "region": [
       "East Coast"
@@ -1636,25 +1670,6 @@
     "eligibility": "High school students",
     "dueDate": "Not yet updated",
     "website": "http://robotics.cs.brown.edu/",
-    "region": [
-      "East Coast"
-    ]
-  },
-  {
-    "title": "High School Summer Programs - Cornell Engineering",
-    "summary": "Cornell Engineering’s high-school programs (like CURIE and CATALYST academies) are week-long residential sessions where rising juniors and seniors explore engineering disciplines through lectures  labs and team projects  with a focus on diversity.",
-    "location": "Ithaca NY",
-    "category": [
-      "Engineering",
-      "Science",
-      "Math"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "Rising juniors and seniors (especially underrepresented students)",
-    "dueDate": "Not yet updated",
-    "website": "https://www.engineering.cornell.edu/engdiversity/prospective-students-outreach/high-school-summer-programs",
     "region": [
       "East Coast"
     ]
@@ -1764,7 +1779,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising juniors and seniors (10th–12th graders)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://design.gatech.edu/precollege",
     "region": [
       "South"
@@ -1963,7 +1978,7 @@
       "Class"
     ],
     "eligibility": "High school students aged 15–18 with strong academics",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.johnlockeinstitute.com/princeton-summer-school",
     "region": [
       "East Coast"
@@ -2063,7 +2078,7 @@
       "Program/Camp"
     ],
     "eligibility": "Current middle school students (grades 6–8)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.nslcleaders.org/middle-school-summer-programs/",
     "region": [
       "Various"
@@ -2190,7 +2205,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.projectecho.org/programs?gclid=CjwKCAiA55mPBhBOEiwANmzoQhE1lp2e3tY_CIN62p0NmPz_3Yo466gCNxGEe6Spws0CbqNA2C56ihoC6wcQAvD_BwE",
     "region": [
       "Virtual"
@@ -2225,8 +2240,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students aged 15-18",
+    "dueDate": "Not yet announced",
     "website": "https://www.hec.edu/en/summer-school/youth-programs",
     "region": [
       "International"
@@ -2268,8 +2283,8 @@
     ]
   },
   {
-    "title": "Columbia Summer Immersion or College Edge - Columbia University",
-    "summary": "Columbia University’s Summer Immersion and College Edge programs offer high school students intensive  credit-bearing or non-credit courses in subjects ranging from science and engineering to humanities  business and the arts  with options for residential or commuter study.",
+    "title": "NYC Residential Summer - Columbia University",
+    "summary": "Columbia University's NYC Residential Summer program offers high school students an intensive academic experience on Columbia's Morningside campus, choosing from over 70 courses across a dozen subject areas with about four hours of daily class time. Students live on campus in Columbia residence halls with access to dining, libraries, and gym facilities.",
     "location": "New York NY",
     "category": [
       "Various Subjects"
@@ -2277,9 +2292,9 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students entering grades 9–12",
-    "dueDate": "Not yet updated",
-    "website": "https://summer.sps.columbia.edu/your-options/high-school-students?gclid=Cj0KCQjwmIuDBhDXARIsAFITC_6ktBbCv1hsluacX3OjlvR1zs6DSEXxRXSoMzpAKFityeGtBRHfUMsaAp4cEALw_wcB&gclsrc=aw.ds",
+    "eligibility": "Students 15 years of age or older (must turn 16 by December 31 of the program year) to live in campus housing; open to students entering grades 9-12",
+    "dueDate": "Priority deadline: Feb 1, Regular deadline: Mar 1",
+    "website": "https://precollege.sps.columbia.edu/programs/summer-programs/nyc-residential-summer",
     "region": [
       "East Coast"
     ]
@@ -2323,7 +2338,7 @@
   {
     "title": "Sports Management - NSLC",
     "summary": "The NSLC Sports Management program introduces high school students to behind-the-scenes careers in the sports industry  covering finance  marketing  communications and leadership while providing hands-on projects and networking opportunities.",
-    "location": "Various U.S. university campuses",
+    "location": "Columbia University (New York NY) and Duke University (Durham NC)",
     "category": [
       "Business",
       "Leadership"
@@ -2331,8 +2346,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Ages 14-18; must have completed at least one year of high school",
+    "dueDate": "Rolling admissions",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/sports-management/",
     "region": [
       "Various"
@@ -2447,7 +2462,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://ba-leeds.org/biotechnology-summer-camp/",
     "region": [
       "CA"
@@ -2536,8 +2551,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (grades 10–12)",
-    "dueDate": "Not yet updated",
+    "eligibility": "Entering grades 11-12, or a Spring 2027 high school graduate",
+    "dueDate": "Applications Open: Dec 14; Deadline: May 1",
     "website": "https://universitycollege.tufts.edu/high-school/programs/international-relations?utm_source=Online&utm_medium=Website&utm_campaign=TeenLife&utm_content=Summer21&utm_source=teenlife",
     "region": [
       "East Coast"
@@ -2616,7 +2631,7 @@
   {
     "title": "High School Student Research Apprentice Program - UConn",
     "summary": "UConn’s High School Student Research Apprentice Program places high school juniors and seniors in research labs at UConn Health to conduct biomedical projects alongside scientists. The six-week summer program exposes students to lab techniques and health professions.",
-    "location": "Farmington CT",
+    "location": "UConn Health (Farmington CT) or Central Connecticut State University",
     "category": [
       "Biology",
       "Health/Medicine",
@@ -2625,8 +2640,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "Rising high school juniors and seniors",
-    "dueDate": "Not yet updated",
+    "eligibility": "11th grade students interested in medicine, dental medicine, or biomedical research; must be able to commute daily",
+    "dueDate": "Not yet announced",
     "website": "https://health.uconn.edu/hcop/enrichment-programs/high-school-student-research-apprentice-program/",
     "region": [
       "East Coast",
@@ -2702,7 +2717,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://electrify.engin.umich.edu/",
     "region": [
       "East Coast"
@@ -3101,10 +3116,10 @@
       "Class"
     ],
     "eligibility": "High school students entering grades 10–12 with strong math and science skills",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.cmu.edu/pre-college/academic-programs/ai_scholars.html",
     "region": [
-      "South"
+      "East Coast"
     ]
   },
   {
@@ -3382,7 +3397,7 @@
       "Research"
     ],
     "eligibility": "High school students and undergraduates aged 16+; U.S. citizens/permanent residents",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Nov 1; Deadline: Feb 1",
     "website": "https://www.imgs-coh.edu/summer-student-academy",
     "region": [
       "CA"
@@ -3489,7 +3504,7 @@
       "Program/Camp"
     ],
     "eligibility": "Ages 15-18;High school students;Exceptionally mature 14 year olds",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://rossprogram.org/",
     "region": [
       "Midwest"
@@ -3562,8 +3577,8 @@
       "Program/Camp"
     ],
     "eligibility": "Rising grade 10 through graduating grade 12 students;Must meet application requirements;Scholarship deadlines vary",
-    "dueDate": "Not yet updated",
-    "website": "https://oes.umd.edu/pre-college-programs",
+    "dueDate": "Not yet announced",
+    "website": "https://exst.umd.edu/pre-college-programs",
     "region": [
       "East Coast"
     ]
@@ -3615,7 +3630,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students meeting age and grade prerequisites",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.brown.edu/",
     "region": [
       "Virtual"
@@ -3777,8 +3792,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school seniors; U.S. citizens or permanent residents",
-    "dueDate": "Not yet updated",
+    "eligibility": "U.S. citizens only (permanent residents not eligible); completing junior year of high school (rising seniors)",
+    "dueDate": "Not yet announced",
     "website": "https://www.ll.mit.edu/outreach/llrise",
     "region": [
       "East Coast"
@@ -4259,8 +4274,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "students aged 16 or older;current sophomores or juniors;strong interest in computing and biology",
-    "dueDate": "Not yet updated",
+    "eligibility": "Must be 16 years of age by June 20 of the program year; in 10th-11th or 11th-12th grade during the summer; academic average of B (3.0/4.0) or better",
+    "dueDate": "Not yet announced",
     "website": "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html",
     "region": [
       "East Coast"
@@ -4353,8 +4368,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school students aged 16+ and undergraduates",
-    "dueDate": "Not yet updated",
+    "eligibility": "Program page now describes this as for undergraduate students only ('A program for undergraduate students...'); no mention of high schoolers remains. Verify whether this still belongs in a high-school-focused list.",
+    "dueDate": "Applications Open: November; Deadline: Jan 25",
     "website": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore",
     "region": [
       "East Coast"
@@ -4491,7 +4506,7 @@
   {
     "title": "Yale Young Global Scholars - Yale University",
     "summary": "YYGS brings together high-achieving students aged 16–18 for two-week sessions exploring topics like politics  science and social justice on Yale’s campus. Participants from around the world engage in seminars  lectures and collaborative projects.",
-    "location": "New Haven CT / Virtual",
+    "location": "New Haven CT",
     "category": [
       "Leadership",
       "Politics/Advocacy",
@@ -4501,10 +4516,10 @@
       "Program/Camp"
     ],
     "eligibility": "Ages 16-18; current high school sophomores or juniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Sept 16; Deadline: TBD",
     "website": "https://globalscholars.yale.edu/",
     "region": [
-      "Virtual"
+      "East Coast"
     ]
   },
   {
@@ -4735,7 +4750,7 @@
       "Internship"
     ],
     "eligibility": "High school juniors entering senior year; at least 16; interest in computer networking",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.iol.unh.edu/stem/hightech-bound",
     "region": [
       "West"
