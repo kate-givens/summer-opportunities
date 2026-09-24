@@ -429,7 +429,7 @@
   },
   {
     "title": "SF Public Defender Internship",
-    "summary": "",
+    "summary": "The San Francisco Public Defender's Office offers a paid internship (through the Opportunities for All program) for students and young adults, providing exposure to public defender work and office experience across Downtown, Youth Defender, and MAGIC program locations.",
     "location": "San Francisco CA",
     "category": [
       "Law"
@@ -437,8 +437,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "Ages 13-24; must commit to at least 8 hours per week for 3 months; no resume or cover letter required",
+    "dueDate": "Rolling admissions",
     "website": "https://sfpublicdefender.org/careers/internship/#:~:text=APPLY%20NOW-,High%20School%20and%20College%20Students,-Our%20internship%20for",
     "region": [
       "CA"
@@ -655,7 +655,7 @@
   {
     "title": "Coding for Game Design - NYU",
     "summary": "A two weeks program where students learn game design fundamentals + C# + Unity scripting as part of teams.",
-    "location": "NYC",
+    "location": "NYU Downtown Brooklyn, Brooklyn, NY",
     "category": [
       "Game Design",
       "Computer Science"
@@ -663,8 +663,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "10th-12 grade; intermediate coding skills",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students entering sophomore, junior, or senior year of high school in Fall 2026; intermediate coding skills with at least one formal coding class completed at B+ or higher",
+    "dueDate": "Applications Open: Early Jan; Deadline: TBD",
     "website": "https://steinhardt.nyu.edu/create/high-school-summer-program?utm_source=chatgpt.com",
     "region": [
       "East Coast"
@@ -915,7 +915,7 @@
       "Program/Camp"
     ],
     "eligibility": "rising sophomores juniors and seniors;at least 14",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.barnard.edu/sustainable-food-institute",
     "region": [
       "East Coast"
@@ -1084,23 +1084,6 @@
     "website": "https://www.summer.ucla.edu/ushsstudent",
     "region": [
       "Virtual"
-    ]
-  },
-  {
-    "title": "LMU - Exploring Engineering",
-    "summary": "",
-    "location": "Los Angeles CA",
-    "category": [
-      "Engineering"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "Algebra pre-req",
-    "dueDate": "Not yet updated",
-    "website": "https://summer.lmu.edu/programs/2026programs/exploringengineering/",
-    "region": [
-      "CA"
     ]
   },
   {
@@ -1352,7 +1335,7 @@
       "Internship"
     ],
     "eligibility": "11th and 12th grade students and graduating seniors;Must reside or attend school in San Francisco;Work permit required",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: February; Deadline: TBD",
     "website": "https://www.jcycworkhub.org/programs/youthworks",
     "region": [
       "West"
@@ -1603,25 +1586,6 @@
     ]
   },
   {
-    "title": "Embry Riddle Science/Engineering Camps - Embry Riddle Aeronautical University",
-    "summary": "Embry Riddle Aeronautical University hosts overnight and day camps at its Daytona Beach Florida and Prescott Arizona campuses where students explore aviation mechanical engineering robotics and space topics. Campers live in dorms or commute for weeklong sessions supervised by counselors.",
-    "location": "Daytona Beach FL;Prescott AZ",
-    "category": [
-      "Engineering",
-      "Computer Science",
-      "Various Subjects"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "Middle and high school students;Age requirements vary by camp",
-    "dueDate": "Not yet updated",
-    "website": "https://summercamps.erau.edu/camps",
-    "region": [
-      "Various"
-    ]
-  },
-  {
     "title": "Hampshire College Summer Studies in Mathematics",
     "summary": "Hampshire College Summer Studies in Mathematics is a six-week residential program for mathematically talented high-school students. Participants explore college-level math through problem-solving sessions  seminars and collaborative research.",
     "location": "Amherst MA",
@@ -1867,7 +1831,7 @@
       "Program/Camp"
     ],
     "eligibility": "Teens ages 13–17",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://ce.risd.edu/kids-and-teens/",
     "region": [
       "East Coast"
@@ -2095,7 +2059,7 @@
       "Class"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://aap.cornell.edu/academics/art/art-experience-summer-program",
     "region": [
       "Virtual"
@@ -2187,7 +2151,7 @@
       "Class"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://www.coursera.org/learn/foundations-sports-analytics",
     "region": [
       "Various"
@@ -2570,7 +2534,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school sophomores; juniors and seniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.lebow.drexel.edu/academics/pre-college-programs/camp-business",
     "region": [
       "East Coast"
@@ -2605,7 +2569,7 @@
       "Program/Camp"
     ],
     "eligibility": "Local youth; particularly underserved high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://826valencia.org/programs/summer-at-826/",
     "region": [
       "West"
@@ -3045,7 +3009,7 @@
       "Class"
     ],
     "eligibility": "Rising high school seniors with strong academics and interest in CS",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://apps.carleton.edu/summer/scsi/",
     "region": [
       "Midwest"
@@ -3546,24 +3510,6 @@
     "website": "https://michiganross.umich.edu/undergraduate/summer-business-academy",
     "region": [
       "Midwest"
-    ]
-  },
-  {
-    "title": "Pre-College Program - California College of the Arts",
-    "summary": "This four week on campus program lets high schoolers earn college credit while developing art and design skills. Students take studio courses build portfolios and gain exposure to college level critique",
-    "location": "San Francisco CA",
-    "category": [
-      "Art/Design",
-      "Visual Arts"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "students age 15-18 who have completed grades 10-12;international students need English proficiency",
-    "dueDate": "Not yet updated",
-    "website": "https://portal.cca.edu/learning/special-programs/pre-college-program/",
-    "region": [
-      "CA"
     ]
   },
   {
@@ -4239,7 +4185,7 @@
       "Program/Camp"
     ],
     "eligibility": "students aged 16 or older;current sophomores or juniors;B average",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec 1; Deadline: TBD",
     "website": "https://design.cmu.edu/programs/pre",
     "region": [
       "East Coast"
@@ -4769,7 +4715,7 @@
       "Internship"
     ],
     "eligibility": "high school sophomores;rising juniors;residents of East Palo Alto Belle Haven North Fair Oaks or Redwood City;minimum 2.0 GPA",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://metasummeracademy.com/",
     "region": [
       "CA"
