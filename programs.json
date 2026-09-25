@@ -471,8 +471,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "Minimum age 16; currently enrolled in high school (recent graduates under 18 also eligible); no prior architecture/design experience required",
+    "dueDate": "Not yet announced",
     "website": "https://architecture.calpoly.edu/about/summer-career",
     "region": [
       "CA"
@@ -673,15 +673,15 @@
   {
     "title": "2D Game Development Summer Intensive - Urban Arts",
     "summary": "You will code and design your first video game prototype using Unity3D. Coursework includes C# programming with Unity3D, 2D pixel art and sprite animation, digital music and sound FX, and narrative writing.",
-    "location": "Virtual",
+    "location": "In-person (Urban Arts Learning Lab) or Remote (Discord)",
     "category": [
       "Game Design"
     ],
     "format": [
       "Class"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students entering 10th-12th grade in Fall 2026; no prior experience required",
+    "dueDate": "Not yet announced",
     "website": "https://urbanarts.org/game-academy-summer-course/",
     "region": [
       "Virtual"
@@ -732,8 +732,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Middle and high school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students in grades 5-12",
+    "dueDate": "Rolling admissions",
     "website": "https://artofproblemsolving.com/school/catalog",
     "region": [
       "Virtual"
@@ -786,7 +786,7 @@
       "Class"
     ],
     "eligibility": "Talented middle & high school students globally",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.awesomemath.org/what-is-awesomemath/",
     "region": [
       "Virtual"
@@ -1687,7 +1687,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://ba-leeds.org/robotics-summer-camp/",
     "region": [
       "CA"
@@ -1724,7 +1724,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://ba-leeds.org/engineering-construction-manufacturing-camp/",
     "region": [
       "CA"
@@ -2111,8 +2111,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising high school juniors and seniors",
+    "dueDate": "Not yet announced",
     "website": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/#",
     "region": [
       "Virtual"
@@ -2406,8 +2406,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 14–18; letter of recommendation required",
-    "dueDate": "Not yet updated",
+    "eligibility": "Ages 14-18 for most workshops (12-18 for select online workshops; 13-18 for Medical Bioinformatics); letter of recommendation required for university-based programs",
+    "dueDate": "Not yet announced",
     "website": "https://www.rosettainstitute.org/biomedical-summer-camps/?utm_source=teenlife",
     "region": [
       "CA"
@@ -2873,24 +2873,6 @@
     ]
   },
   {
-    "title": "Between the Lines - University of Iowa",
-    "summary": "A two-week creative writing program at the University of Iowa’s International Writing Program that brings together students from the U.S. and abroad to develop craft and cultural exchange.",
-    "location": "Iowa City IA",
-    "category": [
-      "Creative Writing",
-      "Humanities"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "High school students aged 15–18 from the U.S. and abroad",
-    "dueDate": "Not yet updated",
-    "website": "https://iwp.uiowa.edu/programs/between-the-lines",
-    "region": [
-      "Midwest"
-    ]
-  },
-  {
     "title": "Young Investigators - Stanford",
     "summary": "A research experience program where high school students undertake supervised projects in science or sustainability under Stanford mentors  focusing on independent inquiry and presentation.",
     "location": "Stanford CA",
@@ -3194,8 +3176,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 14-18 interested in veterinary medicine",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students currently in grades 9-12",
+    "dueDate": "Not yet announced",
     "website": "https://vet.tufts.edu/adventures-veterinary-medicine-avm/high-school-program",
     "region": [
       "East Coast"
@@ -3830,7 +3812,7 @@
       "Research"
     ],
     "eligibility": "High school students aged 16+ with programming and math experience",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Nov 10; Deadline: Feb 1",
     "website": "https://aimi.stanford.edu/education/summer-research-internship",
     "region": [
       "CA"
@@ -3924,7 +3906,7 @@
       "Program/Camp"
     ],
     "eligibility": "high school students entering grades 9-12;age 14 plus;US citizen or permanent resident or valid visa",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Nov 10; Deadline: Feb 1",
     "website": "https://aimi.stanford.edu/education/aimi-summer-bootcamp",
     "region": [
       "Virtual"
@@ -4275,8 +4257,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Musicians aged 15 and older",
-    "dueDate": "Not yet updated",
+    "eligibility": "Age 15+; minimum six months playing/singing experience; proficient English",
+    "dueDate": "Not yet announced",
     "website": "https://summer.berklee.edu/programs/aspire-five-week-music-performance-intensive",
     "region": [
       "East Coast"
@@ -4414,7 +4396,7 @@
   },
   {
     "title": "Bank of America Student Leader - Bank of America",
-    "summary": "This program places high-school juniors and seniors in paid eight-week internships at local nonprofits and includes a one-week leadership summit in Washington  D.C. It emphasizes civic engagement and social impact while providing work experience and leadership training. Currently on hold",
+    "summary": "This program places high-school juniors and seniors in a paid six-week internship at local nonprofits and includes a leadership summit in Washington, D.C. for skills development and networking. It emphasizes civic engagement and social impact while providing work experience and leadership training.",
     "location": "Various U.S. locations",
     "category": [
       "Business",
@@ -4424,7 +4406,7 @@
       "Internship"
     ],
     "eligibility": "High school juniors & seniors; authorized to work in the U.S.; able to work 8-week internship",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://about.bankofamerica.com/en/making-an-impact/student-leaders",
     "region": [
       "East Coast"
@@ -4443,7 +4425,7 @@
       "Internship"
     ],
     "eligibility": "15+; strong math & science; rural background; health insurance",
-    "dueDate": "Not yet updated",
+    "dueDate": "Jan 13",
     "website": "https://aspirnaut.org/high-school-internships/",
     "region": [
       "South"
