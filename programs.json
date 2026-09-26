@@ -480,7 +480,7 @@
   },
   {
     "title": "Mock Trial Summer Camp - University of Pacific",
-    "summary": "",
+    "summary": "Two-week interactive mock trial camp at University of the Pacific (Session 2) run by the McGeorge Mock Trial Team; students work through simulated case files and courtroom exercises.",
     "location": "Stockton, CA",
     "category": [
       "Various Subjects",
@@ -489,8 +489,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students passionate about law",
+    "dueDate": "Not yet announced",
     "website": "https://www.pacific.edu/about-pacific/summer/precollege-summer-program/learning/mock-trial-summer-camp",
     "region": [
       "CA"
@@ -558,8 +558,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "Varies by program: ROAR Academy requires demonstrated STEM aptitude (advanced CA high schoolers); Berkeley M.E.T. Innovation Academy (M.E.T.ia) is for rising juniors/seniors with strong science, tech, math, and communication skills",
+    "dueDate": "Not yet announced",
     "website": "https://engineering.berkeley.edu/about/equity-and-inclusion/k-12-outreach/k-12-programs-resources/",
     "region": [
       "CA"
@@ -716,7 +716,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.usc.edu/summer-programs/bitcoin-and-ai-unlocking-the-future-of-finance-and-technology/",
     "region": [
       "CA"
@@ -1131,7 +1131,7 @@
       "Class"
     ],
     "eligibility": "Students who have completed eighth grade by June 30;Under age eighteen require a signed parental acknowledgment;Open to U.S. high school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.summer.uw.edu/who-can-attend/u-s-high-school-students",
     "region": [
       "CA"
@@ -1169,7 +1169,7 @@
       "Class"
     ],
     "eligibility": "Open to all learners;No formal prerequisites;Ideal for beginners and musicians with no formal training",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://www.berklee.edu/academics/moocs",
     "region": [
       "Virtual"
@@ -1621,24 +1621,6 @@
     ]
   },
   {
-    "title": "Robotics - Brown University",
-    "summary": "Brown’s Pre-College Robotics course engages high-school students in hands-on robotics projects. Students design  build and program robots  gaining mechanical and programming skills and exploring systems thinking.",
-    "location": "Providence RI",
-    "category": [
-      "Engineering",
-      "Computer Science"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
-    "website": "http://robotics.cs.brown.edu/",
-    "region": [
-      "East Coast"
-    ]
-  },
-  {
     "title": "USC Summer Engineering Program - University of Southern California",
     "summary": "USC’s four-week Discover Engineering program lets high-schoolers explore aerospace  biomedical  chemical  civil  electrical and mechanical engineering through lectures  projects and field trips. Students design and test prototypes and earn credit.",
     "location": "Los Angeles CA",
@@ -1884,8 +1866,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising 10th–12th graders (ages 14–18)",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students completing grades 9-12, ages 14-18 by the program start date (on-campus courses currently waitlist-only; online courses available)",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.brown.edu/programs/leadership-institute",
     "region": [
       "East Coast"
@@ -2132,7 +2114,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://globalyouth.wharton.upenn.edu/summer-high-school-programs/",
     "region": [
       "East Coast"
@@ -2460,8 +2442,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students interested in design & architecture",
+    "dueDate": "Not yet announced",
     "website": "http://www.afsf.org/programs/build-san-francisco-summer-design-institute/",
     "region": [
       "Virtual"
@@ -2920,7 +2902,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school juniors (rising seniors) aged 16–17 with a passion for journalism",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://cherubs.medill.northwestern.edu/2024/",
     "region": [
       "Midwest"
@@ -2937,7 +2919,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 14–18 who love writing",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://new.sewanee.edu/sywc/",
     "region": [
       "East Coast"
@@ -3232,8 +3214,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school juniors and seniors; portfolio required",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students in 10th-11th or 11th-12th grade during the program summer; must be at least 16 by program start; portfolio optional but recommended (video up to 3 min, or 5-10 images in a single PDF)",
+    "dueDate": "Not yet announced",
     "website": "https://www.cmu.edu/pre-college/academic-programs/art.html",
     "region": [
       "East Coast"
@@ -3297,7 +3279,7 @@
   },
   {
     "title": "Summer of Neurosciences - Stanford Medicine",
-    "summary": "Stanford’s Summer of Neurosciences is a virtual four-week program where high-school juniors  seniors and college students explore neuroscience research through journal clubs  career talks and grand rounds. The 2025 program ran July 8–31 with orientation June 30  and the application period closed May 1; dates for 2026 are not yet posted",
+    "summary": "Stanford's Summer of Neurosciences is a virtual four-week program where high school juniors, seniors, and college students explore neuroscience research through journal clubs, career talks, and grand rounds. The 2026 application period ran March 30-May 3, 2026.",
     "location": "Virtual",
     "category": [
       "Neuroscience",
@@ -3307,7 +3289,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school juniors & seniors and college students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/neurosurgery/education/JClub/SummerNeurosciences.html",
     "region": [
       "Virtual"
@@ -3575,7 +3557,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school sophomores and juniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.emory.edu/",
     "region": [
       "South"
@@ -3758,8 +3740,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 15–19 with an interest in neuroscience and mental health",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students generally completing sophomore, junior, or senior year; high English proficiency required; must be comfortable engaging with sensitive psychiatric topics (e.g. suicide, psychosis, addiction, abuse, violence)",
+    "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/psychiatry/special-initiatives/CNIX.html",
     "region": [
       "CA"
