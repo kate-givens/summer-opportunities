@@ -1,5 +1,24 @@
 [
   {
+    "title": "Experiences in Research (EinR) - Berkeley Lab",
+    "summary": "Paid six-week summer internship at Lawrence Berkeley National Laboratory where high schoolers work directly with Berkeley Lab professionals on real projects in STEM and STEM-adjacent fields. Project areas include experimental research and data collection, data science (coding and non-coding), coding-dependent projects, and administration/science communication. Students review a project booklet and rank their top three choices when applying. Interns work roughly 30-35 hours per week; projects are hybrid or virtual depending on the host office. Goals include building mentor connections, professional STEM skills, and experience in science communication and collaboration.",
+    "location": "Berkeley CA (hybrid or virtual depending on project)",
+    "category": [
+      "Science",
+      "Computer Science",
+      "Communications/Journalism"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Current 10th, 11th, or 12th graders enrolled in Northern California schools, with experience doing independent work. Must be at least 16 by the mid-June program start; must meet both age and grade requirements. All Northern California applicants reviewed, but priority given to students within ~30 miles of Berkeley Lab. Former interns not eligible. Oakland USD students must also complete the ECCCO common application.",
+    "dueDate": "Not yet updated",
+    "website": "https://k12education.lbl.gov/programs/high-school/experiences-in-research",
+    "region": [
+      "CA"
+    ]
+  },
+  {
     "title": "Online Summer - Columbia University",
     "summary": "Columbia University's Online Summer program lets high school students take rigorous, collaborative courses with Columbia instructors through an interactive virtual learning platform, choosing from over 40 courses across a dozen subject areas in 1- or 2-week sessions.",
     "location": "Online",
@@ -757,7 +776,7 @@
     ]
   },
   {
-    "title": "Blue Stamp Engineering - Blue Stamp Engineering",
+    "title": "Blue Stamp Engineering",
     "summary": "BlueStamp Engineering is a six week hands on program held in San Jose California and online where high school students build self selected engineering projects learn design skills and attend workshops and guest lectures. The program operates on rolling admission and is open to incoming ninth to twelfth graders and culminates in a demo night.",
     "location": "San Jose CA;Virtual",
     "category": [
@@ -1176,7 +1195,7 @@
     ]
   },
   {
-    "title": "Stanford Week-long Workshops in Sound Design - Stanford University",
+    "title": "Workshops in Sound Design - Stanford University",
     "summary": "Co taught by Roger Linn and Sasha Leitman this one week workshop at Stanford’s CCRMA guides participants in designing and building simple electronic music and audio projects. Students learn about sensors actuators and microcontrollers and receive one on one support whether attending on campus or via Zoom",
     "location": "Stanford California and Virtual",
     "category": [
