@@ -861,7 +861,7 @@
       "Class"
     ],
     "eligibility": "Rising juniors and seniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.umass.edu/uww/pre-college/residential/pre-vet",
     "region": [
       "East Coast"
@@ -1079,7 +1079,7 @@
       "Class"
     ],
     "eligibility": "High school students who have completed 10th or 11th grade; B average; age 16 by June 22",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.berkeley.edu/",
     "region": [
       "CA"
@@ -1227,7 +1227,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school and middle school students;Residential or commuter options;Age requirements vary by discipline",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.uncsa.edu/summer/",
     "region": [
       "South"
@@ -1264,7 +1264,7 @@
       "Internship"
     ],
     "eligibility": "High school students or recent graduates aged sixteen or older;Must commit to program schedule;Requires parental consent for minors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.loc.gov/internships-and-fellowships/",
     "region": [
       "Virtual"
@@ -1280,8 +1280,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "Doctoral level students;Must be eligible to work in the United States;Internship can be remote or hybrid",
-    "dueDate": "Not yet updated",
+    "eligibility": "Currently enrolled in a bachelor's program (master's preferred); must be authorized to work in the U.S.; applicants from NY, NJ, PA, TX, CA, and U.S. Territories not eligible",
+    "dueDate": "Not yet announced",
     "website": "https://www.cal.org/who-we-are/career-opportunities/interns/",
     "region": [
       "Virtual"
@@ -1335,8 +1335,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "high school students from Bay Area counties;emphasis on equity priority communities and students with disabilities",
-    "dueDate": "Not yet updated",
+    "eligibility": "Must live in the Bay Area and attend a local high school; at least 15 years old and completed 9th grade by program start; parental/guardian permission required if under 18",
+    "dueDate": "Not yet announced",
     "website": "https://mtc.ca.gov/jobs-contracts/job-opportunities/internships/high-school-internships",
     "region": [
       "CA"
@@ -1539,7 +1539,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising 7th-12th grade students;Open to all genders",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://wyse.grainger.illinois.edu/summer-programs/summer-camps",
     "region": [
       "Midwest"
@@ -2004,7 +2004,7 @@
       "Class"
     ],
     "eligibility": "Current high school sophomores and juniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
     "region": [
       "East Coast"
@@ -2077,7 +2077,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students in grades 9–12",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://admissions.rochester.edu/pre-college/programs/business/",
     "region": [
       "East Coast"
@@ -2223,7 +2223,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 15+",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.syr.edu/programs-courses/summer-college-residential/summer-college-residential-course-listing/",
     "region": [
       "Virtual"
@@ -2267,7 +2267,7 @@
   {
     "title": "Sports Business Academy - Wharton",
     "summary": "The Wharton Sports Business Academy is a two-week summer program that provides high school students with an introduction to the business of sports  including lectures on management  marketing  law and analytics by Wharton faculty and industry professionals.",
-    "location": "Philadelphia PA",
+    "location": "Online (live virtual sessions via Wharton Online Learning Platform)",
     "category": [
       "Business",
       "Leadership"
@@ -2275,11 +2275,11 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Current high school sophomores and juniors with strong academics and demonstrated interest in sports business; international applicants welcome",
+    "dueDate": "Not yet announced",
     "website": "https://www.wharton.upenn.edu/sports-business-academy/",
     "region": [
-      "East Coast"
+      "Virtual"
     ]
   },
   {
@@ -2321,7 +2321,7 @@
   {
     "title": "Business of Fashion - Parsons @ the New School",
     "summary": "The Inside the Business of Fashion and Luxury course is a pre-college online program that teaches high school students about the history of fashion brands  trend forecasting  marketing strategies and the cultural influence of fashion.",
-    "location": "Online (Parsons Paris France)",
+    "location": "Online",
     "category": [
       "Business",
       "Art/Design"
@@ -2329,8 +2329,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students ages 13 and up",
+    "dueDate": "Rolling admissions",
     "website": "https://fashionanddesign.precollegeprograms.org/business",
     "region": [
       "Virtual"
@@ -2368,7 +2368,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://wyse.gmu.edu/",
     "region": [
       "East Coast"
@@ -2579,7 +2579,7 @@
   {
     "title": "Juniper Institute for Young Writers - UMass Amherst",
     "summary": "The Juniper Institute for Young Writers at UMass Amherst is a two‑week residential program for high school writers. Participants attend intensive workshops  craft sessions and readings  and build a supportive writing community.",
-    "location": "Amherst MA",
+    "location": "Amherst MA or Online",
     "category": [
       "Creative Writing"
     ],
@@ -2587,7 +2587,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school sophomores; juniors and seniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.umass.edu/juniperyoungwriters/",
     "region": [
       "East Coast"
@@ -2634,7 +2634,7 @@
   {
     "title": "Kaiser Permanente Summer Youth Employment Program - Kaiser Permanente",
     "summary": "Kaiser Permanente’s Summer Youth Employment Program  also known as KP LAUNCH  is a paid seven-week internship that exposes high-school students to healthcare careers through hands-on work  mentorship and professional development workshops. The 2026 program runs June 15–July 31 with applications opening November 17  2025",
-    "location": "Southern California (various medical centers)",
+    "location": "Southern California and Hawaii (various medical centers)",
     "category": [
       "Health/Medicine",
       "Biology",
@@ -2643,8 +2643,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school students age 16+ living in participating service areas",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students 16+ (priority to 11th-12th graders) or college students 18-25 (18-28 for community college students); must reside near assigned KP medical center; high school participants cannot be dependents of KP employees",
+    "dueDate": "Not yet announced",
     "website": "https://community.kp.org/about/program/summer-youth-employment-program",
     "region": [
       "CA"
@@ -2884,8 +2884,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school students aged 15–18",
-    "dueDate": "Not yet updated",
+    "eligibility": "Completed at least one year of high school; must live and attend school in the SF Bay Area; must be within 25 driving miles of Stanford campus (no exceptions)",
+    "dueDate": "Applications Open: Feb 1; Deadline: Mar 15",
     "website": "https://sustainability.stanford.edu/admissions-education/k-12-outreach/young-investigators",
     "region": [
       "CA"
@@ -2903,8 +2903,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school sophomores or juniors aged 16–17; U.S. permanent residents",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising junior or senior; must be 16 years old by program start and not yet 18 by the last day; U.S. permanent resident residing and attending school in the U.S.",
+    "dueDate": "Not yet announced",
     "website": "https://education.ucdavis.edu/ysp-about",
     "region": [
       "CA"
@@ -3324,8 +3324,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students aged 13–17 interested in media and communications",
-    "dueDate": "Not yet updated",
+    "eligibility": "Ages 14–17 at camp start (13 if a rising freshman); interest in media/communications",
+    "dueDate": "Not yet announced",
     "website": "https://grady.uga.edu/apply/high-school-discovery/",
     "region": [
       "South"
@@ -3471,7 +3471,7 @@
       "Research"
     ],
     "eligibility": "Rising high school seniors; U.S. citizens or permanent residents; 16+",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Late Nov; Deadline: TBD",
     "website": "http://www.stonybrook.edu/commcms/simons/index.php",
     "region": [
       "Midwest"
@@ -3513,24 +3513,6 @@
     ]
   },
   {
-    "title": "Logic for All",
-    "summary": "This summer program takes place on the Stanford University campus and uses the same curriculum taught in the International Logic Olympiad, led by an award-winning high school teacher, a Stanford Computer Science professor, and Stanford student TAs. With engaging lectures, puzzles, projects, special events, and a small cohort of just 24 students, participants receive individualized attention while benefiting from the academic and cultural resources of Stanford University.",
-    "location": "CA",
-    "category": [
-      "Math",
-      "Computer Science"
-    ],
-    "format": [
-      "Class"
-    ],
-    "eligibility": "High School students",
-    "dueDate": "Not yet updated",
-    "website": "http://intrologic.stanford.edu/logicforall/logicisfundamental.html",
-    "region": [
-      "CA"
-    ]
-  },
-  {
     "title": "Pre-College Program in American History - William & Mary",
     "summary": "William & Mary’s Pre‑College Program in American History immerses high-school students in colonial American and Revolutionary history through lectures and fieldwork at historic sites. The three-week residential sessions (June 21–July 11 and July 12–August 1  2026) include visits to Williamsburg  Jamestown and Yorktown",
     "location": "Williamsburg VA",
@@ -3542,7 +3524,7 @@
       "Class"
     ],
     "eligibility": "High school students entering grades 11–12",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.wm.edu/as/niahd/precol/index.php",
     "region": [
       "East Coast"
@@ -3631,8 +3613,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school students during the 2024-2025 school year;United States residents",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students in the US during the 2026-2027 school year; letter of recommendation from a Math and/or Science teacher required",
+    "dueDate": "Applications Open: Jan 4; Deadline: Jan 28",
     "website": "https://med.stanford.edu/neurosurgery/education/JClub/HarrisInternship.html",
     "region": [
       "CA"
@@ -3703,8 +3685,8 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school sophomores; juniors and seniors (ages 14–18)",
-    "dueDate": "Not yet updated",
-    "website": "https://summer.lmu.edu/programs/2026programs/gseba/",
+    "dueDate": "Applications Open: Nov 15; Deadline: TBD",
+    "website": "https://summer.lmu.edu/programs/2027programs/gseba/",
     "region": [
       "West"
     ]
@@ -3776,8 +3758,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 16–18",
-    "dueDate": "Not yet updated",
+    "eligibility": "Current juniors (Class of 2027) or seniors (Class of 2026); at least 16 years old by program start; sophomores not eligible",
+    "dueDate": "Not yet announced",
     "website": "https://summer.yale.edu/apply/pre-college-students",
     "region": [
       "East Coast"
@@ -3833,7 +3815,7 @@
       "Research"
     ],
     "eligibility": "High-school students (primarily juniors and seniors) from the Bay Area interested in computational genetics",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/genecamp/process",
     "region": [
       "CA"
@@ -3911,25 +3893,6 @@
     "website": "https://aimi.stanford.edu/education/aimi-summer-bootcamp",
     "region": [
       "Virtual"
-    ]
-  },
-  {
-    "title": "NASA Internships - NASA",
-    "summary": "NASA Internships provide high-school students hands-on experience working alongside scientists and engineers at NASA centers. Interns assist with research and engineering projects and develop professional skills.",
-    "location": "Various NASA centers across the U.S.",
-    "category": [
-      "Science",
-      "Engineering",
-      "Computer Science"
-    ],
-    "format": [
-      "Internship"
-    ],
-    "eligibility": "High school students aged 16+ who are U.S. citizens",
-    "dueDate": "Not yet updated",
-    "website": "https://intern.nasa.gov/",
-    "region": [
-      "Various"
     ]
   },
   {
@@ -4020,7 +3983,7 @@
       "Research"
     ],
     "eligibility": "students at least 17;rising or graduating seniors;US citizen or permanent resident",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
     "region": [
       "South"
@@ -4388,8 +4351,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students; video audition",
-    "dueDate": "Not yet updated",
+    "eligibility": "Students in grades 6-12; video audition required",
+    "dueDate": "Not yet announced",
     "website": "https://www.interlochen.org/creative-writing/camp-programs",
     "region": [
       "Midwest"
@@ -4463,7 +4426,7 @@
       "Award/Competition"
     ],
     "eligibility": "Grades 7–12 (age 13+); U.S./Canada",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.artandwriting.org/awards/",
     "region": [
       "Virtual"
@@ -4707,7 +4670,7 @@
   {
     "title": "Summer Linguistic Institute for Youth Scholars - Ohio State University",
     "summary": "The Summer Linguistic Institute for Youth Scholars introduces high school students to the scientific study of human language through daily live sessions",
-    "location": "Columbus OH",
+    "location": "Virtual",
     "category": [
       "Various Subjects",
       "Science"
@@ -4716,7 +4679,7 @@
       "Class"
     ],
     "eligibility": "High school students; Grades 9‑12; interest in linguistics",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://linguistics.osu.edu/undergrad/sliys",
     "region": [
       "East Coast"
