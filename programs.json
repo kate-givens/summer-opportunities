@@ -587,7 +587,7 @@
   {
     "title": "CARE AI - Stanford",
     "summary": "A focused two-week summer program for high-school students interested in AI applied to Asian health outcomes and underserved communities, combining technology and health equity",
-    "location": "Palo Alto CA",
+    "location": "Stanford University campus, Palo Alto, CA (day program, no housing)",
     "category": [
       "Computer Science",
       "Health/Medicine"
@@ -595,8 +595,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "rising high school sophomores, juniors, and seniors in the United States who are 14 years old or older.",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising high school sophomores, juniors, or seniors; at least 14 years old; must live within commuting distance of Stanford's Palo Alto campus.",
+    "dueDate": "Not yet announced",
     "website": "https://asianhealth.stanford.edu/education/stanford-care-ai-summer-program-high-school-students",
     "region": [
       "CA"
@@ -831,7 +831,7 @@
   {
     "title": "Cornell Precollege Online Program - Cornell University",
     "summary": "Cornell’s Precollege Online Program allows rising juniors and seniors to earn 3–12 college credits by taking rigorous online courses across multiple disciplines during three- and six-week summer sessions or a three-week winter session.",
-    "location": "Online (Cornell University Ithaca NY)",
+    "location": "Online",
     "category": [
       "Science",
       "Math",
@@ -843,7 +843,7 @@
       "Class"
     ],
     "eligibility": "High school students aged 15–19 (rising or current juniors/seniors)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sce.cornell.edu/precollege/program/online",
     "region": [
       "Virtual"
@@ -997,7 +997,7 @@
   {
     "title": "Brown Environmental Leadership Lab - Brown University",
     "summary": "",
-    "location": "AK RI FL",
+    "location": "Alaska; Florida Keys, FL; Rhode Island (three program locations)",
     "category": [
       "Biology",
       "Environmental Science/Climate Activism"
@@ -1006,7 +1006,7 @@
       "Research"
     ],
     "eligibility": "Rising juniors and seniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.brown.edu/programs/bell-program",
     "region": [
       "Various"
@@ -1246,7 +1246,7 @@
       "Class"
     ],
     "eligibility": "Open to all learners;No prerequisites;Suitable for high school students and adults",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.edx.org/learn/game-design",
     "region": [
       "Various"
@@ -1576,7 +1576,7 @@
       "Class"
     ],
     "eligibility": "Open to all learners",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://clauswilke.com/dataviz/",
     "region": [
       "Virtual"
@@ -1913,7 +1913,7 @@
   {
     "title": "Brandeis Summer School - Brandeis University",
     "summary": "Brandeis Precollege Programs offer residential summer experiences such as BIMA (arts)  Genesis (social justice)  and Service Corps. Each two‑ or three‑week program combines academic exploration with cultural activities  community building and leadership training  welcoming high‑school students from around the world.",
-    "location": "Waltham MA",
+    "location": "Brandeis University, Waltham, MA (on-campus and online)",
     "category": [
       "Art/Design",
       "Leadership",
@@ -1924,7 +1924,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 9–12)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.brandeis.edu/summer/",
     "region": [
       "East Coast"
@@ -2179,7 +2179,7 @@
   {
     "title": "Business of Sports - Wake Forest University",
     "summary": "Wake Forest’s Business of Sports Institute offers high school students a week-long program exploring sports marketing  management and analytics through classes  guest speakers and site visits.",
-    "location": "Winston-Salem NC",
+    "location": "Online (synchronous via Zoom)",
     "category": [
       "Business",
       "Leadership"
@@ -2188,7 +2188,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://business.wfu.edu/business-of-sports/",
     "region": [
       "South"
@@ -2544,15 +2544,15 @@
   {
     "title": "Stanford Jazz Workshop - Stanford University",
     "summary": "Stanford Jazz Workshop’s summer programs include day and residential camps where young musicians study jazz theory  improvisation and ensemble performance with world‑class faculty. Programs range from one‑week day camps to two‑week intensive residencies.",
-    "location": "Stanford CA",
+    "location": "Stanford University campus, Braun Music Center, Stanford, CA (day and residential options)",
     "category": [
       "Music"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Middle and high school musicians (ages 12–19)",
-    "dueDate": "Not yet updated",
+    "eligibility": "Giant Steps: middle school musicians. Jazz Camp: ages 12–17. Jazz Institute: ages 14–18, by audition. One- and two-week session options.",
+    "dueDate": "Applications Open: Mid-October; Deadline: TBD",
     "website": "https://stanfordjazz.org/programs/summer-programs/",
     "region": [
       "East Coast"
@@ -2699,8 +2699,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (rising 10th–12th grade)",
-    "dueDate": "Not yet updated",
+    "eligibility": "Current 8th–12th graders; minimum 2.0 GPA.",
+    "dueDate": "Priority deadline: Jan 31, Regular deadline: May 15",
     "website": "https://summer.georgetown.edu/programs/SHS07/creative-writing-academy/how-to-apply",
     "region": [
       "East Coast"
@@ -2727,7 +2727,7 @@
   {
     "title": "Sally Ride Junior Academy - UCSD",
     "summary": "The Sally Ride Science Junior Academy at UC San Diego offers week-long STEAM workshops where students entering grades 6–12 assume roles like space explorer or marine biologist. Participants engage in hands-on projects across science  technology  engineering  arts and math",
-    "location": "La Jolla CA",
+    "location": "Wangenheim Middle School, San Diego, CA (K–8); UC San Diego Extended Studies, La Jolla, CA (high school)",
     "category": [
       "Science",
       "Engineering",
@@ -2736,8 +2736,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students entering grades 6–12",
-    "dueDate": "Not yet updated",
+    "eligibility": "K–12 students: Lower Elementary (K–1, 2–3), Upper Elementary (4–5), Middle School (6–8); High School (9–12) launching Summer 2027.",
+    "dueDate": "Applications Open: January; Deadline: TBD",
     "website": "https://extendedstudies.ucsd.edu/educational-programs/sally-ride-science-academy",
     "region": [
       "CA"
@@ -3072,7 +3072,7 @@
   {
     "title": "Student Science Training Program - University of Florida",
     "summary": "The University of Florida’s Student Science Training Program is a seven-week residential research experience for rising seniors. Participants conduct mentored research in university labs and present their findings at a symposium.",
-    "location": "Gainesville FL",
+    "location": "University of Florida, Gainesville, FL (residential, 7 weeks)",
     "category": [
       "Science",
       "Biology",
@@ -3082,8 +3082,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "Rising high school seniors (age 16+) with strong academics",
-    "dueDate": "Not yet updated",
+    "eligibility": "Rising 12th graders (apply spring of 11th grade year); at least 16 by program start; open worldwide with limited non-Florida spots; no minimum GPA but transcript should reflect high academic standards.",
+    "dueDate": "Not yet announced",
     "website": "https://www.cpet.ufl.edu/students/uf-cpet-summer-programs/student-science-training-program/",
     "region": [
       "South"
@@ -3196,8 +3196,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "students entering twelfth grade;rising seniors",
-    "dueDate": "Not yet updated",
+    "eligibility": "Domestic students currently in their junior year of high school, with strong interest in STEM/sciences.",
+    "dueDate": "Applications Open: Dec 17; Deadline: TBD",
     "website": "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/",
     "region": [
       "East Coast"
@@ -3567,7 +3567,7 @@
   {
     "title": "Stanford Neurodiversity Project-REACH",
     "summary": "A two-week camp for high-school students across the U.S. to explore neurodiversity advocacy, learn the science behind neurodiversity, and engage in design-thinking projects.",
-    "location": "Palo Alto CA",
+    "location": "Stanford University campus, Palo Alto, CA (in-person; hybrid remote option for one cohort)",
     "category": [
       "Neuroscience",
       "Health/Medicine"
@@ -3575,8 +3575,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school students (specific grade/age requirements not published on site).",
+    "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/neurodiversity/SNP-REACH2026.html",
     "region": [
       "CA"
@@ -3863,15 +3863,15 @@
   {
     "title": "Grammy Camp - Grammy Museum",
     "summary": "GRAMMY Camp invites high-school students to work with music industry professionals and GRAMMY nominees. 2026 sessions run in Nashville  Miami  Los Angeles and New York  covering performance  production  business and songwriting.",
-    "location": "Nashville TN; Miami FL; Los Angeles CA; New York NY",
+    "location": "Nashville, TN; Miami, FL; Los Angeles, CA; Seattle, WA; New York, NY (non-residential, five locations)",
     "category": [
       "Music"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students interested in music careers",
-    "dueDate": "Not yet updated",
+    "eligibility": "Grades 9–12, U.S. residents (graduating seniors eligible if graduating spring of program year); must reside with a parent/guardian or Grammy Museum-approved adult.",
+    "dueDate": "Feb 28",
     "website": "https://grammymuseum.org/education/grammy-camp/",
     "region": [
       "South"
@@ -4075,8 +4075,8 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 10–12) interested in writing",
-    "dueDate": "Not yet updated",
-    "website": "https://iyws.clas.uiowa.edu/",
+    "dueDate": "Not yet announced",
+    "website": "https://iyws.program.uiowa.edu/",
     "region": [
       "Midwest"
     ]
