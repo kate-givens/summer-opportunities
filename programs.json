@@ -1,5 +1,773 @@
 [
   {
+    "title": "Fred Hutch Summer High School Internship (SHIP)",
+    "summary": "SHIP is a competitive, full-time paid internship combining two weeks of laboratory training with six weeks of mentored cancer and biomedical research placement, plus professional development workshops and seminars, for students with minimal prior research experience.",
+    "location": "Seattle WA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Entering senior year (11th-12th grade); at least 16 by program start; strong academic background and scientific interest; must reside in the Greater Seattle area; available for the full eight weeks; no international students.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.fredhutch.org/en/education-training/high-school-students/summer-high-school-internship-program.html",
+    "region": [
+      "West"
+    ]
+  },
+  {
+    "title": "Georgetown Medical Immersion Academy",
+    "summary": "A three-week program offering deeper immersion in introductory medical-school topics including cell biology, immunology, cardiology, and emergency medicine procedures, taught by Georgetown School of Medicine faculty and medical students.",
+    "location": "Washington DC",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Minimum age 15; high school student.",
+    "dueDate": "Not yet announced",
+    "website": "https://summer.georgetown.edu/programs/SHS18/medical-academy/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "Thomas Jefferson University SummerScience",
+    "summary": "SummerScience@Jefferson is a four-week online immersive experience where students collaborate with Jefferson faculty, researchers, and postdoctoral scholars through interactive lectures and hands-on experiments investigating molecular biology, forensic science, cell biology, neuroscience, and disease mechanisms, culminating in a virtual symposium.",
+    "location": "Online",
+    "category": [
+      "Biology",
+      "Health/Medicine",
+      "Science"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "High school sophomores, juniors, or seniors in the current academic year.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.jefferson.edu/academics/colleges-schools-institutes/life-sciences/other-opportunities/summerscience-jefferson.html",
+    "region": [
+      "Virtual"
+    ]
+  },
+  {
+    "title": "University of Florida Summer Pre-Medical Professions Program (SPMPP)",
+    "summary": "A five-day immersive experience at UF College of Medicine where students shadow physicians, complete hands-on skill sessions, and work on a team-based capstone project with medical students and faculty.",
+    "location": "Gainesville FL",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Students currently in 10th or 11th grade; no minimum GPA; U.S. students welcome, limited spots for non-Florida residents.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.cpet.ufl.edu/students/summer-programs/summer-pre-medical-professions-program/",
+    "region": [
+      "South"
+    ]
+  },
+  {
+    "title": "Georgetown Nursing Academy",
+    "summary": "A one-week academy introducing high school students to nursing fundamentals and career specializations through faculty-led instruction and hands-on clinical experiences using a patient simulator, covering nursing foundations, healthcare ethics, and specializations like acute care and women's health.",
+    "location": "Washington DC",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Minimum age 15; high school student.",
+    "dueDate": "Not yet announced",
+    "website": "https://summer.georgetown.edu/programs/SHS26/nursing-academy/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "Fred Hutch Cord Blood Transplant Internship",
+    "summary": "This paid, part-time internship supports stem-cell transplantation research in clinical, laboratory, and public health contexts, with interns working directly with mentors on projects and presenting findings at conferences or events.",
+    "location": "Seattle WA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "High school: entering seniors, age 18+, interested in research, must be onsite in Seattle. Undergraduate/postbaccalaureate and graduate tracks have separate academic/clinical background requirements; all levels require onsite Seattle attendance.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.fredhutch.org/en/research/divisions/translational-science-and-therapeutics-division/cord-blood-transplant-program/internship-program.html",
+    "region": [
+      "West"
+    ]
+  },
+  {
+    "title": "Stanford Investigations in Genetics",
+    "summary": "This online course examines genes, genetic variation, and heredity through an interdisciplinary lens, exploring genetic mutation, disease, microbiome composition, and experimental design in relation to biology, medicine, and evolution.",
+    "location": "Online",
+    "category": [
+      "Biology",
+      "Health/Medicine"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Grades 9-11 at time of application; completion of a high school biology course.",
+    "dueDate": "Not yet announced",
+    "website": "https://summerinstitutes.spcs.stanford.edu/courses/2026/investigations-genetics",
+    "region": [
+      "Virtual"
+    ]
+  },
+  {
+    "title": "Stanford Biotechnology: Innovations and Applications",
+    "summary": "This Stanford Pre-Collegiate online course explores the intersection of biology, technology, and scientific innovation through biotechnology, covering molecular biology, genetics, biochemistry, and bioinformatics applications in medicine, agriculture, and industry.",
+    "location": "Online",
+    "category": [
+      "Biology",
+      "Health/Medicine",
+      "Technology"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Grades 9-11 at time of application; completion of a high school biology course.",
+    "dueDate": "Not yet announced",
+    "website": "https://summerinstitutes.spcs.stanford.edu/courses/2026/biotechnology-innovations-and-applications",
+    "region": [
+      "Virtual"
+    ]
+  },
+  {
+    "title": "UC Davis Health Summer VolunTEEN",
+    "summary": "A hospital and outpatient volunteer program giving students real-world experience in departments including Patient Transportation, Radiology, and Neuroscience Specialties, exploring potential healthcare careers.",
+    "location": "Sacramento CA",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Minimum age 16 by program start; two references (at least one from school personnel); signed parent/guardian permission; required vaccinations (MMR, Varicella, Tdap) and TB testing.",
+    "dueDate": "Not yet announced",
+    "website": "https://health.ucdavis.edu/volunteer/opportunities/summer-volunteen-program",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "UCSC Extension High School Healthcare Academy",
+    "summary": "This academy introduces high school students to healthcare and STEM fields through hands-on labs, mentorship from health professionals, and a formal human biology course earning UC credit, culminating in a capstone project.",
+    "location": "Santa Clara CA",
+    "category": [
+      "Health/Medicine",
+      "Biology"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Motivated students in grades 9-12 (as of Spring 2026); curiosity about science and interest in healthcare careers.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.ucsc-extension.edu/premed-postbacc/high-school-pathways",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Stony Brook Lab Techniques in Biotechnology",
+    "summary": "This program introduces high school students to techniques and equipment used in modern biotechnology research through hands-on work with model organisms, including bacterial transformations, gel electrophoresis, PCR analysis, and DNA/RNA extraction.",
+    "location": "Stony Brook NY",
+    "category": [
+      "Biology",
+      "Science"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Completion of NYS Living Environment curriculum (biology background required); chemistry background suggested; must complete ninth grade before the program starts.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.stonybrook.edu/commcms/istem/students/grades_5-12/summer/Techniques_Equipment.php",
+    "region": [
+      "NY"
+    ]
+  },
+  {
+    "title": "Hormel Institute High School Summer Research Scholars",
+    "summary": "This onsite biomedical research program immerses high school students in lab techniques and data analysis at The Hormel Institute, with a research portfolio and professional development activities.",
+    "location": "Austin MN",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Students entering grades 11-12 or recent (class of 2026) graduates; minimum 3.5 GPA; completed biology course; letter of recommendation from a science or math instructor.",
+    "dueDate": "Not yet announced",
+    "website": "https://hi.umn.edu/summer-scholar",
+    "region": [
+      "Midwest"
+    ]
+  },
+  {
+    "title": "CDC Museum Online Summer Course",
+    "summary": "A web-based course with synchronous and asynchronous components educating high school students on public health topics including epidemiology, global health, infectious and chronic disease, and emergency preparedness.",
+    "location": "Online",
+    "category": [
+      "Health/Medicine",
+      "Science"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "High school students during the summer before junior or senior year; at least 16 years old on the first day of the course.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.cdc.gov/museum/education/online-learning/index.htm",
+    "region": [
+      "Virtual"
+    ]
+  },
+  {
+    "title": "Lundquist Institute STAR High School Program",
+    "summary": "The STAR High School Program is an eight-week summer research experience where students conduct individual projects alongside physicians and scientists at the Lundquist Institute, culminating in a research presentation and stipend.",
+    "location": "Torrance CA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "High school junior or senior (as of Fall 2026) at a Los Angeles County school; outstanding general academic achievement with a focus on science coursework; full participation required (max three absences).",
+    "dueDate": "Not yet announced",
+    "website": "https://lundquist.org/education/high-school-summer-program/",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "SIU Pathways to Saluki Medicine",
+    "summary": "An overnight residential camp hosted by SIU School of Medicine's Physiology Department giving high school students hands-on learning in anatomy and physiology and interaction with healthcare professionals, including cadaver lab tours and clinical skills instruction.",
+    "location": "Carbondale IL",
+    "category": [
+      "Health/Medicine",
+      "Biology"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "High school students entering grades 10, 11, or 12; interest in medicine or biomedical science; must commit to the full 5-day residential program.",
+    "dueDate": "Not yet announced",
+    "website": "https://conferenceservices.siu.edu/camp-youth-programs/pathways-to-saluki-medicine.php",
+    "region": [
+      "IL"
+    ]
+  },
+  {
+    "title": "Scripps Research REACH Internship",
+    "summary": "The REACH high school internship gives students hands-on laboratory research experience and mentorship at Scripps Research, working full-time alongside scientist mentors and attending weekly professional development workshops.",
+    "location": "La Jolla CA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Must attend one of nine designated San Diego County partner schools; at least 16 years old; completed one year each of high school chemistry and biology; minimum 3.0 GPA; San Diego County resident; legally eligible to work in the U.S.; cannot have participated in REACH before.",
+    "dueDate": "Not yet announced",
+    "website": "https://education.scripps.edu/k-12-outreach/ca-outreach/hs-internships/",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Mass General Brigham Aspiring Physician and Medical Scientist Program",
+    "summary": "This program gives high school students hands-on healthcare and medical research experience with instruction from Mass General Brigham and Harvard Medical School faculty, including clinical simulations across specialties like surgery, emergency medicine, and pediatrics.",
+    "location": "Boston MA",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "No formal prerequisites; program targets motivated, high-achieving students interested in medicine or medical research careers; applications reviewed by faculty committee.",
+    "dueDate": "Rolling admissions",
+    "website": "https://www.mgbu.edu/aspiring-physician-and-medical-scientist-summer-program",
+    "region": [
+      "MA"
+    ]
+  },
+  {
+    "title": "UC Irvine Summer Online Research Program",
+    "summary": "A three-week mentored remote program that increases high school students' exposure to research methods, covering evidence-based medicine, literature evaluation, and research report writing, culminating in submitting an abstract to a national conference.",
+    "location": "Online",
+    "category": [
+      "Health/Medicine",
+      "Science"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Ages 15-18; minimum unweighted GPA of 3.3; interest in healthcare research; priority to students in higher grades.",
+    "dueDate": "Not yet announced",
+    "website": "https://medschool.uci.edu/education/pre-med-pathway-programs/summer-online-research-program",
+    "region": [
+      "Virtual"
+    ]
+  },
+  {
+    "title": "Tulane Genomic Insights",
+    "summary": "A hands-on genetics course where students learn how genes and proteins determine traits through molecular laboratory work including DNA extraction, PCR, and DNA digestion, applying these skills to analyze their own genetic material and investigate seafood mislabeling.",
+    "location": "New Orleans LA",
+    "category": [
+      "Biology",
+      "Science"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Students in grades 11-12.",
+    "dueDate": "Not yet announced",
+    "website": "https://summer.tulane.edu/course-listing/cell-1070-genomic-insights-exploring-dna-proteins-and-traits-lab-0",
+    "region": [
+      "South"
+    ]
+  },
+  {
+    "title": "FIU Junior Doctors of Tomorrow (JDOT)",
+    "summary": "A week-long enrichment program at FIU's Herbert Wertheim College of Medicine giving high school students clinical workshops, interactive sessions, and mentorship with medical professionals to explore healthcare careers.",
+    "location": "Miami FL",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Rising juniors or seniors; minimum 3.0 GPA; 500-word essay, teacher/counselor recommendation, and transcript required; limited to 30 students per session.",
+    "dueDate": "Not yet announced",
+    "website": "https://jdot.medicine.fiu.edu/",
+    "region": [
+      "South"
+    ]
+  },
+  {
+    "title": "Columbia YES in THE HEIGHTS",
+    "summary": "YES in the Heights is a two-year, paid cancer research internship where students work with faculty mentors at Columbia University Medical Center, attend journal clubs, and build research skills, aimed at increasing the pool of youth entering STEM fields.",
+    "location": "New York NY",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "U.S. citizen or permanent resident; at least 14 years old; good academic standing with demonstrated science aptitude; must commit to 8 weeks in person, 8 hours daily; priority to students from HICCC's service area or prior participants; highly competitive (<10% acceptance).",
+    "dueDate": "Not yet announced",
+    "website": "https://www.cancer.columbia.edu/education/educational-opportunities/high-school-and-undergraduate-programs/yes-heights-program",
+    "region": [
+      "NY"
+    ]
+  },
+  {
+    "title": "Emory Healthcare VolunTEEN",
+    "summary": "This program places high school students in hospital and clinic departments across the Emory Healthcare system for meaningful volunteer service, offering firsthand insight into healthcare careers.",
+    "location": "Atlanta GA",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "High school students aged 16-18 by June 1, 2026.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.emoryhealthcare.org/about/volunteering/volunteen-program",
+    "region": [
+      "South"
+    ]
+  },
+  {
+    "title": "UC Irvine Summer Healthcare Experience",
+    "summary": "A career exploration and empowerment program for students interested in healthcare careers, focused on equitable healthcare and reducing leadership disparities in medicine, held full-day and in-person at UC Irvine Medical Center.",
+    "location": "Orange CA",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "High school students aged 16-18 who will be rising juniors or seniors; must have turned 16 by program start; interest in pursuing healthcare careers.",
+    "dueDate": "Not yet announced",
+    "website": "https://medschool.uci.edu/education/pre-med-pathway-programs/summer-healthcare-experience",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Children's Hospital Los Angeles High School Summer Volunteer Program",
+    "summary": "Volunteers provide direct service to patients, families, and staff at Children's Hospital Los Angeles, including escorting and greeting patients, across a structured multi-week commitment.",
+    "location": "Los Angeles CA",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Ages 15-17 by program start; completed freshman year; commit to 16 hours weekly across four time blocks; full immunization records, negative TB screening, and drug/alcohol screening clearance required.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.chla.org/volunteering-hospital/high-school-summer-volunteer-program",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Moffitt High School Internship in Integrated Mathematical Oncology (HIP-IMO)",
+    "summary": "HIP-IMO is a ten-week research internship at Moffitt Cancer Center combining mathematics and biology for interdisciplinary cancer research alongside leading scientists.",
+    "location": "Tampa FL",
+    "category": [
+      "Health/Medicine",
+      "Math",
+      "Biology"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Check program website for current eligibility details; not fully specified on the page fetched.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.moffitt.org/education/research-education-and-training/pre-college-programs/hip-imo/",
+    "region": [
+      "South"
+    ]
+  },
+  {
+    "title": "Astera Summer High School Oncology Research Experience (ASHORE)",
+    "summary": "ASHORE lets students work on real oncology research projects under physician mentorship, with clinical projects, specialized lectures, physician shadowing, and potential national-conference presentations, in a hybrid in-person/remote format.",
+    "location": "Central NJ/PA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Completed 9th grade or higher; completed 1 year of biology; demonstrated significant interest in cancer and medical research.",
+    "dueDate": "Not yet announced",
+    "website": "https://asteracancercare.org/ashore/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "UCLA NeuroCamp",
+    "summary": "NeuroCamp is a free UCLA summer course introducing a small cohort of motivated high school students to foundational concepts and lab techniques in molecular neurobiology, neurophysiology, and neuroanatomy.",
+    "location": "Los Angeles CA",
+    "category": [
+      "Neuroscience",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "High school students in grades 9-12; must reside in Los Angeles County; required to attend the full program (no partial participation).",
+    "dueDate": "Not yet announced",
+    "website": "https://bri.ucla.edu/outreach/neurocamp-grades-9-12/",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "UT Tyler Summer Medical Programs",
+    "summary": "UT Tyler School of Medicine offers three distinct summer tracks for high schoolers: the Pathways SUPERNet Summer Medical Scholars Academy (five-day residential healthcare-career overview for 9th-11th graders), the Summer Research and Clinical Externship (two-week research and shadowing experience for seniors and college students), and Pre-Med Camp (admissions/interview prep with clinical and research exposure for economically disadvantaged East Texas-area juniors/seniors). May need to be split into separate entries given differing eligibility and formats.",
+    "location": "Tyler TX",
+    "category": [
+      "Health/Medicine",
+      "Science"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Varies by track: Medical Scholars Academy open to current 9th-11th graders; Research/Clinical Externship open to HS seniors through college juniors in good academic standing; Pre-Med Camp open to economically disadvantaged rising juniors/seniors (or homeschooled) with East Texas ties.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.uttyler.edu/academics/colleges-schools/medicine/pathways/summer-programs/",
+    "region": [
+      "TX"
+    ]
+  },
+  {
+    "title": "Rockefeller Summer Neuroscience Program (SNP)",
+    "summary": "SNP is a two-week course for New York City public high schoolers led by Rockefeller graduate students, featuring interactive lectures, scientific article presentations, original experiment design, brain dissection, and facility tours, with all expenses covered.",
+    "location": "New York NY",
+    "category": [
+      "Neuroscience",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Must be enrolled in a New York City public school; at least 16 years old by program start; motivated, mature, and curious students, regardless of grades or experience; program particularly welcomes students with limited prior science opportunities.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.rockefeller.edu/outreach/snp/",
+    "region": [
+      "NY"
+    ]
+  },
+  {
+    "title": "MIT-Weill Cornell HIP-SAT",
+    "summary": "HIP-SAT places homeschooled high school students in eight-week paid research internships in MIT or Weill Cornell Medicine labs, with mentorship from PhD students and postdocs across chemical biology, chemistry, and engineering, culminating in an August symposium.",
+    "location": "Cambridge MA or New York NY",
+    "category": [
+      "Science",
+      "Health/Medicine",
+      "Technology"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Homeschooled high school students; must be local to Cambridge/Boston or NYC, or arrange own local housing (program does not provide/supervise housing).",
+    "dueDate": "Not yet announced",
+    "website": "https://hip-sat.mit.edu/summer-2026-program/",
+    "region": [
+      "Northeast"
+    ]
+  },
+  {
+    "title": "UCSF CURE Research Internship",
+    "summary": "The CURE Research Internship is an eight-week summer program where high school juniors and community college students conduct original research at UCSF under faculty and graduate mentor guidance, exploring biomedical career paths across multiple disciplines and presenting findings at a closing symposium.",
+    "location": "San Francisco CA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Current 11th grader or current City College of San Francisco student; at least 16 by program start; minimum 2.5 GPA; completed Biology or Chemistry with a grade of B or better; able to commit 40 hours/week for 8 weeks.",
+    "dueDate": "Not yet announced",
+    "website": "https://cseo.ucsf.edu/cure-internship",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Salk High School Summer Scholars (Heithoff-Brody)",
+    "summary": "The Salk Institute's Heithoff-Brody High School Summer Scholars Program is an eight-week paid internship where students work alongside Salk scientists on original research projects, with lab work, seminars, industry visits, and a closing research symposium.",
+    "location": "La Jolla CA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "San Diego County resident attending high school in the county; at least 16 by program start; minimum 2.75 GPA; completed at least one high school biology course; applicants under 18 need a work permit; chemistry coursework and reliable transportation preferred.",
+    "dueDate": "Applications Open: Dec 1; Deadline: Feb 15",
+    "website": "https://www.salk.edu/about/education-outreach/programs/high-school-scholars/",
+    "region": [
+      "CA"
+    ]
+  },
+  {
+    "title": "Boston University BLAST",
+    "summary": "BLAST is a paid internship featuring problem-based learning and laboratory practicums that build scientific literacy and readiness for college-level science coursework, with mentorship from undergraduate, graduate, and medical students.",
+    "location": "Boston MA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Rising high school junior, senior, or graduating senior with demonstrated interest in science; honors or advanced STEM coursework preferred.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.bumc.bu.edu/medsci/training/beams/blast/",
+    "region": [
+      "MA"
+    ]
+  },
+  {
+    "title": "Georgetown Medical Academy",
+    "summary": "A one-week residential or commuter program introducing high school students to medicine through lectures, interactive experiences, and group discussions covering anatomy, physiology, radiology, surgery, cancer, and biomedical ethics, with hands-on suturing, casting, dissections, and simulator work.",
+    "location": "Washington DC",
+    "category": [
+      "Health/Medicine"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Minimum age 15; high school student.",
+    "dueDate": "Not yet announced",
+    "website": "https://summer.georgetown.edu/programs/SHS19/medical-academy/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "Texas A&M BioFORCE",
+    "summary": "BioFORCE is a hands-on STEM summer program introducing high school students to biomanufacturing through facility tours, lectures, labs, and industry professional interactions, offered as a residential camp in College Station or a commuter camp in Dallas.",
+    "location": "College Station TX or Dallas TX",
+    "category": [
+      "Biology",
+      "Engineering",
+      "Science"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Students in grades 9-12; at least 15 years old.",
+    "dueDate": "Not yet announced",
+    "website": "https://nctm.tamu.edu/training-and-programs/bioforce/",
+    "region": [
+      "TX"
+    ]
+  },
+  {
+    "title": "CDC Museum Disease Detective Camp",
+    "summary": "An interdisciplinary in-person day camp at CDC headquarters immersing high school students in public health topics including epidemiology, infectious and chronic disease, and emergency preparedness through a fast-paced, academically demanding curriculum.",
+    "location": "Atlanta GA",
+    "category": [
+      "Health/Medicine",
+      "Science"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "High school students during the summer before junior or senior year; at least 16 years old on the first day of camp.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.cdc.gov/museum/camp/detective/index.htm",
+    "region": [
+      "South"
+    ]
+  },
+  {
+    "title": "Campbell University BIOS²",
+    "summary": "BIOS² (Biotechnology, Inquiry, Outreach, and STEM2) is a residential week-long program letting students explore health sciences through laboratory work, workshops, and campus experiences, investigating careers in biotech, pharmacology, and related fields.",
+    "location": "Buies Creek NC",
+    "category": [
+      "Biology",
+      "Health/Medicine",
+      "Science"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Rising 9th through 12th grade high school students.",
+    "dueDate": "Not yet announced",
+    "website": "https://cphs.campbell.edu/centers-programs/science-education-outreach/academy-for-emerging-scholars/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "Memorial Sloan Kettering Summer Student Program",
+    "summary": "This eight-week biomedical or computational lab-based internship pairs high school juniors with mentors at MSK's Manhattan campus for a self-directed research project, alongside professional development events exploring translational medicine.",
+    "location": "New York NY",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Current high school juniors only; permanent address within 25 miles of MSK's Upper East Side Manhattan location; minimum 3.5 GPA in science subjects; at least 14 by June 2026; legally authorized to work in the U.S.; able to commit to all eight weeks.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.mskcc.org/education-training/summer-student",
+    "region": [
+      "NY"
+    ]
+  },
+  {
+    "title": "Duke University Neuroscience Experience (DUNE)",
+    "summary": "DUNE is a full-time summer research program engaging local high school students in neuroscience labs at Duke University, with hands-on research mentorship, professional development workshops, and a stipend.",
+    "location": "Durham NC",
+    "category": [
+      "Neuroscience",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Research"
+    ],
+    "eligibility": "Current high school sophomores or juniors attending one of 16 specified Durham, NC public/charter schools; at least 16 by June 15, 2026; reliable daily transportation to Duke; U.S. citizen, national, or legal resident.",
+    "dueDate": "Not yet announced",
+    "website": "https://dibs.duke.edu/education/dune/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "Drexel Public Health Institute for Leadership & Advocacy (PHILA)",
+    "summary": "PHILA is a one-week academic program exploring public health career paths, where students engage with field experts, visit local health organizations, and develop solutions to real-world public health challenges in Philadelphia.",
+    "location": "Philadelphia PA",
+    "category": [
+      "Health/Medicine",
+      "Politics/Advocacy"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "High school juniors and seniors within commuting distance of Drexel's campus; interest in public health, medicine, healthcare, law, communications, environmental sciences, policy, sociology, or psychology.",
+    "dueDate": "Not yet announced",
+    "website": "https://drexel.edu/dornsife/academics/pre-college-programs/",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
+    "title": "University of Houston Mohanlab Summer Internship (MLSI)",
+    "summary": "MLSI offers rising seniors eight weeks of bench research in biomedical sciences, bioengineering, big data analytics, and neuroscience at MohanLab, including initial lab-technique instruction, mentored research, and a closing presentation.",
+    "location": "Houston TX",
+    "category": [
+      "Health/Medicine",
+      "Engineering",
+      "Science"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Rising seniors (completed 11th grade); strong academic track record preferred; interest in biomedical, bioengineering, or computer science fields.",
+    "dueDate": "Not yet announced",
+    "website": "https://mohanlab.bme.uh.edu/open-positions/high-school-students/",
+    "region": [
+      "TX"
+    ]
+  },
+  {
+    "title": "Loma Linda ABC High School Program",
+    "summary": "The Apprenticeship Bridge to College (ABC) Program is a full-time summer internship in health disparities research for Inland Empire high school students, combining hands-on biomedical research with seminars on health disparities and scientific/communication skill-building.",
+    "location": "Loma Linda CA",
+    "category": [
+      "Health/Medicine",
+      "Science",
+      "Biology"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "Talented Inland Empire (Southern California) high school students; see program's 'Who Can Apply' page for full criteria.",
+    "dueDate": "Not yet announced",
+    "website": "https://medicine.llu.edu/chdmm/education-and-training/high-school-students",
+    "region": [
+      "CA"
+    ]
+  },
+  {
     "title": "Experiences in Research (EinR) - Berkeley Lab",
     "summary": "Paid six-week summer internship at Lawrence Berkeley National Laboratory where high schoolers work directly with Berkeley Lab professionals on real projects in STEM and STEM-adjacent fields. Project areas include experimental research and data collection, data science (coding and non-coding), coding-dependent projects, and administration/science communication. Students review a project booklet and rank their top three choices when applying. Interns work roughly 30-35 hours per week; projects are hybrid or virtual depending on the host office. Goals include building mentor connections, professional STEM skills, and experience in science communication and collaboration.",
     "location": "Berkeley CA (hybrid or virtual depending on project)",
@@ -544,7 +1312,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec 11; Deadline: TBD",
     "website": "https://cooper.edu/engineering/stem/summer",
     "region": [
       "East Coast"
@@ -561,7 +1329,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://k12stem.engineering.nyu.edu/programs ",
     "region": [
       "East Coast"
@@ -613,7 +1381,7 @@
       "Program/Camp"
     ],
     "eligibility": "Mature, highly talented California community college, high school, and university scholars from diverse backgrounds; no formal GPA/test criteria published",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.sportsindustryacademy.com/",
     "region": [
       "CA"
@@ -630,7 +1398,7 @@
       "Program/Camp"
     ],
     "eligibility": "Completed at least 9th grade; rigorous high school curriculum. Domestic deadline May 8, 2026; international deadline March 13, 2026 (international students need English proficiency test or waiver)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.usc.edu/summer-programs/course-options/",
     "region": [
       "CA"
@@ -916,7 +1684,7 @@
       "Program/Camp"
     ],
     "eligibility": "current high school students aged 14 or older",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://precollege.barnard.edu/nextgen-leadership-institute",
     "region": [
       "East Coast"
@@ -1170,7 +1938,7 @@
       "Program/Camp"
     ],
     "eligibility": "Highly motivated high school students entering junior or senior year;Must attend every class;Limited seats",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.scu.edu/ysp/",
     "region": [
       "CA"
@@ -1373,7 +2141,7 @@
       "Class"
     ],
     "eligibility": "Open to all learners;No formal prerequisites;Recommended for aspiring business students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Rolling admissions",
     "website": "https://www.coursera.org/specializations/wharton-business-foundations",
     "region": [
       "Virtual"
@@ -1427,8 +2195,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "high school students; interest driven; open enrollment",
-    "dueDate": "Not yet updated",
+    "eligibility": "Middle and high school students; interest-driven; open enrollment",
+    "dueDate": "Oct 15",
     "website": "http://polygence.com",
     "region": [
       "Virtual"
@@ -1482,7 +2250,7 @@
       "Internship"
     ],
     "eligibility": "California high school students; priority for those underrepresented in science",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.sparksmp.org/",
     "region": [
       "CA"
@@ -1578,28 +2346,6 @@
     "eligibility": "Open to all learners",
     "dueDate": "Not yet announced",
     "website": "https://clauswilke.com/dataviz/",
-    "region": [
-      "Virtual"
-    ]
-  },
-  {
-    "title": "Online General Assembly Courses - General Assembly",
-    "summary": "General Assembly offers online bootcamps and short courses in software engineering data science user experience design digital marketing and cybersecurity. The self paced or part time programs are open to adult learners with flexible start dates and no application deadline.",
-    "location": "Virtual",
-    "category": [
-      "Computer Science",
-      "Engineering",
-      "Science",
-      "Art/Design",
-      "Business",
-      "Technology"
-    ],
-    "format": [
-      "Class"
-    ],
-    "eligibility": "Adult learners;Open enrollment",
-    "dueDate": "Not yet updated",
-    "website": "https://generalassemb.ly/",
     "region": [
       "Virtual"
     ]
@@ -1762,7 +2508,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.thecrucible.org/youth-programs/?gclid=Cj0KCQiAqOucBhDrARIsAPCQL1an_lgXVo_ISlgTUz9e57f4PDfUlwII1Y0-yO53ngct80eApPtuTT8aAihrEALw_wcB&gclsrc=aw.ds",
     "region": [
       "East Coast"
@@ -2348,7 +3094,7 @@
       "Program/Camp"
     ],
     "eligibility": "Students entering grades 9–11 (ages 14–17)",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://uncw.edu/marinequest/",
     "region": [
       "South"
@@ -2388,7 +3134,7 @@
       "Program/Camp"
     ],
     "eligibility": "Students entering 11th or 12th grade",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "http://essyi.hws.edu/",
     "region": [
       "West"
@@ -2499,7 +3245,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school sophomores; juniors and seniors",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://summer.georgetown.edu/programs/SHS03/business-academy",
     "region": [
       "East Coast"
@@ -2663,7 +3409,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Applications open Nov 15, 2026 (exact deadline TBD)",
+    "dueDate": "Applications Open: Nov 15; Deadline: TBD",
     "website": "https://summer.lmu.edu/programs/programfinder/#programs",
     "region": [
       "CA"
@@ -2756,7 +3502,7 @@
       "Research"
     ],
     "eligibility": "Rising high school seniors (current juniors) enrolled in SFUSD or a San Francisco public charter school only; no exceptions. Priority to low-income and first-generation students",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sep.ucsf.edu/programs/high-school-students/intern-program/",
     "region": [
       "CA"
@@ -2775,7 +3521,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising 9th–12th graders (ages 14–17); some programs for rising 6th–8th graders",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.iit.edu/academics/pre-college-programs/summer",
     "region": [
       "Midwest"
@@ -2794,7 +3540,7 @@
       "Program/Camp"
     ],
     "eligibility": "Exceptional high school students entering grades 9–12",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec; Deadline: TBD",
     "website": "https://www.smith.edu/academics/precollege-programs/summer-science-engineering",
     "region": [
       "East Coast"
@@ -3009,8 +3755,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school juniors and seniors (age 16+) with strong science skills",
-    "dueDate": "Not yet updated",
+    "eligibility": "High school juniors and seniors; minimum age 16 by program start (July 4 for the 2026 cycle); unweighted GPA of approximately 95/100 (3.8/4.0); standardized test scores at or above the 60th percentile; strong science coursework (Honors/AP/IB a plus but not required)",
+    "dueDate": "Not yet announced",
     "website": "https://www.stonybrook.edu/commcms/garcia/summer_program/apply",
     "region": [
       "East Coast"
@@ -3100,7 +3846,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 16–18 who love writing",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://kenyonreview.org/high-school-workshops/",
     "region": [
       "Midwest"
@@ -3253,7 +3999,7 @@
       "Internship"
     ],
     "eligibility": "High school seniors who will be 18+ before June 1, 2026 start; Colorado residency required for HS applicants; must be available for the full 9-week program",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.childrenscolorado.org/research-innovation/training-opportunities",
     "region": [
       "West"
@@ -3271,7 +4017,7 @@
       "Program/Camp"
     ],
     "eligibility": "Current 11th grade (rising senior); demonstrated leadership experience; minimum 3.5 unweighted GPA; international applicants welcome. Priority deadline Jan 28, 2026; final deadline March 18, 2026",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
     "region": [
       "East Coast"
@@ -3399,7 +4145,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 14–17",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sage.slac.stanford.edu/",
     "region": [
       "CA"
@@ -3510,6 +4256,24 @@
     "website": "https://exst.umd.edu/pre-college-programs",
     "region": [
       "East Coast"
+    ]
+  },
+  {
+    "title": "Logic for All",
+    "summary": "This summer program takes place on the Stanford University campus and uses the same curriculum taught in the International Logic Olympiad, led by an award-winning high school teacher, a Stanford Computer Science professor, and Stanford student TAs. With engaging lectures, puzzles, projects, special events, and a small cohort of just 24 students, participants receive individualized attention while benefiting from the academic and cultural resources of Stanford University.",
+    "location": "CA",
+    "category": [
+      "Math",
+      "Computer Science"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "High School students",
+    "dueDate": "Not yet updated",
+    "website": "http://intrologic.stanford.edu/logicforall/logicisfundamental.html",
+    "region": [
+      "CA"
     ]
   },
   {
@@ -3907,7 +4671,7 @@
       "Program/Camp"
     ],
     "eligibility": "students ages 13-18;strong mathematical ability;admission via qualifying quiz",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.mathcamp.org/",
     "region": [
       "Northeast"
@@ -4021,7 +4785,7 @@
       "Research"
     ],
     "eligibility": "Advanced high school students in grades 10-11; strong interest in research; international students need proof of English proficiency and a student visa",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Dec 15; Deadline: Feb 16",
     "website": "https://belinblank.education.uiowa.edu/students/sstp/",
     "region": [
       "Midwest"
@@ -4041,7 +4805,7 @@
       "Program/Camp"
     ],
     "eligibility": "California high school students (grades 8–12), GPA 3.5+, demonstrated STEM aptitude",
-    "dueDate": "Not yet updated",
+    "dueDate": "Applications Open: Jan 6; Deadline: Feb 5",
     "website": "https://cosmos-ucop.ucdavis.edu/",
     "region": [
       "CA"
@@ -4149,7 +4913,7 @@
       "Program/Camp"
     ],
     "eligibility": "students aged 16 or older;current sophomores or juniors;B average;B or higher in English",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://www.cmu.edu/pre-college/academic-programs/writing-and-culture.html",
     "region": [
       "East Coast"
@@ -4185,7 +4949,7 @@
       "Program/Camp"
     ],
     "eligibility": "students aged 16 or older who are current sophomores or juniors;B average;interest in software visual arts music or production",
-    "dueDate": "Not yet updated",
+    "dueDate": "Priority deadline: Feb 1, Regular deadline: Mar 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
     "region": [
       "East Coast"
@@ -4479,7 +5243,7 @@
       "Program/Camp"
     ],
     "eligibility": "",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://sps.northwestern.edu/college-preparation/in-focus-sessions.html",
     "region": []
   },
@@ -4511,8 +5275,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students; rising sophomores and juniors; academically motivated",
-    "dueDate": "Not yet updated",
+    "eligibility": "3-week for-credit courses: open to current high school sophomores and juniors. 1-week non-credit courses: open to current high school first-years, sophomores, and juniors.",
+    "dueDate": "Applications Open: Dec 15; Deadline: TBD",
     "website": "https://www.carleton.edu/summer/pre-college/",
     "region": [
       "Midwest"
