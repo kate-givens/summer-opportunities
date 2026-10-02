@@ -1,5 +1,27 @@
 [
   {
+    "title": "SHAPE (Summer High School Academic Program for Engineers) - Columbia Engineering",
+    "summary": "SHAPE is Columbia Engineering's pre-college summer program, offering two 3-week sessions (students may attend one or both). Each student chooses one college-level engineering course taught by Columbia faculty for the session, with options spanning robotics and autonomous driving, walking robots, biomedical engineering, intro programming, data structures and algorithms, AI and data science, solar/electrical engineering, chemical engineering, sustainable engineering, healthcare engineering, and operations research. Hands-on project work and time in Columbia's Makerspace are paired with electives, workshops on public speaking and college preparation (including sessions from Columbia undergraduate admissions), a research programming series, and support from Columbia students. Commuter and residential options are available. No college credit is awarded, but students receive a faculty letter of recommendation and a program certificate.",
+    "location": "New York NY",
+    "category": [
+      "Engineering",
+      "Computer Science",
+      "Math",
+      "Health/Medicine",
+      "Technology",
+      "Environmental Science/Climate Activism"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Commuter option: all current high school students (freshmen through seniors). Residential option: students 16 and older, mostly reserved for U.S.-based students with a limited number of international students. Application requires 3 essays (plus 1 more for residential), most recent transcript or report card, a letter of recommendation from a math or science teacher, and a resume. Chemical Engineering course requires completed high school Chemistry. Admitted students must comply with Columbia's public health requirements.",
+    "dueDate": "Application opens November 2026; deadline not yet announced (2026 cycle had rolling admissions with a Dec 22 priority deadline)",
+    "website": "https://outreach.engineering.columbia.edu/shape/courses",
+    "region": [
+      "East Coast"
+    ]
+  },
+  {
     "title": "Fred Hutch Summer High School Internship (SHIP)",
     "summary": "SHIP is a competitive, full-time paid internship combining two weeks of laboratory training with six weeks of mentored cancer and biomedical research placement, plus professional development workshops and seminars, for students with minimal prior research experience.",
     "location": "Seattle WA",
@@ -1101,7 +1123,7 @@
       "Class"
     ],
     "eligibility": "Minimum age 15 at program start; COVID-19 vaccination required; high school transcript submission required",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/anatomy/education/casp.html",
     "region": [
       "CA"
@@ -1137,7 +1159,7 @@
       "Research"
     ],
     "eligibility": "High school and community college students of all backgrounds; no prior laboratory experience required",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://plasticsurgery.stanford.edu/research/stars.html",
     "region": [
       "National"
@@ -1155,7 +1177,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students",
-    "dueDate": "Applications Open: Nov 2026",
+    "dueDate": "Applications Open: Nov 2026; Deadline: TBD",
     "website": "https://med.stanford.edu/psychiatry/special-initiatives/techx.html",
     "region": [
       "CA"
@@ -2325,7 +2347,7 @@
       "Class"
     ],
     "eligibility": "High school students age 13 plus;Must have taken Algebra",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Feb 2027; Deadline: TBD",
     "website": "https://joyofcoding.eecs.umich.edu/",
     "region": [
       "Virtual"
@@ -3701,7 +3723,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (particularly underrepresented groups) with strong math ability",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Early Jan 2027; Deadline: TBD",
     "website": "http://mathroots.mit.edu/",
     "region": [
       "East Coast"
