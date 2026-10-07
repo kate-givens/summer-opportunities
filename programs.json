@@ -2251,7 +2251,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "rising high school juniors and seniors; GPA 3.0 plus; US citizens or permanent residents",
+    "eligibility": "US citizens or permanent residents attending US-based high schools; rising high school juniors/seniors or college freshmen (Fall 2026 entry); must have completed at least one high school biology course; unweighted GPA of 3.0 or higher",
     "dueDate": "Not yet announced",
     "website": "https://www.nasa.gov/ames/genelab-for-high-schools/",
     "region": [
@@ -2710,7 +2710,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students aged 15–18 with strong academics",
+    "eligibility": "Ages 15-17; advanced students interested in public policy",
     "dueDate": "Not yet announced",
     "website": "https://www.johnlockeinstitute.com/princeton-summer-school",
     "region": [
@@ -2810,8 +2810,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Current middle school students (grades 6–8)",
-    "dueDate": "Not yet announced",
+    "eligibility": "Current middle school students (grades 6–8); must be at least 11 years old",
+    "dueDate": "Rolling admissions",
     "website": "https://www.nslcleaders.org/middle-school-summer-programs/",
     "region": [
       "Various"
@@ -3373,7 +3373,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "11th grade students interested in medicine, dental medicine, or biomedical research; must be able to commute daily",
+    "eligibility": "11th grade students interested in medicine, dental medicine, or biomedical research; minimum B average after junior year; must be at least 16 by program start; first-generation college, low-income, or educationally under-resourced students; Connecticut resident attending a CT high school; U.S. citizen or permanent resident; must be able to commute daily",
     "dueDate": "Not yet announced",
     "website": "https://health.uconn.edu/hcop/enrichment-programs/high-school-student-research-apprentice-program/",
     "region": [
@@ -3830,8 +3830,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students entering grades 10–12 with strong math and science skills",
-    "dueDate": "Not yet announced",
+    "eligibility": "Must be at least 16 years old by June 26, 2027; U.S. citizen or permanent resident with current green card; current 11th grade student at time of application; demonstrated interest in AI (no prior coding experience necessary)",
+    "dueDate": "Feb 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/ai_scholars.html",
     "region": [
       "East Coast"
@@ -4952,8 +4952,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Must be 16 years of age by June 20 of the program year; in 10th-11th or 11th-12th grade during the summer; academic average of B (3.0/4.0) or better",
-    "dueDate": "Not yet announced",
+    "eligibility": "Must be at least 16 years old by June 26, 2027; current high school sophomore or junior at time of application; academic average of B (3.0/4.0) or better",
+    "dueDate": "Priority deadline: Feb 1, Regular deadline: Mar 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html",
     "region": [
       "East Coast"
@@ -5193,7 +5193,7 @@
       "Program/Camp"
     ],
     "eligibility": "Ages 16-18; current high school sophomores or juniors",
-    "dueDate": "Applications Open: Sept 16; Deadline: TBD",
+    "dueDate": "Priority deadline: Oct 15, Regular deadline: Jan 6",
     "website": "https://globalscholars.yale.edu/",
     "region": [
       "East Coast"
