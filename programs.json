@@ -802,7 +802,7 @@
       "Internship"
     ],
     "eligibility": "Current 10th, 11th, or 12th graders enrolled in Northern California schools, with experience doing independent work. Must be at least 16 by the mid-June program start; must meet both age and grade requirements. All Northern California applicants reviewed, but priority given to students within ~30 miles of Berkeley Lab. Former interns not eligible. Oakland USD students must also complete the ECCCO common application.",
-    "dueDate": "Not yet updated",
+    "dueDate": "Not yet announced",
     "website": "https://k12education.lbl.gov/programs/high-school/experiences-in-research",
     "region": [
       "CA"
@@ -1367,7 +1367,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Varies by program: ROAR Academy requires demonstrated STEM aptitude (advanced CA high schoolers); Berkeley M.E.T. Innovation Academy (M.E.T.ia) is for rising juniors/seniors with strong science, tech, math, and communication skills",
+    "eligibility": "Varies by program.",
     "dueDate": "Not yet announced",
     "website": "https://engineering.berkeley.edu/about/equity-and-inclusion/k-12-outreach/k-12-programs-resources/",
     "region": [
@@ -2016,7 +2016,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school and middle school students;Residential or commuter options;Age requirements vary by discipline",
+    "eligibility": "High school students eligible for Summer Intensives (hands-on instruction with professional artists); middle schoolers are directed to separate community programs (Acting Out, Community Music School, Preparatory Dance) rather than the Intensives; other age/requirements vary by discipline.",
     "dueDate": "Not yet announced",
     "website": "https://www.uncsa.edu/summer/",
     "region": [
@@ -2053,7 +2053,7 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school students or recent graduates aged sixteen or older;Must commit to program schedule;Requires parental consent for minors",
+    "eligibility": "High school students or recent graduates aged 16 or older; must be U.S. citizens; must commit to program schedule; requires parental consent for minors.",
     "dueDate": "Not yet announced",
     "website": "https://www.loc.gov/internships-and-fellowships/",
     "region": [
@@ -3394,7 +3394,7 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school students 16+ (priority to 11th-12th graders) or college students 18-25 (18-28 for community college students); must reside near assigned KP medical center; high school participants cannot be dependents of KP employees",
+    "eligibility": "High school students 16+ (priority to 11th-12th graders; some sites accept 10th graders); must reside near assigned KP medical center; cannot be a dependent of a KP employee or PMG physician; must be authorized to work in the U.S.; students under 18 need a work permit covering the entire program.",
     "dueDate": "Not yet announced",
     "website": "https://community.kp.org/about/program/summer-youth-employment-program",
     "region": [
@@ -4583,7 +4583,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High-school students (primarily juniors and seniors) from the Bay Area interested in computational genetics",
+    "eligibility": "High school students (age 16+) from Alameda, Contra Costa, San Francisco, San Mateo, Santa Clara, or Santa Cruz County; unweighted GPA 3.0+; some prior coursework or experience in biology, chemistry, or computer programming.",
     "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/genecamp/process",
     "region": [
@@ -4743,17 +4743,17 @@
     "summary": "The Clark Scholars Program is a seven week residential research program where high school seniors conduct faculty mentored research in a chosen discipline. Participants receive room board and a stipend while exploring advanced topics",
     "location": "Lubbock TX",
     "category": [
-      "Various Subjects",
       "Science",
       "Engineering",
-      "Humanities"
+      "Health/Medicine",
+      "Technology"
     ],
     "format": [
       "Research"
     ],
-    "eligibility": "students at least 17;rising or graduating seniors;US citizen or permanent resident",
-    "dueDate": "Not yet announced",
-    "website": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+    "eligibility": "Highly qualified high school juniors and seniors; must be 17 by program start (no exceptions); international students welcome to apply.",
+    "dueDate": "Applications Open: Jan 2, 2027; Due: February 15, 2027",
+    "website": "https://www.depts.ttu.edu/clarkscholars/",
     "region": [
       "South"
     ]
