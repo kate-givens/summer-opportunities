@@ -1959,7 +1959,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Highly motivated high school students entering junior or senior year;Must attend every class;Limited seats",
+    "eligibility": "Highly motivated high school students entering junior or senior year; must attend every class; cannot travel or take other summer programs during program dates; limited seats",
     "dueDate": "Not yet announced",
     "website": "https://www.scu.edu/ysp/",
     "region": [
@@ -2254,26 +2254,6 @@
     "eligibility": "US citizens or permanent residents attending US-based high schools; rising high school juniors/seniors or college freshmen (Fall 2026 entry); must have completed at least one high school biology course; unweighted GPA of 3.0 or higher",
     "dueDate": "Not yet announced",
     "website": "https://www.nasa.gov/ames/genelab-for-high-schools/",
-    "region": [
-      "CA"
-    ]
-  },
-  {
-    "title": "Spark Internship",
-    "summary": "The SPARK program offers California high school students a six week paid research internship in stem cell and regenerative medicine labs; interns learn about stem cell science and present their work at a statewide symposium",
-    "location": "California research institutes",
-    "category": [
-      "Biology",
-      "Various Subjects",
-      "Science",
-      "Health/Medicine"
-    ],
-    "format": [
-      "Internship"
-    ],
-    "eligibility": "California high school students; priority for those underrepresented in science",
-    "dueDate": "Not yet announced",
-    "website": "https://www.sparksmp.org/",
     "region": [
       "CA"
     ]
@@ -3851,7 +3831,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students aged 16–18 who love writing",
-    "dueDate": "Not yet announced",
+    "dueDate": "Mar 1",
     "website": "https://kenyonreview.org/high-school-workshops/",
     "region": [
       "Midwest"
@@ -5239,7 +5219,7 @@
   {
     "title": "In Focus Seminars - Northwestern University",
     "summary": "",
-    "location": "Virtual",
+    "location": "Evanston, IL",
     "category": [
       "Various Subjects"
     ],
