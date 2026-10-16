@@ -2713,7 +2713,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (grades 9–11)",
-    "dueDate": "Applications Open: Dec 1; Deadline: TBD",
+    "dueDate": "Priority deadline: Mar 1, Regular deadline: Apr 1",
     "website": "https://precollege.washu.edu/",
     "region": [
       "Midwest"
@@ -2963,7 +2963,7 @@
   {
     "title": "Entrepreneurship Academy - Georgetown University",
     "summary": "Georgetown’s Entrepreneurship Academy guides high school students through the process of launching a start-up by teaching ideation  market research  business planning and pitching during intensive one- or two-week sessions.",
-    "location": "Washington DC or Online",
+    "location": "Washington DC",
     "category": [
       "Business",
       "Leadership"
@@ -3849,8 +3849,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students entering grades 10–12 with strong math and science skills",
-    "dueDate": "Not yet announced",
+    "eligibility": "Completed freshman year (9th grade); for rising sophomores and juniors (current seniors are not eligible); minimum age 15 by program start; minimum 3.0 GPA, with strong math/science coursework preferred",
+    "dueDate": "Applications Open: Dec 1; Deadline: Feb 17",
     "website": "https://esap.engineering.upenn.edu/",
     "region": [
       "East Coast"
@@ -4590,8 +4590,8 @@
     ]
   },
   {
-    "title": "Student Internship Program - UC Santa Cruz",
-    "summary": "The Student Internship Program at UC Santa Cruz is an eight-week research internship placing high-school students in university labs to work on science  engineering or computer science projects. Students receive mentorship  attend workshops and present their findings at the program’s conclusion.",
+    "title": "Scholar Immersion Program (SIP, formerly Student Internship Program) - UC Santa Cruz",
+    "summary": "The Scholar Immersion Program (SIP) at UC Santa Cruz — renamed from \"Science Internship Program\" effective August 2026 — is an eight-week research internship placing high-school students in university labs to work on science, engineering, social science, humanities, or art projects. Students receive mentorship, attend workshops and present their findings at the program's conclusion.",
     "location": "Santa Cruz CA",
     "category": [
       "Science",
