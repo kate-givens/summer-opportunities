@@ -15,7 +15,7 @@
       "Program/Camp"
     ],
     "eligibility": "Commuter option: all current high school students (freshmen through seniors). Residential option: students 16 and older, mostly reserved for U.S.-based students with a limited number of international students. Application requires 3 essays (plus 1 more for residential), most recent transcript or report card, a letter of recommendation from a math or science teacher, and a resume. Chemical Engineering course requires completed high school Chemistry. Admitted students must comply with Columbia's public health requirements.",
-    "dueDate": "Application opens November 2026; deadline not yet announced (2026 cycle had rolling admissions with a Dec 22 priority deadline)",
+    "dueDate": "Priority deadline: Dec 16, Regular deadline: Mar 5",
     "website": "https://outreach.engineering.columbia.edu/shape/courses",
     "region": [
       "East Coast"
@@ -1158,7 +1158,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school and community college students of all backgrounds; no prior laboratory experience required",
+    "eligibility": "High school and community college students of all backgrounds; US-based applicants only (no international applicants); must be 16 years old by program start; letter of recommendation required; no prior laboratory experience required",
     "dueDate": "Not yet announced",
     "website": "https://plasticsurgery.stanford.edu/research/stars.html",
     "region": [
@@ -1507,8 +1507,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students; no prior experience in health or game design required",
+    "dueDate": "Applications Open: Nov 25; Deadline: TBD",
     "website": "https://stanfordmedicalhumanities.org/videogamesforhealth",
     "region": [
       "CA"
@@ -2615,11 +2615,11 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students; no prerequisites",
-    "dueDate": "Not yet announced",
+    "eligibility": "Completed at least 9th grade by start of program; domestic or international students eligible; international applicants require English proficiency (e.g. IELTS 7+); rolling admission",
+    "dueDate": "International deadline: Mar 12, Domestic deadline: May 7",
     "website": "https://precollege.usc.edu/summer-programs/international-relations/",
     "region": [
-      "East Coast"
+      "CA"
     ]
   },
   {
@@ -2730,8 +2730,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (grades 9–12)",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students (grades 8–12 during the academic year prior to the program); minimum 2.0 GPA; personal statement and counselor/teacher recommendation required",
+    "dueDate": "Priority deadline: Jan 31, Regular deadline: May 15",
     "website": "https://summer.georgetown.edu/programs/SHS14/international-relations-academy",
     "region": [
       "East Coast"
@@ -2825,8 +2825,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (ages 14–18)",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students (grades 8–12) with at least a 2.0 GPA; personal statement and counselor/teacher recommendation required",
+    "dueDate": "Priority deadline: Jan 31, Regular deadline: May 15",
     "website": "https://summer.georgetown.edu/programs/SHS22/sports-industry-management-academy/",
     "region": [
       "East Coast"
