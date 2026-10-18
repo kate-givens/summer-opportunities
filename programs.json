@@ -890,8 +890,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Entering grades 10-12 (Fall 2026); beginner-level programming or above",
-    "dueDate": "Not yet announced",
+    "eligibility": "Students entering 10th-12th grade (Fall 2027); beginner+ level, interest in games/game development. No application required (enrollment via portal).",
+    "dueDate": "Applications Open: Jan 31; Deadline: TBD",
     "website": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/game-development",
     "region": [
       "TX"
@@ -982,7 +982,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "Rising junior or senior; must be a full-time NYC resident attending an NYC school",
+    "eligibility": "Rising juniors and seniors (upcoming school year); full-time NYC residents attending NYC schools only. Free for all participants; $2,000 stipend on completion.",
     "dueDate": "Not yet announced",
     "website": "https://k12stem.engineering.nyu.edu/programs/arise",
     "region": [
@@ -1812,7 +1812,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Grades 9-12 and recent high school graduates",
+    "eligibility": "Grades 9-12 (recent graduates welcome); international students may apply (no F-1 visa support); swim test required for accepted students.",
     "dueDate": "Not yet announced",
     "website": "https://researchscholars.ucsd.edu/currentprograms/hawaii/index.html",
     "region": [
@@ -2271,7 +2271,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Grades 9-12 at registration; must be U.S. citizens or permanent residents currently living in the U.S.; recommended A/B grades in science and at least one year of high school biology",
+    "eligibility": "Grades 9-12; U.S. citizens or permanent residents (green card) living in the U.S.",
     "dueDate": "Not yet announced",
     "website": "https://explore.stanford.edu/",
     "region": [
@@ -2398,8 +2398,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students with pre-calculus/trig background",
-    "dueDate": "Not yet announced",
+    "eligibility": "Completed at least 9th grade by start of program; domestic and international high school students may apply; international applicants need English proficiency (SAT/ACT/TOEFL/IELTS/PTE/Duolingo or waiver).",
+    "dueDate": "Priority deadline: Mar 12, Regular deadline: May 7",
     "website": "https://precollege.usc.edu/summer-programs/",
     "region": [
       "West"
@@ -2454,9 +2454,9 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school students (including incoming freshmen)",
+    "eligibility": "Academically motivated high school students (including incoming freshmen); Sequencing Your Genome Camp requires age 16+ with parental/student consent. International students welcome (time zone permitting).",
     "dueDate": "Not yet announced",
-    "website": "https://www.mircore.org/2024-summer-camp/",
+    "website": "https://www.mircore.org/2026-summer-camp/",
     "region": [
       "CA"
     ]
@@ -2526,7 +2526,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students entering grades 9-12 (ages 14-18)",
+    "eligibility": "Open to all students entering freshman-senior year of high school (summer); ages 14-18 enrolled in high school (fall/spring). No portfolio required.",
     "dueDate": "Not yet announced",
     "website": "https://sva.edu/academics/pre-college/grades-9-12",
     "region": [
@@ -2651,7 +2651,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students ages 14-18; must have completed at least one year of high school; may attend through the summer following graduation",
+    "eligibility": "Grades 9-12; ages 14-18 having completed at least one year of high school. Residential (campus dormitories).",
     "dueDate": "Not yet announced",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/political-action-public-policy/",
     "region": [
@@ -2769,7 +2769,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students ages 14-18; must have completed at least one year of high school; may attend through the summer following graduation",
+    "eligibility": "Grades 9-12; ages 14-18 having completed at least one year of high school. Residential (campus dormitories at Georgetown & Columbia).",
     "dueDate": "Not yet announced",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/international-diplomacy/?gclid=Cj0KCQjw--2aBhD5ARIsALiRlwCZSjxL-79K8JU6oXCuir2zUXhQbxUlZaOuFX7jzDRLx_Au4tR4gTEaAv_XEALw_wcB",
     "region": [
@@ -3448,9 +3448,9 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students entering grades 9–12; ages 14–18",
-    "dueDate": "Not yet announced",
-    "website": "https://www.sarahlawrence.edu/summer/pre-college/",
+    "eligibility": "Students entering 9th-12th grade the following fall; must be age 14+ (16+ to stay on campus residentially; younger students may commute). No application required - open enrollment.",
+    "dueDate": "Rolling admissions",
+    "website": "https://www.sarahlawrence.edu/precollege/writers-week/index.html",
     "region": [
       "Virtual"
     ]
@@ -3560,8 +3560,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 14–19",
-    "dueDate": "Open Now",
+    "eligibility": "High school students ages 14-18. Approx. 30% acceptance rate for Entrepreneurship Programs.",
+    "dueDate": "Applications Open: Oct 1; Priority deadline: Nov 11, Regular deadline: Mar 31",
     "website": "https://www.launchx.com/",
     "region": [
       "Virtual"
@@ -3704,7 +3704,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school juniors and seniors with strong physics and math skills",
+    "eligibility": "High school sophomores, juniors, and seniors (grades 10-12) at time of application; no prior coding/astronomy experience required; limited international spots; housing not provided (must arrange own transportation).",
     "dueDate": "Not yet announced",
     "website": "https://sites.northwestern.edu/cierahs/",
     "region": [
@@ -4415,7 +4415,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising 10th–11th graders; minimum 2.50 GPA; preference to EAOP participants; first-generation or low-income students",
+    "eligibility": "Rising 10th and 11th graders; minimum 2.5 GPA; program designed to serve first-generation and low-income students.",
     "dueDate": "Not yet announced",
     "website": "https://cseo.ucsf.edu/eaop/summer-opportunities",
     "region": [
@@ -4952,8 +4952,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "high school juniors who are US citizens or permanent residents;preference for underrepresented students",
-    "dueDate": "Not yet announced",
+    "eligibility": "U.S. citizens or permanent residents (green card); high school juniors (11th graders); test scores optional; unofficial transcript required.",
+    "dueDate": "Feb 1",
     "website": "https://mites.mit.edu/discover-mites/mites-summer/",
     "region": [
       "East Coast"
@@ -4989,7 +4989,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Rising high school seniors (select rising juniors also eligible); requires ACT/SAT or Pre-ACT/Pre-SAT scores, advanced coursework in chemistry/physics/calculus, leadership roles, and letters of recommendation",
+    "eligibility": "Rising high school seniors; ACT/SAT (or Pre-ACT/Pre-SAT) scores, high-level chemistry/physics/calculus coursework, leadership roles, letters of recommendation. $100 non-refundable application fee.",
     "dueDate": "Not yet announced",
     "website": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
     "region": [
