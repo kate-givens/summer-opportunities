@@ -1256,7 +1256,7 @@
   {
     "title": "Summer Mock Trial Boot Camp - UC Irvine",
     "summary": "Note: this is not a residential program.",
-    "location": "Irvine CA",
+    "location": "Virtual (online via Zoom)",
     "category": [
       "Politics/Advocacy",
       "Various Subjects"
@@ -1264,10 +1264,12 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
+    "eligibility": "Current high school student or incoming college freshman; not recommended for students who have previously participated; must have a Zoom account and reliable internet access; open to students outside the U.S. (all sessions run 9am-3pm Pacific Time).",
     "dueDate": "Not yet announced",
     "website": "https://www.anteatermocktrial.com/summer-bootcamp-overview",
-    "region": []
+    "region": [
+      "Virtual"
+    ]
   },
   {
     "title": "Architecture Career Workshop - CalPoly",
@@ -3937,7 +3939,7 @@
   {
     "title": "Aspiring Scientists Summer Internship Program (ASSIP) - GMU College of Science",
     "summary": "ASSIP is an eight week research internship at George Mason University where students are paired with faculty mentors to conduct laboratory or computational research. Orientation occurs in June and participants gain real scientific experience",
-    "location": "Fairfax VA",
+    "location": "Fairfax, Manassas, or Woodbridge VA (remote and hybrid options also available)",
     "category": [
       "Various Subjects",
       "Science",
@@ -4674,7 +4676,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "high school juniors or seniors;at least 16;US citizen or permanent resident",
+    "eligibility": "Current high school juniors/seniors (as of fall 2026), graduating class of 2027 or 2028; at least 16 years old by program start (June 2027); must currently live in and attend high school in the U.S., and be a U.S. citizen or permanent resident; selection heavily favors local (Bay Area) students.",
     "dueDate": "Applications Open: Dec 18; Deadline: TBD",
     "website": "https://simr.stanford.edu/",
     "region": [
@@ -4806,7 +4808,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Rising high school juniors and seniors with strong math aptitude",
+    "eligibility": "Students in 10th or 11th grade at time of application, with exceptional interest in mathematics; should have experience writing/reading mathematical proofs and strong mastery of high school geometry and algebra (familiarity with number theory/modular arithmetic suggested); must be at least 15 during the program; residential session limited to minors (under 18 during program), online session open to ages 15+ including 18+.",
     "dueDate": "Not yet announced",
     "website": "https://sumac.spcs.stanford.edu/",
     "region": [
@@ -5026,8 +5028,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school seniors; top 10% of class; leadership experience; 16+",
-    "dueDate": "Applications Open: Oct 19; Deadline: TBD",
+    "eligibility": "Current high school junior entering senior year in Fall 2027, planning to attend college immediately after high school; generally top 10% of class with the most rigorous curriculum available; demonstrated leadership in school/community/organizations; must be at least 16 years old by/on August 1, 2027 (no exceptions); SAT (1300-1500) or ACT (31+) preferred but not required.",
+    "dueDate": "Applications Open: Oct 19; Deadline: Jan 20",
     "website": "https://precollege.nd.edu/leadership-seminars/",
     "region": [
       "Midwest"
@@ -5044,7 +5046,7 @@
       "Program/Camp"
     ],
     "eligibility": "Ages 14-19; open to high school students who have not yet begun full-time college or conservatory study",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Nov 1; Deadline: Jan 19",
     "website": "https://www.bu.edu/cfa/tanglewood/program/yavp/",
     "region": [
       "East Coast"
