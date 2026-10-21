@@ -1466,7 +1466,7 @@
   {
     "title": "Coding for Game Design - NYU",
     "summary": "A two weeks program where students learn game design fundamentals + C# + Unity scripting as part of teams.",
-    "location": "NYU Downtown Brooklyn, Brooklyn, NY",
+    "location": "Brooklyn, NY (NYU Downtown Brooklyn, CREATE Lab)",
     "category": [
       "Game Design",
       "Computer Science"
@@ -1474,8 +1474,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students entering sophomore, junior, or senior year of high school in Fall 2026; intermediate coding skills with at least one formal coding class completed at B+ or higher",
-    "dueDate": "Applications Open: Early Jan; Deadline: TBD",
+    "eligibility": "Entering sophomore, junior, or senior year of high school; intermediate coding level required",
+    "dueDate": "Applications Open: Early January; Deadline: TBD",
     "website": "https://steinhardt.nyu.edu/create/high-school-summer-program?utm_source=chatgpt.com",
     "region": [
       "East Coast"
@@ -2103,8 +2103,7 @@
     "summary": "The Los Altos History Museum’s Teen Docent Program trains high school students to lead museum tours and assist with exhibitions. A one week intensive training is followed by monthly volunteer service giving participants public speaking practice and leadership experience",
     "location": "Los Altos California",
     "category": [
-      "History",
-      "Various Subjects"
+      "History"
     ],
     "format": [
       "Internship"
@@ -2137,15 +2136,14 @@
   {
     "title": "SF YouthWorks - JCYCSF",
     "summary": "SF YouthWorks places high school students in paid internships at San Francisco city departments with job readiness workshops mentorship and leadership activities. Participants gain experience in public service and earn hourly wages while exploring careers",
-    "location": "San Francisco California",
+    "location": "San Francisco, CA",
     "category": [
-      "Various Subjects",
       "Politics/Advocacy"
     ],
     "format": [
       "Internship"
     ],
-    "eligibility": "11th and 12th grade students and graduating seniors;Must reside or attend school in San Francisco;Work permit required",
+    "eligibility": "11th–12th graders; must reside or attend school in San Francisco; must be able to obtain a work permit",
     "dueDate": "Applications Open: February; Deadline: TBD",
     "website": "https://www.jcycworkhub.org/programs/youthworks",
     "region": [
@@ -2374,7 +2372,7 @@
   {
     "title": "Program in Algorithmic and Combinatorial Thinking (PACT) - Rutgers/UPenn",
     "summary": "PACT is an intensive summer program in theoretical computer science where high-school students study discrete mathematics  combinatorics  graph theory and algorithms. Proof-based lectures and guest talks help participants develop rigorous reasoning skills.",
-    "location": "Princeton NJ",
+    "location": "Philadelphia, PA (UPenn campus; hybrid virtual + in-person options)",
     "category": [
       "Math",
       "Computer Science"
@@ -2382,8 +2380,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school algebra background; strong interest in theoretical CS; willingness to work hard. Offered as virtual, in-person commuter, or in-person residential tracks",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students (completed grade 9+); basic Algebra 1 knowledge required",
+    "dueDate": "Rolling admissions",
     "website": "https://algorithmicthinking.org/",
     "region": [
       "East Coast"
@@ -2484,7 +2482,7 @@
   {
     "title": "Pre-College Program in Design - Georgia Tech",
     "summary": "Georgia Tech’s Pre-College Design program features two-week workshops in architecture  industrial design  building construction and music technology. Rising juniors and seniors work with faculty and students to explore design disciplines.",
-    "location": "Atlanta GA",
+    "location": "Atlanta, GA",
     "category": [
       "Art/Design",
       "Engineering",
@@ -2493,7 +2491,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising juniors and seniors (10th–12th graders)",
+    "eligibility": "Rising high school juniors and seniors",
     "dueDate": "Not yet announced",
     "website": "https://design.gatech.edu/precollege",
     "region": [
@@ -2683,7 +2681,7 @@
   {
     "title": "Princeton Summer School - John Locke Institute",
     "summary": "The John Locke Institute’s Princeton Summer School invites academically ambitious high‑school students to join one‑ or two‑week seminars in philosophy  politics  economics and law. Students engage in small‑group tutorials  debates and essay writing to develop analytical thinking and independent reasoning.",
-    "location": "Princeton NJ",
+    "location": "Princeton, NJ",
     "category": [
       "Politics/Advocacy",
       "Business",
@@ -2692,7 +2690,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Ages 15-17; advanced students interested in public policy",
+    "eligibility": "Ages 15–17",
     "dueDate": "Not yet announced",
     "website": "https://www.johnlockeinstitute.com/princeton-summer-school",
     "region": [
@@ -2930,7 +2928,7 @@
   {
     "title": "HEC Paris Summer School Youth Programs - HEC Paris",
     "summary": "HEC Paris’ youth programs give high school students an introduction to business  entrepreneurship and leadership through courses  workshops and team projects on HEC’s campus outside Paris.",
-    "location": "Paris France",
+    "location": "Jouy-en-Josas, France",
     "category": [
       "Business",
       "Leadership"
@@ -2938,7 +2936,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 15-18",
+    "eligibility": "High school students, ages 15–18",
     "dueDate": "Not yet announced",
     "website": "https://www.hec.edu/en/summer-school/youth-programs",
     "region": [
@@ -3259,7 +3257,7 @@
   {
     "title": "Camp Business - Drexel University",
     "summary": "Drexel University’s Camp Business is a daytime program that introduces rising sophomores  juniors and seniors to accounting  marketing  finance and management. Students learn leadership  professionalism and business fundamentals through workshops and team projects.",
-    "location": "Philadelphia PA",
+    "location": "Philadelphia, PA",
     "category": [
       "Business",
       "Leadership"
@@ -3267,7 +3265,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school sophomores; juniors and seniors",
+    "eligibility": "Rising high school sophomores, juniors, and seniors",
     "dueDate": "Not yet announced",
     "website": "https://www.lebow.drexel.edu/academics/pre-college-programs/camp-business",
     "region": [
@@ -3324,26 +3322,6 @@
     "website": "https://www.umass.edu/juniperyoungwriters/",
     "region": [
       "East Coast"
-    ]
-  },
-  {
-    "title": "High School Student Research Apprentice Program - UConn",
-    "summary": "UConn’s High School Student Research Apprentice Program places high school juniors and seniors in research labs at UConn Health to conduct biomedical projects alongside scientists. The six-week summer program exposes students to lab techniques and health professions.",
-    "location": "UConn Health (Farmington CT) or Central Connecticut State University",
-    "category": [
-      "Biology",
-      "Health/Medicine",
-      "Science"
-    ],
-    "format": [
-      "Research"
-    ],
-    "eligibility": "11th grade students interested in medicine, dental medicine, or biomedical research; minimum B average after junior year; must be at least 16 by program start; first-generation college, low-income, or educationally under-resourced students; Connecticut resident attending a CT high school; U.S. citizen or permanent resident; must be able to commute daily",
-    "dueDate": "Not yet announced",
-    "website": "https://health.uconn.edu/hcop/enrichment-programs/high-school-student-research-apprentice-program/",
-    "region": [
-      "East Coast",
-      "Virtual"
     ]
   },
   {
@@ -3405,7 +3383,7 @@
   {
     "title": "Electrify Tech Camp - University of Michigan",
     "summary": "The University of Michigan’s Electrify Tech Camp series offers non-residential  week-long engineering camps covering topics like nanotechnology  quantum mechanics  laser and plasma science  and electric vehicle power. Students learn through hands-on projects and lectures led by U-M faculty and can join interest lists for the 2026 sessions",
-    "location": "Ann Arbor MI",
+    "location": "Ann Arbor, MI",
     "category": [
       "Engineering",
       "Science",
@@ -4176,14 +4154,14 @@
   {
     "title": "Ross Mathematics Program - Ohio State University",
     "summary": "The Ross Program is a six week intensive camp where high school students explore number theory through daily lectures problem sessions and group work. The program operates at Otterbein University in Columbus Ohio and at Rose Hulman Institute of Technology in Terre Haute Indiana and admits students ages fifteen to eighteen.",
-    "location": "Columbus OH;Terre Haute IN",
+    "location": "Columbus, OH (Otterbein University) and Terre Haute, IN (Rose-Hulman Institute)",
     "category": [
       "Math"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Ages 15-18;High school students;Exceptionally mature 14 year olds",
+    "eligibility": "Ages 15–18 (rare exceptions); competitive admission; international students accepted, English fluency required",
     "dueDate": "Not yet announced",
     "website": "https://rossprogram.org/",
     "region": [
@@ -4284,14 +4262,14 @@
   {
     "title": "Brown’s Pre-College Program - Brown University",
     "summary": "Brown University’s Pre College Programs offer more than three hundred courses on campus and online so high school students can explore academic interests and experience college life",
-    "location": "Providence RI and Online",
+    "location": "Providence, RI (on-campus, online, and hybrid options across multiple distinct Brown Pre-College programs)",
     "category": [
       "Various Subjects"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students meeting age and grade prerequisites",
+    "eligibility": "Students completing grades 9–12; ages 14–18 by program start (exact cutoff date varies by year)",
     "dueDate": "Not yet announced",
     "website": "https://precollege.brown.edu/",
     "region": [
@@ -5364,7 +5342,7 @@
   {
     "title": "HighTech Bound - University of New Hampshire",
     "summary": "HighTech Bound is a four-week summer internship at the University of New Hampshire InterOperability Lab where high-school students work with engineers on networking and communications projects. Participants learn about computer networking  attend technical lectures and gain workplace experience.",
-    "location": "Durham NH",
+    "location": "Durham, NH",
     "category": [
       "Engineering",
       "Computer Science",
@@ -5373,8 +5351,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school juniors entering senior year; at least 16; interest in computer networking",
-    "dueDate": "Not yet announced",
+    "eligibility": "Rising seniors (completed junior year); U.S. residents only",
+    "dueDate": "Applications Open: Jan 1; Deadline: TBD",
     "website": "https://www.iol.unh.edu/stem/hightech-bound",
     "region": [
       "West"
@@ -5392,8 +5370,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "high school sophomores;rising juniors;residents of East Palo Alto Belle Haven North Fair Oaks or Redwood City;minimum 2.0 GPA",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school sophomores; residents of East Palo Alto, Belle Haven, North Fair Oaks, or Redwood City; minimum 2.0 GPA",
+    "dueDate": "Applications Open: Dec 1; Deadline: Feb 14",
     "website": "https://metasummeracademy.com/",
     "region": [
       "CA"
