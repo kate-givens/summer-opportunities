@@ -1,5 +1,32 @@
 [
   {
+    "title": "Business Academy for Youth (B-BAY) - UC Berkeley",
+    "summary": "",
+    "location": "",
+    "category": [
+      "Business"
+    ],
+    "format": [],
+    "eligibility": "",
+    "dueDate": "Not yet updated",
+    "website": "https://haas.berkeley.edu/business-academy/",
+    "region": []
+  },
+  {
+    "title": "Biotech Summer Experience - Lawrence Livermore National Laboratory",
+    "summary": "",
+    "location": "CA",
+    "category": [
+      "Technology",
+      "Biology"
+    ],
+    "format": [],
+    "eligibility": "",
+    "dueDate": "Not yet updated",
+    "website": "https://st.llnl.gov/sci-ed/summer-workshops/biotech-summer-experience",
+    "region": []
+  },
+  {
     "title": "SHAPE (Summer High School Academic Program for Engineers) - Columbia Engineering",
     "summary": "SHAPE is Columbia Engineering's pre-college summer program, offering two 3-week sessions (students may attend one or both). Each student chooses one college-level engineering course taught by Columbia faculty for the session, with options spanning robotics and autonomous driving, walking robots, biomedical engineering, intro programming, data structures and algorithms, AI and data science, solar/electrical engineering, chemical engineering, sustainable engineering, healthcare engineering, and operations research. Hands-on project work and time in Columbia's Makerspace are paired with electives, workshops on public speaking and college preparation (including sessions from Columbia undergraduate admissions), a research programming series, and support from Columbia students. Commuter and residential options are available. No college credit is awarded, but students receive a faculty letter of recommendation and a program certificate.",
     "location": "New York NY",
@@ -1193,8 +1220,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Ages 15-18 (must be 15 by session start); minimum 3.0 GPA; no prior mock trial experience required; proof of age and recent transcript required",
-    "dueDate": "Not yet announced",
+    "eligibility": "Ages 15-18 (must be 15 by session start); minimum 3.0 GPA.",
+    "dueDate": "Priority deadline: Feb 12",
     "website": "https://www.mocktrialinstitute.com/program-activities",
     "region": [
       "CA"
@@ -2168,25 +2195,6 @@
     "website": "https://education.sdsc.edu/studenttech/rehs/",
     "region": [
       "CA"
-    ]
-  },
-  {
-    "title": "Ladder Internships",
-    "summary": "Ladder Internships is a virtual program where high school students work with startups and nonprofits around the world; participants gain real world experience through project based internships and mentorship",
-    "location": "Virtual",
-    "category": [
-      "Business",
-      "Art/Design",
-      "Technology"
-    ],
-    "format": [
-      "Internship"
-    ],
-    "eligibility": "ambitious high school students; selective admission",
-    "dueDate": "Not yet announced",
-    "website": "https://www.ladderinternships.com/",
-    "region": [
-      "Virtual"
     ]
   },
   {
@@ -5155,7 +5163,7 @@
       "Research"
     ],
     "eligibility": "High school juniors & seniors; age 16+",
-    "dueDate": "January 4, 2026",
+    "dueDate": "Jan 4",
     "website": "https://www.rockefeller.edu/outreach/ssrp/",
     "region": [
       "East Coast"
