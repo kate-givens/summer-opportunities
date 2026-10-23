@@ -2,27 +2,31 @@
   {
     "title": "Business Academy for Youth (B-BAY) - UC Berkeley",
     "summary": "",
-    "location": "",
+    "location": "UC Berkeley, CA",
     "category": [
       "Business"
     ],
-    "format": [],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "High school and gap-year students; Founder Bootcamp requires founders with validated traction (e.g., 250+ active users or $1,000+ revenue), though earlier-stage teams are encouraged to apply.",
+    "dueDate": "Not yet announced",
     "website": "https://haas.berkeley.edu/business-academy/",
     "region": []
   },
   {
     "title": "Biotech Summer Experience - Lawrence Livermore National Laboratory",
     "summary": "",
-    "location": "CA",
+    "location": "Livermore, CA",
     "category": [
       "Technology",
       "Biology"
     ],
-    "format": [],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Must be 16+ by start of workshop (18-year-olds must be U.S. citizens); entering grades 11-12 Fall 2026; cumulative GPA 3.3+, science GPA 3.5+; must attend a Northern California high school; must have completed Biology and Chemistry (or Integrated Science I & II); must meet 2025 NDAA Sec. 3112 access requirements for the national security facility.",
+    "dueDate": "Not yet announced",
     "website": "https://st.llnl.gov/sci-ed/summer-workshops/biotech-summer-experience",
     "region": []
   },
@@ -1616,14 +1620,14 @@
   {
     "title": "AwesomeMath",
     "summary": "AwesomeMath delivers a three-week intensive program focused on competition-level mathematics and proof writing  with many courses held online. It prepares talented middle and high-school students for contests like the AMC  AIME and Olympiad.",
-    "location": "Virtual",
+    "location": "Online",
     "category": [
       "Math"
     ],
     "format": [
       "Class"
     ],
-    "eligibility": "Talented middle & high school students globally",
+    "eligibility": "Gifted middle/high school students ages 12-18 worldwide; admission test required (waived for returning students, previously accepted students, or USA(J)MO qualifiers) plus a recommendation letter from a math teacher/mentor.",
     "dueDate": "Not yet announced",
     "website": "https://www.awesomemath.org/what-is-awesomemath/",
     "region": [
@@ -1887,37 +1891,17 @@
     ]
   },
   {
-    "title": "UCLA High School Summer Sessions - UCLA",
-    "summary": "UCLA Summer Sessions offers high school students the chance to take college courses alongside undergraduates and earn credit. Students can study on campus or online across more than thirty subject areas",
-    "location": "Los Angeles CA and Virtual",
-    "category": [
-      "Various Subjects",
-      "Humanities",
-      "Science",
-      "Art/Design"
-    ],
-    "format": [
-      "Class"
-    ],
-    "eligibility": "High school students; age 15 or older",
-    "dueDate": "Not yet announced",
-    "website": "https://www.summer.ucla.edu/ushsstudent",
-    "region": [
-      "Virtual"
-    ]
-  },
-  {
     "title": "UChicago Pre-College - University of Chicago",
     "summary": "UChicago Summer Session offers pre college courses for high school students who want to experience college level academics and earn credit on campus or online. Summer 2026 program information will be announced in mid December 2025 with applications opening in January 2026",
-    "location": "Chicago Illinois",
+    "location": "Chicago, IL (Hyde Park campus) or remote",
     "category": [
       "Various Subjects"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students;Program details to be announced;Requires strong academic preparation",
-    "dueDate": "Not yet announced",
+    "eligibility": "Open to current high school students; transcripts required for grades 9-11 (plus 8th-grade report for 9th graders); strong English language proficiency required; parent/guardian confirmation required; $75 application fee.",
+    "dueDate": "Priority deadline: Jan 13, Regular deadline: Mar 3",
     "website": "https://summer.uchicago.edu/pre-college-students",
     "region": [
       "Midwest"
@@ -2615,7 +2599,7 @@
   {
     "title": "Brown Leadership Institute - Brown University",
     "summary": "Brown’s Leadership Institute is a two‑week residential program where rising 10th–12th graders (ages 14–18) learn to advance social justice while developing leadership skills. Students study complex social issues—such as law  social movements and restorative justice—and engage in workshops and community projects to practice advocacy.",
-    "location": "Providence RI",
+    "location": "Providence, RI (on-campus) or online",
     "category": [
       "Leadership",
       "Politics/Advocacy"
@@ -2623,7 +2607,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students completing grades 9-12, ages 14-18 by the program start date (on-campus courses currently waitlist-only; online courses available)",
+    "eligibility": "Students completing grades 9-12, ages 14-18 by program start (exact age cutoff date varies by year); on-campus admission also depends on English proficiency and course space availability.",
     "dueDate": "Not yet announced",
     "website": "https://precollege.brown.edu/programs/leadership-institute",
     "region": [
@@ -2833,9 +2817,9 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school juniors and seniors",
+    "eligibility": "Rising high school juniors and seniors; earns 4 college credits.",
     "dueDate": "Not yet announced",
-    "website": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/#",
+    "website": "https://www.babson.edu/summer-at-babson/high-school-learners/summer-study/",
     "region": [
       "Virtual"
     ]
@@ -3118,7 +3102,7 @@
   {
     "title": "Biomedical Summer Camps - Rosetta Institute",
     "summary": "The Rosetta Institute’s Biomedical Summer Camps offer two‑week workshops on topics such as molecular biology of cancer  neuroscience  immunology and bioinformatics. High school students aged 14–18 attend lectures and hands‑on labs at university campuses  culminating in research projects.",
-    "location": "UC Berkeley UC San Diego Columbia University University College London",
+    "location": "UC Berkeley / UC San Diego (residential), Alameda CA (commuter), or online",
     "category": [
       "Biology",
       "Health/Medicine",
@@ -3128,7 +3112,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Ages 14-18 for most workshops (12-18 for select online workshops; 13-18 for Medical Bioinformatics); letter of recommendation required for university-based programs",
+    "eligibility": "Ages 11-18 depending on workshop (university-based residential and commuter-only workshops: ages 14-18, application + letter of recommendation required; online workshops: ages 11-18 or 13-18 depending on workshop, application only).",
     "dueDate": "Not yet announced",
     "website": "https://www.rosettainstitute.org/biomedical-summer-camps/?utm_source=teenlife",
     "region": [
@@ -3192,7 +3176,7 @@
   {
     "title": "Summer Journalism Academy - Boston University",
     "summary": "The Boston University Summer Journalism Academy provides high school students with hands‑on reporting experience guided by working journalists. Offered on campus or online  the program teaches writing  interviewing and multimedia storytelling.",
-    "location": "Boston MA / Virtual",
+    "location": "Boston, MA (on-campus) or remote",
     "category": [
       "Politics/Advocacy",
       "Leadership",
@@ -3201,7 +3185,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "On‑campus track: high school students with journalism experience; online track: students aged 14–18",
+    "eligibility": "On Campus: rising juniors, rising seniors, and current seniors with journalism experience; Learn-from-Home: ages 14-18, all experience levels.",
     "dueDate": "Not yet announced",
     "website": "https://combeyond.bu.edu/offering/summer-journalism-academy-bu/",
     "region": [
@@ -3614,14 +3598,14 @@
   {
     "title": "Cherubs - Medill Northwestern Journalism Institute",
     "summary": "The Medill Cherubs program at Northwestern is a five-week summer journalism institute for high-school juniors. Students learn reporting  writing  editing and broadcasting and produce professional-level media.",
-    "location": "Evanston IL",
+    "location": "Evanston, IL (Northwestern University)",
     "category": [
       "Communications/Journalism"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school juniors (rising seniors) aged 16–17 with a passion for journalism",
+    "eligibility": "Enrollment limited to rising high school seniors (up to 84 students); application requires essay, transcript, test scores if available, letter of recommendation, writing samples, and a $50 application fee.",
     "dueDate": "Not yet announced",
     "website": "https://cherubs.medill.northwestern.edu/2024/",
     "region": [
@@ -3631,15 +3615,15 @@
   {
     "title": "Sewanee Young Writers' Conference - The University of the South",
     "summary": "The Sewanee Young Writers’ Conference is a two-week residential program at the University of the South where high-school students hone their craft in fiction  poetry and creative nonfiction. Students attend workshops  readings and craft lectures.",
-    "location": "Sewanee TN",
+    "location": "Sewanee, TN (University of the South)",
     "category": [
       "Creative Writing"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 14–18 who love writing",
-    "dueDate": "Not yet announced",
+    "eligibility": "Students in 9th, 10th, or 11th grade at time of application (and not yet 18 at time of conference); requires a personal statement, writing sample(s), and a teacher recommendation.",
+    "dueDate": "Applications Open: Dec 1; Deadline: Mar 1",
     "website": "https://new.sewanee.edu/sywc/",
     "region": [
       "East Coast"
@@ -3869,7 +3853,7 @@
   {
     "title": "Adventures in Veterinary Medicine - Tufts University",
     "summary": "Tufts University’s Adventures in Veterinary Medicine is a one-week program that introduces high-school students to veterinary medicine through lectures  labs and hands-on animal care on the Cummings School campus. The immersive experience helps students explore veterinary careers and animal health.",
-    "location": "North Grafton MA",
+    "location": "Grafton, MA",
     "category": [
       "Biology",
       "Health/Medicine",
@@ -3878,7 +3862,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students currently in grades 9-12",
+    "eligibility": "Students currently in grades 9-12 are eligible for all high school sessions; application requires online application, grade-level verification/transcripts, and a short essay.",
     "dueDate": "Not yet announced",
     "website": "https://vet.tufts.edu/adventures-veterinary-medicine-avm/high-school-program",
     "region": [
@@ -5079,7 +5063,7 @@
   {
     "title": "Bank of America Student Leader - Bank of America",
     "summary": "This program places high-school juniors and seniors in a paid six-week internship at local nonprofits and includes a leadership summit in Washington, D.C. for skills development and networking. It emphasizes civic engagement and social impact while providing work experience and leadership training.",
-    "location": "Various U.S. locations",
+    "location": "Various eligible U.S. program locations (Summit in Charlotte, NC)",
     "category": [
       "Business",
       "Leadership"
@@ -5087,8 +5071,8 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school juniors & seniors; authorized to work in the U.S.; able to work 8-week internship",
-    "dueDate": "Not yet announced",
+    "eligibility": "At least 18 years old at time of application; HS diploma/equivalent earned within last 24 months; must be entering second year of undergraduate study (rising college sophomore) for 2027-2028; legally authorized to work in U.S. without sponsorship through July 2027; cumulative college GPA 3.0+; leadership role within last 24 months; able to work 35+ hrs/week for the 7-week internship and attend the 3-day Summit; must reside in an eligible program location summer 2027.",
+    "dueDate": "Applications Open: Dec 14; Deadline: Feb 15",
     "website": "https://about.bankofamerica.com/en/making-an-impact/student-leaders",
     "region": [
       "East Coast"
