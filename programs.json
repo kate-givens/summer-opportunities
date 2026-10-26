@@ -823,7 +823,7 @@
   {
     "title": "Experiences in Research (EinR) - Berkeley Lab",
     "summary": "Paid six-week summer internship at Lawrence Berkeley National Laboratory where high schoolers work directly with Berkeley Lab professionals on real projects in STEM and STEM-adjacent fields. Project areas include experimental research and data collection, data science (coding and non-coding), coding-dependent projects, and administration/science communication. Students review a project booklet and rank their top three choices when applying. Interns work roughly 30-35 hours per week; projects are hybrid or virtual depending on the host office. Goals include building mentor connections, professional STEM skills, and experience in science communication and collaboration.",
-    "location": "Berkeley CA (hybrid or virtual depending on project)",
+    "location": "Berkeley Lab (LBNL), Northern California; hybrid/virtual depending on project",
     "category": [
       "Science",
       "Computer Science",
@@ -832,7 +832,7 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "Current 10th, 11th, or 12th graders enrolled in Northern California schools, with experience doing independent work. Must be at least 16 by the mid-June program start; must meet both age and grade requirements. All Northern California applicants reviewed, but priority given to students within ~30 miles of Berkeley Lab. Former interns not eligible. Oakland USD students must also complete the ECCCO common application.",
+    "eligibility": "Current 10th-12th grade students in Northern California with independent work experience; 16+ by program start; priority within 30 miles of lab; former interns not eligible",
     "dueDate": "Not yet announced",
     "website": "https://k12education.lbl.gov/programs/high-school/experiences-in-research",
     "region": [
@@ -1410,7 +1410,7 @@
   {
     "title": "CARE AI - Stanford",
     "summary": "A focused two-week summer program for high-school students interested in AI applied to Asian health outcomes and underserved communities, combining technology and health equity",
-    "location": "Stanford University campus, Palo Alto, CA (day program, no housing)",
+    "location": "Stanford University campus, Palo Alto, CA; day program, no housing",
     "category": [
       "Computer Science",
       "Health/Medicine"
@@ -1418,7 +1418,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school sophomores, juniors, or seniors; at least 14 years old; must live within commuting distance of Stanford's Palo Alto campus.",
+    "eligibility": "Rising sophomore, junior, or senior; 14+; must reside within local commuting area for full duration (day program, no housing)",
     "dueDate": "Not yet announced",
     "website": "https://asianhealth.stanford.edu/education/stanford-care-ai-summer-program-high-school-students",
     "region": [
@@ -1665,7 +1665,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students aged 15–19 (rising or current juniors/seniors)",
+    "eligibility": "Completed sophomore year of high school; ages 15-19 at class start; no GPA requirement (B+ average recommended)",
     "dueDate": "Not yet announced",
     "website": "https://sce.cornell.edu/precollege/program/online",
     "region": [
@@ -2635,7 +2635,7 @@
   {
     "title": "Brandeis Summer School - Brandeis University",
     "summary": "Brandeis Precollege Programs offer residential summer experiences such as BIMA (arts)  Genesis (social justice)  and Service Corps. Each two‑ or three‑week program combines academic exploration with cultural activities  community building and leadership training  welcoming high‑school students from around the world.",
-    "location": "Brandeis University, Waltham, MA (on-campus and online)",
+    "location": "Waltham, MA; commuter or online only (no on-campus housing for high schoolers)",
     "category": [
       "Art/Design",
       "Leadership",
@@ -2645,7 +2645,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (grades 9–12)",
+    "eligibility": "Completed junior year of high school; for Summer 2027, anticipated HS diploma in 2027 or 2028",
     "dueDate": "Not yet announced",
     "website": "https://www.brandeis.edu/summer/",
     "region": [
@@ -2781,7 +2781,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students in grades 9–12",
+    "eligibility": "9th-12th graders; no prerequisites",
     "dueDate": "Not yet announced",
     "website": "https://admissions.rochester.edu/pre-college/programs/business/",
     "region": [
@@ -3256,8 +3256,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Giant Steps: middle school musicians. Jazz Camp: ages 12–17. Jazz Institute: ages 14–18, by audition. One- and two-week session options.",
-    "dueDate": "Applications Open: Mid-October; Deadline: TBD",
+    "eligibility": "Ages 12-17 (Jazz Camp); 14-18 by audition (Jazz Institute); day or residential (13+)",
+    "dueDate": "Rolling admissions",
     "website": "https://stanfordjazz.org/programs/summer-programs/",
     "region": [
       "East Coast"
@@ -3319,7 +3319,7 @@
   {
     "title": "Kaiser Permanente Summer Youth Employment Program - Kaiser Permanente",
     "summary": "Kaiser Permanente’s Summer Youth Employment Program  also known as KP LAUNCH  is a paid seven-week internship that exposes high-school students to healthcare careers through hands-on work  mentorship and professional development workshops. The 2026 program runs June 15–July 31 with applications opening November 17  2025",
-    "location": "Southern California and Hawaii (various medical centers)",
+    "location": "Southern California and Hawaii (various Kaiser Permanente medical centers)",
     "category": [
       "Health/Medicine",
       "Biology",
@@ -3328,7 +3328,7 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school students 16+ (priority to 11th-12th graders; some sites accept 10th graders); must reside near assigned KP medical center; cannot be a dependent of a KP employee or PMG physician; must be authorized to work in the U.S.; students under 18 need a work permit covering the entire program.",
+    "eligibility": "16+ (priority to 11th-12th grade, some sites accept 10th); must reside near medical center applying to; work permit required if under 18; 20 hrs/week for full summer",
     "dueDate": "Not yet announced",
     "website": "https://community.kp.org/about/program/summer-youth-employment-program",
     "region": [
@@ -3338,7 +3338,7 @@
   {
     "title": "Loyola Marymount Summer Sessions - Loyola Marymount University",
     "summary": "Loyola Marymount University’s Pre-College Summer Programs let high-school students enroll in credit-bearing courses and thematic academies in areas like screenwriting  graphic design  sports and entertainment business and engineering. Students live on campus  earn college credit and explore Los Angeles through co-curricular activities",
-    "location": "Los Angeles CA",
+    "location": "On-Campus, Loyola Marymount University",
     "category": [
       "Art/Design",
       "Business",
@@ -3347,7 +3347,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
+    "eligibility": "Rising sophomores, juniors, and seniors; ages 14-18; not yet graduated high school",
     "dueDate": "Applications Open: Nov 15; Deadline: TBD",
     "website": "https://summer.lmu.edu/programs/programfinder/#programs",
     "region": [
@@ -3421,8 +3421,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "K–12 students: Lower Elementary (K–1, 2–3), Upper Elementary (4–5), Middle School (6–8); High School (9–12) launching Summer 2027.",
-    "dueDate": "Applications Open: January; Deadline: TBD",
+    "eligibility": "Grade-based, K-12 (Lower/Upper Elementary, Middle School, High School); High School level coming Summer 2027",
+    "dueDate": "Applications Open: Jan 2027; Deadline: TBD",
     "website": "https://extendedstudies.ucsd.edu/educational-programs/sally-ride-science-academy",
     "region": [
       "CA"
@@ -3881,7 +3881,7 @@
     "format": [
       "Research"
     ],
-    "eligibility": "Domestic students currently in their junior year of high school, with strong interest in STEM/sciences.",
+    "eligibility": "Domestic students currently in junior year of high school, passionate about the sciences",
     "dueDate": "Applications Open: Dec 17; Deadline: TBD",
     "website": "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/",
     "region": [
@@ -4278,8 +4278,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
-    "dueDate": "April 5, 2027",
+    "eligibility": "High school students; personal experience with neurodiversity encouraged but not required",
+    "dueDate": "Not yet announced",
     "website": "https://stanfordneurodiversityproject.stanford.edu/neurodiversity-education/snp-reach-2027",
     "region": [
       "CA"
@@ -4777,8 +4777,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (grades 10–12) interested in writing",
-    "dueDate": "Not yet announced",
+    "eligibility": "Current 10th-12th grade students (9th grade no longer accepted); international applicants welcome; requires writing sample, statement of purpose, one letter of recommendation; no transcripts required; $10 fee (waivable)",
+    "dueDate": "Applications Open: Jan 25; Deadline: Feb 7",
     "website": "https://iyws.program.uiowa.edu/",
     "region": [
       "Midwest"
@@ -5213,7 +5213,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "3-week for-credit courses: open to current high school sophomores and juniors. 1-week non-credit courses: open to current high school first-years, sophomores, and juniors.",
+    "eligibility": "3-week for-credit: current sophomores and juniors; 1-week non-credit: current first-years, sophomores, and juniors",
     "dueDate": "Applications Open: Dec 15; Deadline: TBD",
     "website": "https://www.carleton.edu/summer/pre-college/",
     "region": [
