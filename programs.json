@@ -2011,7 +2011,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students eligible for Summer Intensives (hands-on instruction with professional artists); middle schoolers are directed to separate community programs (Acting Out, Community Music School, Preparatory Dance) rather than the Intensives; other age/requirements vary by discipline.",
+    "eligibility": "High school students eligible for Summer Intensives (hands-on instruction with professional artists)",
     "dueDate": "Applications Open: Nov 2026; Deadline: TBD",
     "website": "https://www.uncsa.edu/summer/",
     "region": [
@@ -2303,25 +2303,6 @@
     "eligibility": "High school students age 13 plus;Must have taken Algebra",
     "dueDate": "Applications Open: Feb 2027; Deadline: TBD",
     "website": "https://joyofcoding.eecs.umich.edu/",
-    "region": [
-      "Virtual"
-    ]
-  },
-  {
-    "title": "Fundamentals of Data Visualization - Claus Wilke",
-    "summary": "Fundamentals of Data Visualization is an open online book that teaches how to create clear graphs and charts. Topics include mapping data onto aesthetics choosing color scales and designing figures so that visualizations communicate statistical information effectively.",
-    "location": "Virtual",
-    "category": [
-      "Computer Science",
-      "Science",
-      "Art/Design"
-    ],
-    "format": [
-      "Class"
-    ],
-    "eligibility": "Open to all learners",
-    "dueDate": "Not yet announced",
-    "website": "https://clauswilke.com/dataviz/",
     "region": [
       "Virtual"
     ]
@@ -4226,7 +4207,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "High school students entering grades 11–12; program conducted entirely in English (TOEFL/IELTS required for non-native speakers)",
+    "eligibility": "High school students entering grades 11–12",
     "dueDate": "Applications Open: Nov 16; Deadline: May 15 (Session 1), Jun 5 (Session 2)",
     "website": "https://www.wm.edu/as/niahd/precol/index.php",
     "region": [
@@ -4777,7 +4758,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Current 10th-12th grade students (9th grade no longer accepted); international applicants welcome; requires writing sample, statement of purpose, one letter of recommendation; no transcripts required; $10 fee (waivable)",
+    "eligibility": "Current 10th-12th grade students (9th grade no longer accepted)",
     "dueDate": "Applications Open: Jan 25; Deadline: Feb 7",
     "website": "https://iyws.program.uiowa.edu/",
     "region": [
