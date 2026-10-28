@@ -1219,27 +1219,9 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
+    "eligibility": "Rising high school juniors and seniors; minimum age 16 at program start; no Tri-Valley residency requirement; day program, no housing provided",
     "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/shvca/home.html",
-    "region": [
-      "CA"
-    ]
-  },
-  {
-    "title": "Sci-Fi Medicine (Graphic Medicine, Comics, and Imagination) - Stanford",
-    "summary": "A two-week in-person course exploring how speculative storytelling and visual narratives shape understanding of the human body, illness, technology, and care, through graphic novels, comics, and science fiction; students create original medical comics or speculative scenarios.",
-    "location": "Stanford CA",
-    "category": [
-      "Health/Medicine",
-      "Humanities"
-    ],
-    "format": [
-      "Class"
-    ],
-    "eligibility": "",
-    "dueDate": "Not yet announced",
-    "website": "https://stanfordmedicalhumanities.org/scifimed",
     "region": [
       "CA"
     ]
@@ -1565,14 +1547,14 @@
   {
     "title": "NYU Engineering",
     "summary": "List of programs for youth in engineering at NYU.",
-    "location": "New York, NY",
+    "location": "Brooklyn, NY (NYU Tandon School of Engineering)",
     "category": [
       "Engineering"
     ],
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "",
+    "eligibility": "ARISE program: rising juniors and seniors; must be full-time NYC residents attending NYC schools",
     "dueDate": "Not yet announced",
     "website": "https://k12stem.engineering.nyu.edu/programs ",
     "region": [
@@ -1907,8 +1889,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students ages 16-18",
-    "dueDate": "Applications Open: Nov 4; Deadline: TBD",
+    "eligibility": "On-campus: ages 16-18, must have completed 10th or 11th grade. Online: high school students ages 14-18, rising 10th-12th grade.",
+    "dueDate": "Applications Open: Nov 4; Deadline: Jun 7",
     "website": "https://precollege.risd.edu/",
     "region": [
       "Various"
@@ -1928,7 +1910,7 @@
       "Program/Camp"
     ],
     "eligibility": "current high school students aged 14 or older",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Dec 1; Deadline: TBD",
     "website": "https://precollege.barnard.edu/nextgen-leadership-institute",
     "region": [
       "East Coast"
@@ -2640,24 +2622,6 @@
     "website": "https://design.gatech.edu/precollege",
     "region": [
       "South"
-    ]
-  },
-  {
-    "title": "Youth Programs - The Crucible",
-    "summary": "The Crucible’s Youth Programs provide workshops  camps and pre-professional training in industrial arts. The Fuego Youth Leadership Program gives high-schoolers four weeks of technical  artistic and leadership training.",
-    "location": "Oakland CA",
-    "category": [
-      "Art/Design",
-      "Engineering"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "High school students",
-    "dueDate": "Not yet announced",
-    "website": "https://www.thecrucible.org/youth-programs/?gclid=Cj0KCQiAqOucBhDrARIsAPCQL1an_lgXVo_ISlgTUz9e57f4PDfUlwII1Y0-yO53ngct80eApPtuTT8aAihrEALw_wcB&gclsrc=aw.ds",
-    "region": [
-      "East Coast"
     ]
   },
   {
@@ -3374,7 +3338,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school sophomores; juniors and seniors",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Nov 16; Deadline: TBD",
     "website": "https://summer.georgetown.edu/programs/SHS03/business-academy",
     "region": [
       "East Coast"
@@ -4253,7 +4217,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 14–17",
+    "eligibility": "9th, 10th, or 11th grade students at a Northern California high school; must be under 18 at time of camp",
     "dueDate": "Not yet announced",
     "website": "https://sage.slac.stanford.edu/",
     "region": [
@@ -4818,7 +4782,7 @@
       "Research"
     ],
     "eligibility": "High school juniors and exceptional sophomores (graduating ~2028); strong math and science coursework. Need-blind application process; welcomes first-generation, rural, and underrepresented STEM applicants.",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Dec 2026; Deadline: TBD",
     "website": "https://ssp.org/application/",
     "region": [
       "Various"
