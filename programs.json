@@ -1,5 +1,55 @@
 [
   {
+    "title": "Summer Academic Experience Courses (SAEC) - University of St Andrews",
+    "summary": "The University of St Andrews' Summer Academic Experience Courses are a three-week residential summer school for high school students, offering a choice of nine subject tracks (including Creative Writing, Cinema Ideas and Society, Diverse Intelligences, Management/Economics/Entrepreneurship, Medicine, Physical Science/Math/Computer Science, Psychology and Neuroscience, Social Science and Humanities, and Sustainable Development) taught by University staff through lectures and tutorials. Students live on campus, receive a student ID with library and sports center access, and take part in excursions (including a day trip to Edinburgh) and evening activities.",
+    "location": "St Andrews, Scotland, UK (residential)",
+    "category": [
+      "Creative Writing",
+      "Film/Drama",
+      "Humanities",
+      "Business",
+      "Health/Medicine",
+      "Science",
+      "Technology",
+      "Math",
+      "Computer Science",
+      "Neuroscience",
+      "Environmental Science/Climate Activism"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Students aged 16-18 at arrival. Requires academic transcript (strong GCSEs/A grades or minimum 3.2 GPA or equivalent), an academic reference on headed paper, a personal statement (100 words, 500 for Diverse Intelligences track), and English proficiency at CEFR B2. No residency restriction.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.st-andrews.ac.uk/study/part-time/summer-courses/academic-experience/",
+    "region": [
+      "International"
+    ]
+  },
+  {
+    "title": "Pre-University Summer School - King's College London",
+    "summary": "King's College London's Pre-University Summer School offers academically motivated high school students one-week, university-style courses across business, law, medicine, psychology, technology, and other subjects, taught through lectures, seminars, and interactive formats like discussion groups and simulations. Students can combine one to three one-week sessions, complete university-style assignments with tutor feedback, and receive a King's Certificate of Completion, alongside an optional social and extracurricular programme.",
+    "location": "London, UK (residential or day)",
+    "category": [
+      "Business",
+      "Law",
+      "Health/Medicine",
+      "Neuroscience",
+      "Politics/Advocacy",
+      "Technology",
+      "Humanities"
+    ],
+    "format": [
+      "Class"
+    ],
+    "eligibility": "Students aged 16-17 (must turn 16 before the course start date; must still be under 18 through the program's last day), in their final three years of high school. Requires official high school grade confirmation, personal statement, and English proficiency at CEFR B2 (e.g. IELTS 6.0, TOEFL iBT 60, Duolingo 110) — lower threshold for English Language & Culture courses. 18-year-olds still in high school should use KCL's separate School Leaver Pathway instead.",
+    "dueDate": "Not yet announced",
+    "website": "https://www.kcl.ac.uk/summer/summer-on-campus/pre-university-summer-school",
+    "region": [
+      "International"
+    ]
+  },
+  {
     "title": "Silent Spring Summer Institute - Silent Spring Institute",
     "summary": "A one-week virtual course on environmental health led by scientists at Silent Spring Institute, a Massachusetts research organization focused on environmental risk factors for cancer and other diseases. Sessions run daily (4:00-5:30 PM ET in 2026) over Zoom and cover environmental justice and how the environment influences lifelong health, scientific research methods, exposure science (measuring chemicals in drinking water, household dust, consumer products and the body), and science translation, meaning interventions that reduce harmful exposures. Guest speakers include researchers in epidemiology, toxicology, environmental chemistry, data science and policy. Students receive a certificate upon completion. The 2026 session ran July 6-10 and the registration deadline has passed; 2027 details are not yet posted.",
     "location": "Online (Zoom)",
