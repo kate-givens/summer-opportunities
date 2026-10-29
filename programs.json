@@ -61,7 +61,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Students aged 16-17 (must turn 16 before the course start date; must still be under 18 through the program's last day), in their final three years of high school. Requires official high school grade confirmation, personal statement, and English proficiency at CEFR B2 (e.g. IELTS 6.0, TOEFL iBT 60, Duolingo 110) — lower threshold for English Language & Culture courses. 18-year-olds still in high school should use KCL's separate School Leaver Pathway instead.",
+    "eligibility": "Students aged 16-17 (must turn 16 before the course start date",
     "dueDate": "Not yet announced",
     "website": "https://www.kcl.ac.uk/summer/summer-on-campus/pre-university-summer-school",
     "region": [
@@ -1998,7 +1998,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students (rising juniors and seniors) interested in public health",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Dec 1; Deadline: TBD",
     "website": "https://precollege.barnard.edu/health-and-society-institute",
     "region": [
       "East Coast"
@@ -3095,7 +3095,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Open to rising sophomores, juniors, and seniors — college students, any major, any school (NOT a high-school-specific program)",
+    "eligibility": "Open to rising sophomores, juniors, and seniors — college students, any major, any school.",
     "dueDate": "Not yet announced",
     "website": "https://business.wfu.edu/business-of-sports/",
     "region": [
@@ -3148,7 +3148,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 14–18",
+    "eligibility": "Current 8th–12th graders; minimum 2.0 GPA; personal statement and school-official reviewer form required",
     "dueDate": "Not yet announced",
     "website": "https://summer.georgetown.edu/programs/SHS10/entrepreneurship-academy?utm_source=Google&utm_medium=Search&utm_campaign=FY21_Search_SPHS&gclid=CjwKCAjwgZuDBhBTEiwAXNofRA0kwtuGUucz5ANkmYm_VSA2rkyWzyxwDO7glAxoqaIEUFQFt1zeHxoClTQQAvD_BwE",
     "region": [
@@ -4759,8 +4759,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "High school juniors and seniors aged 16+ from Monterey Bay or nearby counties",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students ages 14–17 (not yet graduated by program start); academic reference from a teacher/mentor required; preference may go to returning students and those committing to full 8 weeks",
+    "dueDate": "Applications Open: Jan 15; Deadline: Feb 26",
     "website": "https://sip.ucsc.edu/",
     "region": [
       "CA"
@@ -5264,24 +5264,6 @@
     ]
   },
   {
-    "title": "Bank of America Student Leader - Bank of America",
-    "summary": "This program places high-school juniors and seniors in a paid six-week internship at local nonprofits and includes a leadership summit in Washington, D.C. for skills development and networking. It emphasizes civic engagement and social impact while providing work experience and leadership training.",
-    "location": "Various eligible U.S. program locations (Summit in Charlotte, NC)",
-    "category": [
-      "Business",
-      "Leadership"
-    ],
-    "format": [
-      "Internship"
-    ],
-    "eligibility": "At least 18 years old at time of application; HS diploma/equivalent earned within last 24 months; must be entering second year of undergraduate study (rising college sophomore) for 2027-2028; legally authorized to work in U.S. without sponsorship through July 2027; cumulative college GPA 3.0+; leadership role within last 24 months; able to work 35+ hrs/week for the 7-week internship and attend the 3-day Summit; must reside in an eligible program location summer 2027.",
-    "dueDate": "Applications Open: Dec 14; Deadline: Feb 15",
-    "website": "https://about.bankofamerica.com/en/making-an-impact/student-leaders",
-    "region": [
-      "East Coast"
-    ]
-  },
-  {
     "title": "Aspirnaut - Vanderbilt",
     "summary": "The Aspirnaut program provides a six-week residential research internship in biomedical and engineering fields at Vanderbilt University. It targets students from rural areas with strong math and science skills  offering housing  mentorship and professional development.",
     "location": "Nashville TN",
@@ -5367,7 +5349,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising 10th-12th grade students",
-    "dueDate": "Not yet announced",
+    "dueDate": "Jan 1",
     "website": "https://college.lclark.edu/programs/fir_acres/",
     "region": [
       "West"
