@@ -2379,7 +2379,7 @@
     ],
     "eligibility": "Must live in the Bay Area and attend a local high school; at least 15 years old and completed 9th grade by program start; parental/guardian permission required if under 18",
     "dueDate": "Not yet announced",
-    "website": "https://mtc.ca.gov/jobs-contracts/job-opportunities/internships/high-school-internships",
+    "website": "https://mtc.ca.gov/jobs-contracts/job-opportunities/internships-summer-academy/norman-mineta-high-school-summer-academy",
     "region": [
       "CA"
     ]
@@ -2746,25 +2746,6 @@
     ]
   },
   {
-    "title": "Pre-College Program - Pratt Institute",
-    "summary": "This four-week credit-bearing program at Pratt’s Brooklyn campus lets high-school students choose two courses in art  design  architecture or writing. Students build portfolios  earn four credits and experience college life.",
-    "location": "Brooklyn NY",
-    "category": [
-      "Art/Design",
-      "Creative Writing",
-      "Visual Arts"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "High school students ages 15-18",
-    "dueDate": "Not yet announced",
-    "website": "https://www.enrole.com/prattscps/jsp/index.jsp?categoryId=27847978",
-    "region": [
-      "East Coast"
-    ]
-  },
-  {
     "title": "Kids and Teens Programs - Rhode Island School of Design (RISD)",
     "summary": "RISD Continuing Education’s youth programs offer online and in‑person courses  work‑readiness workshops and pre‑college experiences to help teens ages 13–17 explore drawing  design  digital media  architecture and other art disciplines. Through hands‑on projects and guidance from art and design professionals  students build portfolios and prepare for future study.",
     "location": "Providence RI or Virtual",
@@ -2784,7 +2765,7 @@
   {
     "title": "High School Summer Law Program - National Student Leadership Conference",
     "summary": "NSLC’s Law & Advocacy program immerses high‑school students in the legal profession through mock trials  jury selection  cross‑examination and Supreme Court debates. Participants meet lawyers and judges  visit courthouses and law schools and develop critical thinking  public speaking and leadership skills.",
-    "location": "Various U.S. campuses",
+    "location": "Georgetown University (Washington, DC) or UCLA (Los Angeles, CA)",
     "category": [
       "Politics/Advocacy",
       "Leadership"
@@ -2792,8 +2773,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (grades 9–12)",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students, grades 9-12; ages 14-18; must have completed at least one year of high school",
+    "dueDate": "Rolling admissions",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/law-advocacy/",
     "region": [
       "Various"
@@ -2967,27 +2948,6 @@
     "eligibility": "Grades 9-12; ages 14-18 having completed at least one year of high school. Residential (campus dormitories at Georgetown & Columbia).",
     "dueDate": "Not yet announced",
     "website": "https://www.nslcleaders.org/youth-leadership-programs/international-diplomacy/?gclid=Cj0KCQjw--2aBhD5ARIsALiRlwCZSjxL-79K8JU6oXCuir2zUXhQbxUlZaOuFX7jzDRLx_Au4tR4gTEaAv_XEALw_wcB",
-    "region": [
-      "Various"
-    ]
-  },
-  {
-    "title": "Middle School Summer Programs - NSLC Leaders",
-    "summary": "NSLC’s middle school programs invite students in grades 6‑8 to explore career and academic interests while developing leadership skills through hands‑on simulations and team projects. Programs introduce middle schoolers to fields like medicine  engineering  business  law and government at major U.S. universities.",
-    "location": "Various U.S. campuses",
-    "category": [
-      "Leadership",
-      "Science",
-      "Engineering",
-      "Business",
-      "Politics/Advocacy"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "Current middle school students (grades 6–8); must be at least 11 years old",
-    "dueDate": "Rolling admissions",
-    "website": "https://www.nslcleaders.org/middle-school-summer-programs/",
     "region": [
       "Various"
     ]
