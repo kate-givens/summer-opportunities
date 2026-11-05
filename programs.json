@@ -1,7 +1,7 @@
 [
   {
     "title": "High School Courses - Shoals Marine Laboratory",
-    "summary": "Residential, college-level marine science courses for high school students on Appledore Island, Maine, run jointly by the University of New Hampshire and Cornell University, with students earning Cornell credits. Hands-on lab and field work includes deploying oceanographic equipment to collect water samples, exploring the rocky intertidal zone, visiting nearby islands to observe seal and seabird colonies, dissecting sharks and rays, fishing, and whale watching. Courses offered (one to two weeks each): Marine Environmental Science (4 credits), Introduction to the Biology of Sharks, Skates, and Rays (2 credits), Marine Vertebrates of the Gulf of Maine (2 credits), and Introduction to Scientific Illustration (2 credits).",
+    "summary": "Residential, college-level marine science courses for high school students on Appledore Island, Maine, run jointly by the University of New Hampshire and Cornell University, with students earning Cornell credits. Hands-on lab and field work includes deploying oceanographic equipment to collect water samples, exploring the rocky intertidal zone, visiting nearby islands to observe seal and seabird colonies, dissecting sharks and rays, fishing, and whale watching.",
     "location": "Appledore Island ME (residential, off the coast of Maine)",
     "category": [
       "Science",
@@ -89,7 +89,7 @@
   },
   {
     "title": "StatStart - Harvard T.H. Chan School of Public Health",
-    "summary": "A one-month, in-person summer program run by the Department of Biostatistics at the Harvard T.H. Chan School of Public Health (started in 2015), developed and taught by Biostatistics graduate students under a faculty director. Students take non-credit classes in R programming and introductory statistics, with four hours of lectures and lab work a day, Monday through Thursday. They complete group research projects and present them at the end of the program. Includes direct mentoring by Biostatistics graduate students plus college application and career guidance. Designed for first-generation or low-income students interested in data science and computing, though all are welcome to apply. 2026 dates were July 6-30 (with a presentation day July 31); 2027 details are not yet posted.",
+    "summary": "A one-month, in-person summer program developed and taught by Biostatistics graduate students under a faculty director. Students take non-credit classes in R programming and introductory statistics. They complete group research projects and present them at the end of the program. Includes direct mentoring by Biostatistics graduate students plus college application and career guidance.",
     "location": "Boston MA (Harvard Chan School campus) — in person, commuter",
     "category": [
       "Computer Science",
@@ -1668,7 +1668,7 @@
   {
     "title": "CARE AI - Stanford",
     "summary": "A focused two-week summer program for high-school students interested in AI applied to Asian health outcomes and underserved communities, combining technology and health equity",
-    "location": "Stanford University campus, Palo Alto, CA; day program, no housing",
+    "location": "Stanford University campus, Palo Alto, CA (in-person day program, no housing) or virtual (live Zoom sessions)",
     "category": [
       "Computer Science",
       "Health/Medicine"
@@ -1677,7 +1677,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising sophomore, junior, or senior; 14+; must reside within local commuting area for full duration (day program, no housing)",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Nov 3; Deadline: TBD",
     "website": "https://asianhealth.stanford.edu/education/stanford-care-ai-summer-program-high-school-students",
     "region": [
       "CA"
@@ -1885,7 +1885,7 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Gifted middle/high school students ages 12-18 worldwide; admission test required (waived for returning students, previously accepted students, or USA(J)MO qualifiers) plus a recommendation letter from a math teacher/mentor.",
+    "eligibility": "Students ages 12-18 worldwide; admission test required (waived for returning students, previously accepted students, or USA(J)MO qualifiers) plus a recommendation letter from a math teacher/mentor.",
     "dueDate": "Not yet announced",
     "website": "https://www.awesomemath.org/what-is-awesomemath/",
     "region": [
@@ -2258,7 +2258,7 @@
   },
   {
     "title": "NC School of the Arts Summer Programs - University of North Carolina School of the Arts",
-    "summary": "UNCSA Summer Intensives offer immersive training in dance drama music filmmaking and visual arts with programs for high school and younger students. Participants live on campus or commute to the Winston-Salem campus and work closely with faculty and guest artists to hone their craft",
+    "summary": "UNCSA Summer Intensives offer immersive training in dance drama music filmmaking and visual arts with programs for high school and younger students.",
     "location": "Winston-Salem North Carolina",
     "category": [
       "Art/Design",
@@ -2309,23 +2309,6 @@
     "eligibility": "High school students or recent graduates aged 16 or older; must be U.S. citizens; must commit to program schedule; requires parental consent for minors.",
     "dueDate": "Not yet announced",
     "website": "https://www.loc.gov/internships-and-fellowships/",
-    "region": [
-      "Virtual"
-    ]
-  },
-  {
-    "title": "Interns - Center for Applied Linguistics",
-    "summary": "The Center for Applied Linguistics hires research and development interns to assist with projects such as literature reviews and research briefs. Positions are paid and may be remote or in person providing advanced graduate students with experience in language education research",
-    "location": "Washington DC or Virtual",
-    "category": [
-      "Various Subjects"
-    ],
-    "format": [
-      "Internship"
-    ],
-    "eligibility": "Currently enrolled in a bachelor's program (master's preferred); must be authorized to work in the U.S.; applicants from NY, NJ, PA, TX, CA, and U.S. Territories not eligible",
-    "dueDate": "Not yet announced",
-    "website": "https://www.cal.org/who-we-are/career-opportunities/interns/",
     "region": [
       "Virtual"
     ]
@@ -2563,6 +2546,25 @@
     "website": "https://joyofcoding.eecs.umich.edu/",
     "region": [
       "Virtual"
+    ]
+  },
+  {
+    "title": "Embry Riddle Science/Engineering Camps - Embry Riddle Aeronautical University",
+    "summary": "Embry Riddle Aeronautical University hosts overnight and day camps at its Daytona Beach Florida and Prescott Arizona campuses where students explore aviation mechanical engineering robotics and space topics. Campers live in dorms or commute for weeklong sessions supervised by counselors.",
+    "location": "Daytona Beach FL;Prescott AZ",
+    "category": [
+      "Engineering",
+      "Computer Science",
+      "Various Subjects"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Middle and high school students;Age requirements vary by camp",
+    "dueDate": "Not yet updated",
+    "website": "https://summercamps.erau.edu/camps",
+    "region": [
+      "Various"
     ]
   },
   {
@@ -3108,8 +3110,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students aged 15+ by move-in date; rising sophomores–seniors (or recent HS grads) for noncredit courses, rising juniors/seniors or recent grads for credit courses; min GPA 3.0 recommended",
-    "dueDate": "Not yet announced",
+    "eligibility": "High school students aged 15+ by move-in date; min GPA 3.0 recommended",
+    "dueDate": "Applications Open: Dec 15; Deadline: May 1",
     "website": "https://precollege.syr.edu/programs-courses/summer-college-residential/summer-college-residential-course-listing/",
     "region": [
       "Virtual"
@@ -3253,7 +3255,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students",
+    "eligibility": "Nominated 10th or 11th grade students (nomination by educators required, not an open application).",
     "dueDate": "Not yet announced",
     "website": "https://wyse.gmu.edu/",
     "region": [
@@ -3611,7 +3613,7 @@
   },
   {
     "title": "UCSF Programs for High School Students - UCSF",
-    "summary": "UCSF’s High School Intern Program (HIP) is an eight-week paid research internship where rising seniors from San Francisco public or charter schools work in biomedical labs under UCSF mentors. The program targets low-income and first-generation students and culminates in a research presentation",
+    "summary": "UCSF’s High School Intern Program (HIP) is an eight-week paid research internship where rising seniors from San Francisco public or charter schools work in biomedical labs under UCSF mentors.",
     "location": "San Francisco, CA (UCSF campus) — in-person, 8-week paid internship",
     "category": [
       "Biology",
@@ -3926,10 +3928,10 @@
       "Math"
     ],
     "format": [
-      "Class"
+      "Program/Camp"
     ],
     "eligibility": "Must be at least 16 years old by June 26, 2027; U.S. citizen or permanent resident with current green card; current 11th grade student at time of application; demonstrated interest in AI (no prior coding experience necessary)",
-    "dueDate": "Feb 1",
+    "dueDate": "Mar 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/ai_scholars.html",
     "region": [
       "East Coast"
@@ -4043,7 +4045,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students currently in grades 9-12 are eligible for all high school sessions; application requires online application, grade-level verification/transcripts, and a short essay.",
+    "eligibility": "Students currently in grades 9-12 are eligible for all high school sessions",
     "dueDate": "Not yet announced",
     "website": "https://vet.tufts.edu/adventures-veterinary-medicine-avm/high-school-program",
     "region": [
@@ -4100,7 +4102,7 @@
       "Program/Camp"
     ],
     "eligibility": "Students in 10th-11th or 11th-12th grade during the program summer; must be at least 16 by program start; portfolio optional but recommended (video up to 3 min, or 5-10 images in a single PDF)",
-    "dueDate": "Priority deadline: Feb 1, Regular deadline: Mar 1",
+    "dueDate": "Mar 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/art.html",
     "region": [
       "East Coast"
@@ -4640,7 +4642,7 @@
       "Program/Camp"
     ],
     "eligibility": "Current juniors (Class of 2027) or seniors (Class of 2026); at least 16 years old by program start; sophomores not eligible",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Jan 16; Deadline: Apr 1",
     "website": "https://summer.yale.edu/apply/pre-college-students",
     "region": [
       "East Coast"
@@ -4654,7 +4656,7 @@
       "Various Subjects"
     ],
     "format": [
-      "Class"
+      "Program/Camp"
     ],
     "eligibility": "students at least 16;current sophomores or juniors;strong academic record",
     "dueDate": "Mar 1",
@@ -4774,6 +4776,25 @@
     "website": "https://aimi.stanford.edu/education/aimi-summer-bootcamp",
     "region": [
       "Virtual"
+    ]
+  },
+  {
+    "title": "NASA Internships - NASA",
+    "summary": "NASA Internships provide high-school students hands-on experience working alongside scientists and engineers at NASA centers. Interns assist with research and engineering projects and develop professional skills.",
+    "location": "Various NASA centers across the U.S.",
+    "category": [
+      "Science",
+      "Engineering",
+      "Computer Science"
+    ],
+    "format": [
+      "Internship"
+    ],
+    "eligibility": "High school students aged 16+ who are U.S. citizens",
+    "dueDate": "Not yet updated",
+    "website": "https://intern.nasa.gov/",
+    "region": [
+      "Various"
     ]
   },
   {
@@ -5012,7 +5033,7 @@
       "Program/Camp"
     ],
     "eligibility": "students aged 16 or older;current sophomores or juniors;B average",
-    "dueDate": "Applications Open: Dec 1; Deadline: TBD",
+    "dueDate": "Mar 1",
     "website": "https://design.cmu.edu/programs/pre",
     "region": [
       "East Coast"
@@ -5048,7 +5069,7 @@
       "Program/Camp"
     ],
     "eligibility": "Must be at least 16 years old by June 26, 2027; current high school sophomore or junior at time of application; academic average of B (3.0/4.0) or better",
-    "dueDate": "Priority deadline: Feb 1, Regular deadline: Mar 1",
+    "dueDate": "Mar 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html",
     "region": [
       "East Coast"
@@ -5066,7 +5087,7 @@
       "Program/Camp"
     ],
     "eligibility": "students aged 16 or older who are current sophomores or juniors;B average;interest in software visual arts music or production",
-    "dueDate": "Priority deadline: Feb 1, Regular deadline: Mar 1",
+    "dueDate": "Mar 1",
     "website": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
     "region": [
       "East Coast"
@@ -5126,25 +5147,6 @@
     "website": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
     "region": [
       "CA"
-    ]
-  },
-  {
-    "title": "Summer Student Program - Jackson Laboratory",
-    "summary": "The Jackson Laboratory’s Summer Student Program offers a 10-week paid research fellowship where students conduct genetics and genomics research under the guidance of laboratory mentors. Participants complete independent research projects and present their findings at the program’s end.",
-    "location": "Bar Harbor ME or Farmington CT",
-    "category": [
-      "Biology",
-      "Health/Medicine",
-      "Science"
-    ],
-    "format": [
-      "Research"
-    ],
-    "eligibility": "Program page now describes this as for undergraduate students only ('A program for undergraduate students...'); no mention of high schoolers remains. Verify whether this still belongs in a high-school-focused list.",
-    "dueDate": "Applications Open: November; Deadline: Jan 25",
-    "website": "https://www.jax.org/education-and-learning/high-school-students-and-undergraduates/learn-earn-and-explore",
-    "region": [
-      "East Coast"
     ]
   },
   {
@@ -5523,7 +5525,7 @@
       "Class"
     ],
     "eligibility": "High school students entering grades 9-12 (ages 13-18); no strict GPA requirement, though 3.0+ is recommended; interest in linguistics",
-    "dueDate": "Applications Open: Feb 1; Deadline: TBD",
+    "dueDate": "Applications Open: Feb 1; Deadline: May 8",
     "website": "https://linguistics.osu.edu/undergrad/sliys",
     "region": [
       "East Coast"
