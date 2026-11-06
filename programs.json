@@ -2549,25 +2549,6 @@
     ]
   },
   {
-    "title": "Embry Riddle Science/Engineering Camps - Embry Riddle Aeronautical University",
-    "summary": "Embry Riddle Aeronautical University hosts overnight and day camps at its Daytona Beach Florida and Prescott Arizona campuses where students explore aviation mechanical engineering robotics and space topics. Campers live in dorms or commute for weeklong sessions supervised by counselors.",
-    "location": "Daytona Beach FL;Prescott AZ",
-    "category": [
-      "Engineering",
-      "Computer Science",
-      "Various Subjects"
-    ],
-    "format": [
-      "Program/Camp"
-    ],
-    "eligibility": "Middle and high school students;Age requirements vary by camp",
-    "dueDate": "Not yet updated",
-    "website": "https://summercamps.erau.edu/camps",
-    "region": [
-      "Various"
-    ]
-  },
-  {
     "title": "Hampshire College Summer Studies in Mathematics",
     "summary": "Hampshire College Summer Studies in Mathematics is a six-week residential program for mathematically talented high-school students. Participants explore college-level math through problem-solving sessions  seminars and collaborative research.",
     "location": "Amherst MA (Hampshire College closing permanently Dec 2026; HCSSiM continuing as separate entity, relocating to a new campus for 2027 - location TBA, more info expected late 2026)",
@@ -4064,8 +4045,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "Domestic students currently in junior year of high school, passionate about the sciences",
-    "dueDate": "Applications Open: Dec 17; Deadline: TBD",
+    "eligibility": "Domestic student (U.S. citizen or legal permanent resident) currently in junior year of high school, with a competitive GPA (A- to A range) and a strong interest in the sciences.",
+    "dueDate": "Applications Open: Dec 17; Deadline: Feb 3",
     "website": "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/",
     "region": [
       "East Coast"
@@ -4790,9 +4771,9 @@
     "format": [
       "Internship"
     ],
-    "eligibility": "High school students aged 16+ who are U.S. citizens",
-    "dueDate": "Not yet updated",
-    "website": "https://intern.nasa.gov/",
+    "eligibility": "High school seniors (grade 12) may apply for the summer session immediately following graduation; applicants must be U.S. citizens, at least 18 by the session start date, with a minimum 3.0 GPA.",
+    "dueDate": "Mar 1",
+    "website": "https://www.nasa.gov/learning-resources/internship-programs/",
     "region": [
       "Various"
     ]
