@@ -1179,8 +1179,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Students entering 10th-12th grade; beginner+ level, interest in games/game development. No application required (enrollment via Ideal-Logic portal). As of this check (10/31/26), the page still reflects the 2025 cycle ('Enrollment for Summer 2025 Now Open!'); 2026/2027 cycle not yet posted.",
-    "dueDate": "Not yet announced",
+    "eligibility": "Students entering 10th-12th grade (Fall 2027); beginner+ level, no prior programming experience required. No application required — enrollment is first-come via the Ideal-Logic portal.",
+    "dueDate": "Applications Open: Jan 31; Deadline: TBD",
     "website": "https://www.cs.utexas.edu/engage/k-12-outreach/academies/game-development",
     "region": [
       "TX"
@@ -2722,7 +2722,7 @@
       "Program/Camp"
     ],
     "eligibility": "Ages 14-18 (Early College Program); ages 15-18 for Summer Institutes (ECPSI/ECPOSI)",
-    "dueDate": "Applications Open: Nov 1; Deadline: TBD",
+    "dueDate": "Not yet announced",
     "website": "https://www.saic.edu/continuing-studies/high-school",
     "region": [
       "Virtual"
@@ -3651,7 +3651,7 @@
   },
   {
     "title": "Inspiring Future Scientists through Shadowing (IFSS) - Stanford",
-    "summary": "A weeklong shadowing program at Stanford University that lets high school students observe clinical research and scientific investigations to inspire careers in biomedical science.",
+    "summary": "A two-week shadowing program at Stanford University where high school students observe and talk with multiple chemistry graduate researchers to explore different areas of scientific research. Unlike project-based programs, it's built around shadowing several researchers rather than one single project.",
     "location": "Stanford CA",
     "category": [
       "Health/Medicine",
@@ -4941,7 +4941,7 @@
       "Class"
     ],
     "eligibility": "Students in 10th or 11th grade at time of application, with exceptional interest in mathematics; should have experience writing/reading mathematical proofs and strong mastery of high school geometry and algebra (familiarity with number theory/modular arithmetic suggested); must be at least 15 during the program; residential session limited to minors (under 18 during program), online session open to ages 15+ including 18+.",
-    "dueDate": "Not yet announced",
+    "dueDate": "Jan 7",
     "website": "https://sumac.spcs.stanford.edu/",
     "region": [
       "CA"
