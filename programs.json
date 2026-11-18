@@ -251,7 +251,7 @@
       "Program/Camp"
     ],
     "eligibility": "High school students in grades 9-12 (as of Spring 2026) who are curious about science and interested in health careers (e.g., doctor, nurse, PA, public health).",
-    "dueDate": "Applications Open: Dec 7, 2026; Deadline: TBD",
+    "dueDate": "Applications Open: Jan 4; Deadline: TBD",
     "website": "https://www.ucsc-extension.edu/premed-postbacc/high-school-pathways",
     "region": [
       "CA"
@@ -290,14 +290,20 @@
   },
   {
     "title": "QCaMP",
-    "summary": "",
-    "location": "",
-    "category": [],
-    "format": [],
-    "eligibility": "",
-    "dueDate": "Not yet updated",
+    "summary": "QCaMP (Quantum, Computing, Mathematics, & Physics) is a free day camp from the Quantum Systems Accelerator that introduces high school students to computing fundamentals and hands-on quantum physics, with a separate track for educators.",
+    "location": "Berkeley, CA & Albuquerque, NM",
+    "category": [
+      "Engineering"
+    ],
+    "format": [
+      "Program/Camp"
+    ],
+    "eligibility": "Students must be at least 16 by the first day of camp and live near Berkeley, CA or Albuquerque, NM; basic algebra background expected.",
+    "dueDate": "Not yet announced",
     "website": "https://quantumsystemsaccelerator.org/ecosystem/qcamp/",
-    "region": []
+    "region": [
+      "CA / Southwest"
+    ]
   },
   {
     "title": "SHAPE (Summer High School Academic Program for Engineers) - Columbia Engineering",
@@ -1300,7 +1306,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school juniors and seniors; minimum age 16 at program start; no Tri-Valley residency requirement; day program, no housing provided",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Nov 11; Deadline: Feb 1",
     "website": "https://med.stanford.edu/shvca/home.html",
     "region": [
       "CA"
@@ -3378,8 +3384,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school sophomores; juniors and seniors",
-    "dueDate": "Applications Open: Nov 16; Deadline: TBD",
+    "eligibility": "Rising high school sophomores, juniors, and seniors; minimum 2.0 GPA recommended (general Summer High School Programs criteria).",
+    "dueDate": "Applications Open: Nov 16; Priority deadline: Mar 1; Regular deadline: May 1",
     "website": "https://summer.georgetown.edu/programs/SHS03/business-academy",
     "region": [
       "East Coast"
@@ -4838,8 +4844,8 @@
     "format": [
       "Research"
     ],
-    "eligibility": "Current high school juniors only (ages 15–18 during the program; must complete required math/science coursework by June). Need-blind application process welcoming first-generation, rural, and underrepresented STEM applicants.",
-    "dueDate": "Applications Open: Dec 2026; Deadline: TBD",
+    "eligibility": "Current high school juniors only; must be at least 15 and not yet 19 during the program (sophomores are not eligible, even with matching coursework). Need-blind application process welcoming first-generation, rural, and underrepresented STEM applicants.",
+    "dueDate": "Applications Open: Jan 4; Deadline: TBD",
     "website": "https://ssp.org/application/",
     "region": [
       "Various"
