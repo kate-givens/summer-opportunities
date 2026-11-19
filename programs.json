@@ -1410,7 +1410,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Rising high school juniors and seniors, and undergraduate pre-medical students",
+    "eligibility": "Rising high school juniors and seniors (16+ by session start), and undergraduate pre-medical students.",
     "dueDate": "Not yet announced",
     "website": "https://med.stanford.edu/medcsi.html",
     "region": [
@@ -1428,8 +1428,8 @@
     "format": [
       "Class"
     ],
-    "eligibility": "Minimum age 15 at program start; COVID-19 vaccination required; high school transcript submission required",
-    "dueDate": "Not yet announced",
+    "eligibility": "Students must be at least 15 years old at the start of the program.",
+    "dueDate": "Applications Open: Jan 4; Deadline: Mar 12",
     "website": "https://med.stanford.edu/anatomy/education/casp.html",
     "region": [
       "CA"
@@ -2094,7 +2094,7 @@
   },
   {
     "title": "Marine Science Hawaii - UCSD",
-    "summary": "",
+    "summary": "A 10-day marine science program on O'ahu, Hawai'i for high school students (grades 9-12), combining coursework and field experience through UC San Diego Extended Studies. Participants earn pre-college UC credit while staying at a residential camp near the coast.",
     "location": "HI",
     "category": [
       "Biology"
@@ -2504,7 +2504,7 @@
       "Class"
     ],
     "eligibility": "Grades 9-12; U.S. citizens or permanent residents (green card) living in the U.S.",
-    "dueDate": "Not yet announced",
+    "dueDate": "Applications Open: Mar 1; Deadline: TBD",
     "website": "https://explore.stanford.edu/",
     "region": [
       "CA"
@@ -3126,8 +3126,8 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "Current 8th–12th graders; minimum 2.0 GPA; personal statement and school-official reviewer form required",
-    "dueDate": "Not yet announced",
+    "eligibility": "Current 8th-12th graders with a minimum 2.0 GPA.",
+    "dueDate": "Priority deadline: Mar 1, Regular deadline: May 1",
     "website": "https://summer.georgetown.edu/programs/SHS10/entrepreneurship-academy?utm_source=Google&utm_medium=Search&utm_campaign=FY21_Search_SPHS&gclid=CjwKCAjwgZuDBhBTEiwAXNofRA0kwtuGUucz5ANkmYm_VSA2rkyWzyxwDO7glAxoqaIEUFQFt1zeHxoClTQQAvD_BwE",
     "region": [
       "East Coast"
@@ -3820,7 +3820,7 @@
     "format": [
       "Program/Camp"
     ],
-    "eligibility": "High school students (particularly underrepresented groups) with strong math ability",
+    "eligibility": "High school students (not entering 9th grade or graduating seniors), ages 14-18, who are US citizens or attend a US high school, with strong math backgrounds through precalculus.",
     "dueDate": "Applications Open: Early Jan 2027; Deadline: TBD",
     "website": "http://mathroots.mit.edu/",
     "region": [
