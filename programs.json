@@ -274,7 +274,7 @@
   },
   {
     "title": "Biotech Summer Experience - Lawrence Livermore National Laboratory",
-    "summary": "A two-week, in-person program at Lawrence Livermore National Laboratory in which high school students conduct an authentic molecular biology and bioinformatics research project, sequencing genes from the aquatic plant duckweed. Students perform plasmid DNA isolation, PCR, restriction digests, and gel electrophoresis, and their sequences are submitted to the GenBank DNA repository.",
+    "summary": "A two-week, in-person program at Lawrence Livermore National Laboratory in which high school students conduct an authentic molecular biology and bioinformatics research project.",
     "location": "Livermore, CA",
     "category": [
       "Technology",
@@ -1579,7 +1579,7 @@
   },
   {
     "title": "Architecture Career Workshop - CalPoly",
-    "summary": "A four-week residential summer program at Cal Poly San Luis Obispo for high schoolers exploring architecture and design. Students complete hands-on studio projects covering design fundamentals, sketching, and model-making, led by architecture faculty and current architecture-student counselors, with a commuter option for local students. The program ends with a design portfolio and a certificate of completion.",
+    "summary": "A four-week residential summer program at Cal Poly San Luis Obispo for high schoolers exploring architecture and design. Students complete hands-on studio projects covering design fundamentals, sketching, and model-making, led by architecture faculty and current architecture-student counselors. The program ends with a design portfolio and a certificate of completion.",
     "location": "San Luis Obispo CA",
     "category": [
       "Art/Design",
@@ -1597,7 +1597,7 @@
   },
   {
     "title": "Mock Trial Summer Camp - University of Pacific",
-    "summary": "Two-week interactive mock trial camp at University of the Pacific (Session 2) run by the McGeorge Mock Trial Team; students work through simulated case files and courtroom exercises.",
+    "summary": "Two-week interactive mock trial camp at University of the Pacific run by the McGeorge Mock Trial Team; students work through simulated case files and courtroom exercises.",
     "location": "Stockton, CA",
     "category": [
       "Various Subjects",
@@ -3421,7 +3421,7 @@
       "Program/Camp"
     ],
     "eligibility": "Rising high school sophomores, juniors, and seniors; international students accepted (video interview; TOEFL iBT 100+ or IELTS 7+ required for non-native English speakers)",
-    "dueDate": "Not yet announced",
+    "dueDate": "May 1",
     "website": "https://www.lebow.drexel.edu/academics/pre-college-programs/camp-business",
     "region": [
       "East Coast"
@@ -5112,7 +5112,7 @@
   },
   {
     "title": "Berklee Aspire Music Performance Intensive - Berklee College of Music",
-    "summary": "Berklee’s Aspire: Five‑Week Music Performance Intensive draws musicians ages 15+ from around the world for immersive study of performance  theory and improvisation. Students receive one‑on‑one instruction  join ensembles and may earn college credit during the July 5–Aug 7 program.",
+    "summary": "Berklee’s Aspire: Five‑Week Music Performance Intensive draws musicians ages 15+ from around the world for immersive study of performance  theory and improvisation. Students receive one‑on‑one instruction  join ensembles and may earn college credit.",
     "location": "Boston MA",
     "category": [
       "Music"
